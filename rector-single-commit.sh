@@ -40,10 +40,10 @@ fi
 # "bash" works fine
 rules=$(
     "$rectorPath" process --dry-run --clear-cache --output-format=json\
-        | jq -r '.file_diffs[].applied_rectors[]'\
+        | jq -r '.file_diffs[]?.applied_rectors[]'\
         | sort | uniq
-     )
-numRules=$(echo "$rules"|wc -l)
+)
+numRules=$(echo -n "$rules"|wc -l)
 if [ "$numRules" -eq 0 ]; then
     echo "Nothing to do; the code is clean"
     exit
