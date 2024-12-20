@@ -15,6 +15,15 @@ Run it with an optional git commit message prefix::
 It will then create a single git commit for each rector rule.
 
 
+Commit messages
+---------------
+``rector-single-commit.sh`` expects a commit message text file for each
+rule in the ``messages/`` directory.
+
+If such a file does not exist, it will print the expected file name
+and stop processing.
+
+
 Dependencies
 ------------
 - ``bash``
