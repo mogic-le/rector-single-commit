@@ -23,6 +23,11 @@ rule in the ``messages/`` directory.
 If such a file does not exist, it will print the expected file name
 and stop processing.
 
+The `find a rule`__ tool on rector helps to get a short description
+for a given rule.
+
+__ https://getrector.com/find-rule
+
 
 Dependencies
 ------------
