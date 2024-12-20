@@ -52,6 +52,6 @@ fi
 echo "Rector wants to apply $numRules rules to the code"
 for rule in $rules; do
     echo Applying rule: $rule
-    "$rectorPath" process --only="$rule"
+    "$rectorPath" process --clear-cache --only="$rule"
     git commit -am "$commitMessagePrefix$rule"
 done
