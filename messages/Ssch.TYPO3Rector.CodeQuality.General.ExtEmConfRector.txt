@@ -1,0 +1,1 @@
+Reconfigure ext_emconf.php files

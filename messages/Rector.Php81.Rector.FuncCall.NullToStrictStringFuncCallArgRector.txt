@@ -1,0 +1,1 @@
+Change "null" to empty string for strictly defined function arguments

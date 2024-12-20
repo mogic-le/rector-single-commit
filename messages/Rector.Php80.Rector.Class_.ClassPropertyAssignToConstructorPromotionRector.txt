@@ -1,0 +1,1 @@
+Convert simple property initialization to constructor promotion

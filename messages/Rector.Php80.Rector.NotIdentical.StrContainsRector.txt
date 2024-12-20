@@ -1,0 +1,1 @@
+Replace strpos() !== false and strstr() with str_contains()
