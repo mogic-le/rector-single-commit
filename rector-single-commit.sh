@@ -70,5 +70,8 @@ for rule in $rules; do
     commitMessage+="${nl}${nl}Applied rule:${nl}$rule"
 
     "$rectorPath" process --clear-cache --only="$rule"
-    git commit -am "$commitMessage"
+    git commit\
+        --all\
+        --author='Rector <rector@getrector.com>'\
+        --message="$commitMessage"
 done
