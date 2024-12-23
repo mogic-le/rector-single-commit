@@ -47,6 +47,13 @@ for a given rule.
 __ https://getrector.com/find-rule
 
 
+Environment variables
+---------------------
+
+``$RECTOR_PATH``
+  Use the path given in this variable instead of ``vendor/bin/rector``.
+
+
 Dependencies
 ------------
 - ``bash``
