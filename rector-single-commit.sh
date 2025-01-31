@@ -69,7 +69,7 @@ for rule in $rules; do
     commitMessage="$commitMessagePrefix$messageFileContents"
     commitMessage+="${nl}${nl}Applied rule:${nl}$rule"
 
-    "$rectorPath" process --clear-cache --only="$rule"
+    "$rectorPath" process --clear-cache --no-diffs --only="$rule"
 
     if [ -z "$(git status --porcelain)" ]; then
         echo "WARN: No code changes" >&2
