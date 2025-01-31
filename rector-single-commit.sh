@@ -43,13 +43,13 @@ rules=$(
     "$rectorPath" process --dry-run --clear-cache --output-format=json\
         | jq -r '.file_diffs[]?.applied_rectors[]'\
         | sort | uniq
-)
-numRules=$(echo -n "$rules"|wc -l)
-if [ "$numRules" -eq 0 ]; then
+     )
+if [ -z "$rules" ]; then
     echo "Nothing to do; the code is clean"
     exit
 fi
 
+numRules=$(echo "$rules"|wc -l)
 echo "Rector wants to apply $numRules rules to the code"
 nl="
 "
