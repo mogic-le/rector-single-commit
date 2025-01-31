@@ -70,8 +70,16 @@ for rule in $rules; do
     commitMessage+="${nl}${nl}Applied rule:${nl}$rule"
 
     "$rectorPath" process --clear-cache --only="$rule"
+
+    if [ -z "$(git status --porcelain)" ]; then
+        echo "WARN: No code changes" >&2
+        continue
+    fi
+
     git commit\
         --all\
         --author='Rector <rector@getrector.com>'\
         --message="$commitMessage"
 done
+
+echo "Complete"
