@@ -1,0 +1,1 @@
+Add "void" return type to functions without return values
