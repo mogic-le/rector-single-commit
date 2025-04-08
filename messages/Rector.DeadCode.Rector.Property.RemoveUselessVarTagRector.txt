@@ -1,0 +1,1 @@
+Remove unused @var annotation for properties and class constants

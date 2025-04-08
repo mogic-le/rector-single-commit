@@ -1,0 +1,1 @@
+Remove unused "if" check to non-empty array before foreach of the array
