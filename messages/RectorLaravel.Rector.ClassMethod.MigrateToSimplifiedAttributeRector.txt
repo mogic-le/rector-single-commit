@@ -1,0 +1,1 @@
+Migrate to the new Model attributes syntax
