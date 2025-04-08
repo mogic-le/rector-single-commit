@@ -1,0 +1,1 @@
+Change get_class($object) to faster $object::class

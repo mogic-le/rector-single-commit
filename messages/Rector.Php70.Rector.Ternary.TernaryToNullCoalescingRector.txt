@@ -1,0 +1,1 @@
+Change unneeded null check to ?? operator

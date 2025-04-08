@@ -1,0 +1,1 @@
+Change function calls into static method calls

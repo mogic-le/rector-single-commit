@@ -1,0 +1,1 @@
+Add missing parameter based on parent class method

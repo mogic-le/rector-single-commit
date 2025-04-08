@@ -1,0 +1,1 @@
+Change $this->call() to static method to static call

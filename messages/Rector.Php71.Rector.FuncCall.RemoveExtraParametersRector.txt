@@ -1,0 +1,1 @@
+Remove unneeded extra method parameters

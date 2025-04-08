@@ -1,0 +1,1 @@
+If "null" valued parameter calls to get_class()
