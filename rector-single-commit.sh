@@ -61,6 +61,8 @@ for rule in $rules; do
     if [ ! -f "$messageFilePath" ]; then
         echo "No commit message file for rule" >&2
         echo " $rule" >&2
+        echo -n " https://getrector.com/find-rule?query="
+        echo "$rule" | sed 's/^.*\\//'
         echo " $messageFilePath" >&2
         exit 3
     fi
