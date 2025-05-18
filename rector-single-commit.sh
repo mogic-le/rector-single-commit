@@ -6,7 +6,7 @@
 # - rector (in vendor/bin or RECTOR_PATH)
 set -e
 
-if [ "$1" = "-h" -o "$1" = "--help" ]; then
+if [ "$1" = "-h" ] || [ "$1" = "--help" ]; then
     echo "rector-single-commit.sh [commit message prefix]"
     echo "Options:"
     echo " -h, --help: Show help"
