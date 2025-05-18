@@ -22,7 +22,7 @@ if [ ! -x "$rectorPath" ]; then
     exit 1
 fi
 
-if ! command -v jq 2>&1 > /dev/null; then
+if ! command -v jq > /dev/null 2>&1; then
     echo "jq executable not found" >&2
     exit 1
 fi
