@@ -1,0 +1,1 @@
+Simplify `is_array` and `empty` functions combination into a simple identical check for an empty array

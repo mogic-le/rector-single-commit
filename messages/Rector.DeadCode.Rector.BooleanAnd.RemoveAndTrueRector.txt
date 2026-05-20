@@ -1,0 +1,1 @@
+Remove `and true` that has no added value

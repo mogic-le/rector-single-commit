@@ -1,0 +1,1 @@
+Simplify `foreach` loops into `in_array` when possible

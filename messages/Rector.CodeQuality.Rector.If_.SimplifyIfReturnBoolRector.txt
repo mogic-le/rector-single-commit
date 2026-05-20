@@ -1,0 +1,1 @@
+Shortens if return false/true to direct return

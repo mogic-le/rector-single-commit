@@ -1,0 +1,1 @@
+Wrap encapsed variables in curly braces

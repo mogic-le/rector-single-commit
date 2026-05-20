@@ -1,0 +1,1 @@
+Remove dead instanceof check on type hinted property

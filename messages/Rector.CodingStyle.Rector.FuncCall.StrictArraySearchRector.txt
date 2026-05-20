@@ -1,0 +1,1 @@
+Makes array_search search for identical elements

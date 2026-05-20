@@ -1,0 +1,1 @@
+Add empty new line after different-type statements to improve code readability

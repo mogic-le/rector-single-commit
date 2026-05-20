@@ -1,0 +1,1 @@
+Add #[\ReturnTypeWillChange] attribute to configured instanceof class with methods

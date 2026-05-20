@@ -1,0 +1,1 @@
+Change while null compare to strict instanceof check

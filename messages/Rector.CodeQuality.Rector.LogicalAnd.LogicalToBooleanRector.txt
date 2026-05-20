@@ -1,0 +1,1 @@
+Change OR, AND to ||, && with more common understanding

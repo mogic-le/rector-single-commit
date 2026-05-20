@@ -1,0 +1,1 @@
+Convert multiple nested function calls in single line to |> pipe operator

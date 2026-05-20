@@ -1,0 +1,1 @@
+Change `RectorPrefix202604\Nette\Utils\Json::encode()` and `decode()` to named args

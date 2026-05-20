@@ -1,0 +1,1 @@
+Replace defined old properties by new ones

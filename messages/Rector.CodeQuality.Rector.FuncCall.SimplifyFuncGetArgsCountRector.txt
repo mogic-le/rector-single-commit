@@ -1,0 +1,1 @@
+Simplify count of func_get_args() to func_num_args()

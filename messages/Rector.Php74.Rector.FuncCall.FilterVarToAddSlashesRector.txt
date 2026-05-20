@@ -1,0 +1,1 @@
+Change filter_var() with slash escaping to addslashes()

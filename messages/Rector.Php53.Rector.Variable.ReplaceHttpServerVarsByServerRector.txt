@@ -1,0 +1,1 @@
+Rename old $HTTP_* variable names to new replacements

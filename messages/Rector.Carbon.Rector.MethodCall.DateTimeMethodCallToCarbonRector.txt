@@ -1,0 +1,1 @@
+Convert `new DateTime()` with a method call to `Carbon::*()`

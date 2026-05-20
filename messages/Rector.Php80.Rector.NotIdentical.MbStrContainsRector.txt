@@ -1,0 +1,1 @@
+Replace mb_strpos() !== false and mb_strstr()  with str_contains()

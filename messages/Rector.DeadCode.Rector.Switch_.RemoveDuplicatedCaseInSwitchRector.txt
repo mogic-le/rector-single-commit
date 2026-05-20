@@ -1,0 +1,1 @@
+2 following switch keys with identical  will be reduced to one result

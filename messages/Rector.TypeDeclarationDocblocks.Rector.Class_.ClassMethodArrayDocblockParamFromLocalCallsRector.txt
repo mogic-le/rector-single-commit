@@ -1,0 +1,1 @@
+Add @param array docblock to a class method based on local call types

@@ -1,0 +1,1 @@
+Changes if/else to spaceship <=> where useful

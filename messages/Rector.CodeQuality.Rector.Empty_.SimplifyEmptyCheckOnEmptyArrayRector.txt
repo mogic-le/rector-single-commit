@@ -1,0 +1,1 @@
+Simplify empty() functions calls on empty arrays

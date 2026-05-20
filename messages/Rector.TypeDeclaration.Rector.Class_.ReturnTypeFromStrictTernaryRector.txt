@@ -1,0 +1,1 @@
+Add method return type based on strict ternary values

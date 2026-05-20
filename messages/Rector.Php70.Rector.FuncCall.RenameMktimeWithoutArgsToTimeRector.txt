@@ -1,0 +1,1 @@
+Renames mktime() without arguments to time()

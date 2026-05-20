@@ -1,0 +1,1 @@
+Changes `pow(val, val2)` to `**` (exp) parameter

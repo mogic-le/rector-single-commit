@@ -1,0 +1,1 @@
+Add known return type to arrow function

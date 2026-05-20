@@ -1,0 +1,1 @@
+Change empty() check to explicit strict comparisons

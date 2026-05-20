@@ -1,0 +1,1 @@
+Add simple @return array docblock based on direct single level direct return of []

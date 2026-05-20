@@ -1,0 +1,1 @@
+Changes use of function calls to use constants

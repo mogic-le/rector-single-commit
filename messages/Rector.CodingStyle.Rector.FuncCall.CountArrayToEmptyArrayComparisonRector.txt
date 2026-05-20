@@ -1,0 +1,1 @@
+Change count array comparison to empty array comparison to improve performance

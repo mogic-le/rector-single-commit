@@ -1,0 +1,1 @@
+Change property modifier from `var` to `public`

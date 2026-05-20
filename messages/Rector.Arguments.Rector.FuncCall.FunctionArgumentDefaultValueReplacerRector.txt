@@ -1,0 +1,1 @@
+Streamline the operator arguments of `version_compare` function

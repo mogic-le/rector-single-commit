@@ -1,0 +1,1 @@
+Add missing return type declaration based on parent class method

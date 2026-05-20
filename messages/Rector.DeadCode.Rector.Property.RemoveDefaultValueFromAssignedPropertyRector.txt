@@ -1,0 +1,1 @@
+Remove redundant default value from property that is always assigned in the constructor

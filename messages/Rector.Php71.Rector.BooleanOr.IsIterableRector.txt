@@ -1,0 +1,1 @@
+Changes is_array + Traversable check to is_iterable

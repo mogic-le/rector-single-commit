@@ -1,0 +1,1 @@
+Change count() in for function to own variable

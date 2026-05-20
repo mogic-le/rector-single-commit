@@ -1,0 +1,1 @@
+Narrow ternary with implode and empty string to direct implode, as same result

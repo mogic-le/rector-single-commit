@@ -1,0 +1,1 @@
+Split 2 assigns with "and" to separate lines

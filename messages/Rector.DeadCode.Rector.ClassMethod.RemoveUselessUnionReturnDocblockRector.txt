@@ -1,0 +1,1 @@
+Remove @return union docblock that is broader than a more specific, non-array native return type

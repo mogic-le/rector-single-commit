@@ -1,0 +1,1 @@
+Add return type based on strict parameter type

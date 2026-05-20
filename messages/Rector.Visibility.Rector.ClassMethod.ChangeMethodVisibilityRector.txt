@@ -1,0 +1,1 @@
+Change visibility of method from parent class

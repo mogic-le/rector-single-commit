@@ -1,0 +1,1 @@
+Use `foreach()` instead of deprecated `each()`

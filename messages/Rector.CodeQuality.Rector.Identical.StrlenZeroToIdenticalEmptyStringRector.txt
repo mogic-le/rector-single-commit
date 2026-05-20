@@ -1,0 +1,1 @@
+Changes strlen comparison to 0 to direct empty string compare

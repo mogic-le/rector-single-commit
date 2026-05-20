@@ -1,0 +1,1 @@
+Add typed property from assigned types

@@ -1,0 +1,1 @@
+Change `get_called_class()` to `static::class` on non-final class

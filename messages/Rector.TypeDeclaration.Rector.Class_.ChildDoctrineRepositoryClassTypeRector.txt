@@ -1,0 +1,1 @@
+Add return type to classes that extend Doctrine\ORM\EntityRepository based on return Doctrine method names

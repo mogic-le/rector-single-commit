@@ -1,0 +1,1 @@
+Change protected class method to private if possible

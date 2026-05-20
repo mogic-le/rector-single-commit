@@ -1,0 +1,1 @@
+Replace property declaration of new state with direct new

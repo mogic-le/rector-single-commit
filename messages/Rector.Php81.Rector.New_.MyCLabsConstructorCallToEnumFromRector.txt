@@ -1,0 +1,1 @@
+Refactor MyCLabs Enum using constructor for instantiation

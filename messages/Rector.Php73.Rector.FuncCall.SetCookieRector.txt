@@ -1,0 +1,1 @@
+Convert setcookie argument to PHP7.3 option array

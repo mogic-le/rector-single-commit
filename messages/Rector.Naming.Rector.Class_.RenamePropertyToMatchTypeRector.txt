@@ -1,0 +1,1 @@
+Rename property and method param to match its type

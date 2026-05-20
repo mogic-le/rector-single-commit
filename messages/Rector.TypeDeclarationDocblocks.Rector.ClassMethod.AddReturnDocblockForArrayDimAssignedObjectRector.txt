@@ -1,0 +1,1 @@
+Add @return docblock array of objects, that are dim assigned to returned variable

@@ -1,0 +1,1 @@
+Add `static` visibility to `__set_state()` methods

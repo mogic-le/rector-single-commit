@@ -1,0 +1,1 @@
+Convert `time()` function call to `Carbon::now()->getTimestamp()`

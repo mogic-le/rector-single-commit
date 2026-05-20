@@ -1,0 +1,1 @@
+Change restore_include_path() to ini_restore("include_path")

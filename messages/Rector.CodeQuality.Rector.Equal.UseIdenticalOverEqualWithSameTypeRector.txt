@@ -1,0 +1,1 @@
+Use ===/!== over ==/!=, if values have the same type

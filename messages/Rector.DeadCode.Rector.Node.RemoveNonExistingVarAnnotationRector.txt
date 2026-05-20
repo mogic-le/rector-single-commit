@@ -1,0 +1,1 @@
+Removes non-existing @var annotations above the code

@@ -1,0 +1,1 @@
+Add `declare(strict_types=1)` if missing in a namespaced file

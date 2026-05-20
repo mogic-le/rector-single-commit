@@ -1,0 +1,1 @@
+Add "never" return-type for methods that never return anything

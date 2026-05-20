@@ -1,0 +1,1 @@
+Use anonymous functions instead of deprecated create_function()

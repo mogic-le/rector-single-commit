@@ -1,0 +1,1 @@
+Add @var array docblock to a property based on @param of constructor assign

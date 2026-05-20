@@ -1,0 +1,1 @@
+Add closure and arrow function param array type, if dim fetch is used inside

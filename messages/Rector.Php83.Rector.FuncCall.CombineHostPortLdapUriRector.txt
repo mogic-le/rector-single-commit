@@ -1,0 +1,1 @@
+Combine separated host and port on ldap_connect() args

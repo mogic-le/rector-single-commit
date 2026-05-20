@@ -1,0 +1,1 @@
+Change binary operation between some number + string to PHP 7.1 compatible version

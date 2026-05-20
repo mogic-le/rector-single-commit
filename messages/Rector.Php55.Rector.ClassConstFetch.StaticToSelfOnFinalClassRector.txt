@@ -1,0 +1,1 @@
+Change `static::class` to `self::class` on final class

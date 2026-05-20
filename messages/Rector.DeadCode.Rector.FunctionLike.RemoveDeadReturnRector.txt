@@ -1,0 +1,1 @@
+Remove last return in the functions, since does not do anything

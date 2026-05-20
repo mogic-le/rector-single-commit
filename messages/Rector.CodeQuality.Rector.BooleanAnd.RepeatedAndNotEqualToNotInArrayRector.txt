@@ -1,0 +1,1 @@
+Simplify repeated && compare of same value, to ! in_array() call

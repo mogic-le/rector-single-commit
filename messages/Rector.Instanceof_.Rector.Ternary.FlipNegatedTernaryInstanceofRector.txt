@@ -1,0 +1,1 @@
+Flip negated ternary of `instanceof` to direct use of object

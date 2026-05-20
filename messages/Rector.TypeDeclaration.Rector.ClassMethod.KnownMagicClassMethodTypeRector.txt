@@ -1,0 +1,1 @@
+Add known magic methods parameter and return type declarations

@@ -1,0 +1,1 @@
+Replace foreach with boolean assignment and break OR foreach with early return with array_all

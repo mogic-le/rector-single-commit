@@ -1,0 +1,1 @@
+Add @var array property docblock from dim fetches on property fetch assignment

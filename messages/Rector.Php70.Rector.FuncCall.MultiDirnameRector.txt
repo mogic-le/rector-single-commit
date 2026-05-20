@@ -1,0 +1,1 @@
+Changes multiple dirname() calls to one with nesting level

@@ -1,0 +1,1 @@
+Replace ord($str) with ord($str[0])

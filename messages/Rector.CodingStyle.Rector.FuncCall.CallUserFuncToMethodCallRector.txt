@@ -1,0 +1,1 @@
+Refactor `call_user_func()` on known class method to a method call

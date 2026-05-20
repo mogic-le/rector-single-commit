@@ -1,0 +1,1 @@
+Remove constructor that only delegates call to parent class with same values

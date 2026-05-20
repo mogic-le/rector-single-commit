@@ -1,0 +1,1 @@
+Change foreach() items assign to empty array to direct assign

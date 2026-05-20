@@ -1,0 +1,1 @@
+Change configured function calls to new Instance

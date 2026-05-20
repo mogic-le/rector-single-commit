@@ -1,0 +1,1 @@
+Renames value variable name in foreach loop to match method type

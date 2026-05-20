@@ -1,0 +1,1 @@
+Refactor Spatie enum class to native Enum

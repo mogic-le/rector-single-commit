@@ -1,0 +1,1 @@
+Change ternary empty on array property with array dim fetch to coalesce operator

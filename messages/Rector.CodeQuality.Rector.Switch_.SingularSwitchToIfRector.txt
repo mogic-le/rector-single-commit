@@ -1,0 +1,1 @@
+Change `switch` with only 1 check to `if`

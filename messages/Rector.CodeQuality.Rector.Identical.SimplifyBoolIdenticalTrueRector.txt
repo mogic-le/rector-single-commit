@@ -1,0 +1,1 @@
+Simplify bool value compare to true or false

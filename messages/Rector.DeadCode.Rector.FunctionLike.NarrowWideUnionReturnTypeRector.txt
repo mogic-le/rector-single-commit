@@ -1,0 +1,1 @@
+Narrow overly wide union return type declaration if possible

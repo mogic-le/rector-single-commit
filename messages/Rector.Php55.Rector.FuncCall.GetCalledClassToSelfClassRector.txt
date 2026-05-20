@@ -1,0 +1,1 @@
+Change `get_called_class()` to `self::class` on final class

@@ -1,0 +1,1 @@
+Use common != instead of less known <> with same meaning

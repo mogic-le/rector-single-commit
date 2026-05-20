@@ -1,0 +1,1 @@
+Change new Object to static call

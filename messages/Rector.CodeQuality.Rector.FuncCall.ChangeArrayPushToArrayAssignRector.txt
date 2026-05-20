@@ -1,0 +1,1 @@
+Change array_push() to direct variable assign

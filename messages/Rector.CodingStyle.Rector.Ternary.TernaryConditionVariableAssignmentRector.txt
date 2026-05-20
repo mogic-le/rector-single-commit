@@ -1,0 +1,1 @@
+Assign outcome of ternary condition to variable, where applicable

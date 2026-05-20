@@ -1,0 +1,1 @@
+Split multiple inline assigns to each own lines default value, to prevent undefined array issues

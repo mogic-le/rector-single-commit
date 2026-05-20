@@ -1,0 +1,1 @@
+Make first argument of define() string

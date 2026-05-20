@@ -1,0 +1,1 @@
+Remove parameter of method call

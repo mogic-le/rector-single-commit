@@ -1,0 +1,1 @@
+Changes call_user_method()/call_user_method_array() to call_user_func()/call_user_func_array()

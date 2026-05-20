@@ -1,0 +1,1 @@
+Add @return docblock for scalar array from strict array assignments

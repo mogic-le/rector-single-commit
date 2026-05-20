@@ -1,0 +1,1 @@
+Changes use of call to version compare function to use of PHP version constant

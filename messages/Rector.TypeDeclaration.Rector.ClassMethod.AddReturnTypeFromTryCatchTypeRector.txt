@@ -1,0 +1,1 @@
+Add known type declarations based on first-level try/catch return values

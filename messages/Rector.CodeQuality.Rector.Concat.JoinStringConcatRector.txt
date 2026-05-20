@@ -1,0 +1,1 @@
+Joins concat of 2 strings, unless the length is too long

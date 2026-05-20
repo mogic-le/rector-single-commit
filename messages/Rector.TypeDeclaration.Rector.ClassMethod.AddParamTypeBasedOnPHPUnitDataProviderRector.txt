@@ -1,0 +1,1 @@
+Adds param type declaration based on PHPUnit provider return type declaration
