@@ -1,0 +1,1 @@
+Change single return of `||` to early returns

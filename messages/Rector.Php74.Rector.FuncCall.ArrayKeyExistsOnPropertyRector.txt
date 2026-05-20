@@ -1,0 +1,1 @@
+Change array_key_exists() on property to property_exists()

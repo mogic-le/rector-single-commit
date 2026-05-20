@@ -1,0 +1,1 @@
+Change private method param type to strict type, based on passed strict types

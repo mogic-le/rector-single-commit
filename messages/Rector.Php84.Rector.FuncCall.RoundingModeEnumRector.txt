@@ -1,0 +1,1 @@
+Replace rounding mode constant to RoundMode enum in `round()`

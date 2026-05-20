@@ -1,0 +1,1 @@
+Change multiple catch statements of the same exception to a single one `|` separated

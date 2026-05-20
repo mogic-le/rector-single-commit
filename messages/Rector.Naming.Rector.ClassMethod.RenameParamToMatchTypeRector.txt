@@ -1,0 +1,1 @@
+Rename param to match ClassType

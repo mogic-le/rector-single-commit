@@ -1,0 +1,1 @@
+list() assigns variables in reverse order - relevant in array assign

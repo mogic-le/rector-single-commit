@@ -1,0 +1,1 @@
+Add return method return type based on strict typed property

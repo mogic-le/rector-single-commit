@@ -1,0 +1,1 @@
+Remove defined arguments in defined methods and their calls

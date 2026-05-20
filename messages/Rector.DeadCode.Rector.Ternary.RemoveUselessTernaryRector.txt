@@ -1,0 +1,1 @@
+Remove useless ternary if fallback is falsey of left code

@@ -1,0 +1,1 @@
+Remove @var annotation for PHPUnit\Framework\MockObject\MockObject combined with native object type

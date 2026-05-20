@@ -1,0 +1,1 @@
+Adds @return PHPDoc type to Collection property getter by *ToMany annotation/attribute

@@ -1,0 +1,1 @@
+Add explicit return null to method/function that returns a value, but missed main return

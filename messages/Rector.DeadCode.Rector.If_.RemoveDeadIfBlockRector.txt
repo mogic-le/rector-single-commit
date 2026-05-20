@@ -1,0 +1,1 @@
+Remove if, elseif, and else blocks that do not do anything

@@ -1,0 +1,1 @@
+Replace backticks based with shell_exec() function calls

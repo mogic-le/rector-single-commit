@@ -1,0 +1,1 @@
+Transform sequential assignments to pipe operator syntax

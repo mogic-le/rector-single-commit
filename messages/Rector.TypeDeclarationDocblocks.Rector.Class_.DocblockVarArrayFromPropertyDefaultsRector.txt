@@ -1,0 +1,1 @@
+Add @var array docblock to array property based on iterable default value

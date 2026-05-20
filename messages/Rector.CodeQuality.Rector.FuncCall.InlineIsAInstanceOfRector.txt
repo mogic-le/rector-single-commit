@@ -1,0 +1,1 @@
+Change `is_a()` with object and class name check to `instanceof`

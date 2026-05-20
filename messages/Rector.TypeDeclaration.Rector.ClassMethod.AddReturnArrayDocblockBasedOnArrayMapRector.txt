@@ -1,0 +1,1 @@
+Add @return array docblock based on array_map() return strict type

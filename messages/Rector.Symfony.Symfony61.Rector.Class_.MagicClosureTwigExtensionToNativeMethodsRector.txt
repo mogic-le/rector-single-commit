@@ -1,0 +1,1 @@
+Change TwigExtension function/filter magic closures to inlined and clear callables

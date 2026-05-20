@@ -1,0 +1,1 @@
+Convert nested arrow function call to first class callable

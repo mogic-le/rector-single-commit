@@ -1,0 +1,1 @@
+Add property type based on strict setter and getter method

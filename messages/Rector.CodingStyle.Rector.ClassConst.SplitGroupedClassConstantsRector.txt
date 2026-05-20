@@ -1,0 +1,1 @@
+Separate class constant to own lines

@@ -1,0 +1,1 @@
+Replaces `null` return value with empty array in `__debugInfo` methods

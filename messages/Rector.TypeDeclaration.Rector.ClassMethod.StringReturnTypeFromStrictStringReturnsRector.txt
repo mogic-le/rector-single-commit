@@ -1,0 +1,1 @@
+Add string return type based on returned strict string values

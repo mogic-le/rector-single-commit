@@ -1,0 +1,1 @@
+Remove first default switch, that is ignored

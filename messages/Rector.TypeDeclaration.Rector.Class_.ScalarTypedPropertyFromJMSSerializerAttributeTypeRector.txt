@@ -1,0 +1,1 @@
+Add scalar typed property from JMS Serializer Type attribute

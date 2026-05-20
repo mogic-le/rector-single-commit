@@ -1,0 +1,1 @@
+list() cannot split string directly anymore, use str_split()

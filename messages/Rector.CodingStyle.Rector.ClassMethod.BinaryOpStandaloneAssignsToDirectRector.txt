@@ -1,0 +1,1 @@
+Change 2 standalone assigns to variable then binary op to direct binary op

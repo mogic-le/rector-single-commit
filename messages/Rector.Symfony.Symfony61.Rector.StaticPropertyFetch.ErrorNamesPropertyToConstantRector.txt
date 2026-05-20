@@ -1,0 +1,1 @@
+Turns old Constraint::$errorNames properties to use Constraint::ERROR_NAMES instead

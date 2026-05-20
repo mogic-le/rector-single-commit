@@ -1,0 +1,1 @@
+Add bool return type based on strict bool returns type operations

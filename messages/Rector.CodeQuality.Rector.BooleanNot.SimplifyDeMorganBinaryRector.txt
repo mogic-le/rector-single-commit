@@ -1,0 +1,1 @@
+Simplify negated conditions with de Morgan theorem

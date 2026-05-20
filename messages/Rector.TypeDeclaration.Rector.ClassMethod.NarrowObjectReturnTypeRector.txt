@@ -1,0 +1,1 @@
+Narrows return type from generic object or parent class to specific class in final classes/methods

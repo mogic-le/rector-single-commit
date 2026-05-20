@@ -1,0 +1,1 @@
+Remove loop with no body

@@ -1,0 +1,1 @@
+Remove empty Table attribute on entities because it's useless

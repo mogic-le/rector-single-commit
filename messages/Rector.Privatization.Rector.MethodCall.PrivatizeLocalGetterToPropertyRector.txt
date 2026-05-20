@@ -1,0 +1,1 @@
+Privatize getter of local property to property

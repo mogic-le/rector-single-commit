@@ -1,0 +1,1 @@
+Remove useless continue at the end of loops

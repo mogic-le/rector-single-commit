@@ -1,0 +1,1 @@
+Change Symfony controller method injection to direct constructor dependency, to separate params and services clearly

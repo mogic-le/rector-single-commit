@@ -1,0 +1,1 @@
+Flip type control from null compare to use exclusive instanceof object

@@ -1,0 +1,1 @@
+Refactor `call_user_func()` with arrow function to direct call

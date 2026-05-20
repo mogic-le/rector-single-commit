@@ -1,0 +1,1 @@
+constant(Example::class . '::' . $constName) to dynamic class const fetch Example::{$constName}

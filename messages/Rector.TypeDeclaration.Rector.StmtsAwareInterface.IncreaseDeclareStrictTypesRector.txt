@@ -1,0 +1,1 @@
+Add declare strict types to a limited amount of classes at a time, to try out in the wild and increase level gradually

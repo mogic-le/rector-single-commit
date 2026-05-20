@@ -1,0 +1,1 @@
+Remove readonly property visibility on readonly class

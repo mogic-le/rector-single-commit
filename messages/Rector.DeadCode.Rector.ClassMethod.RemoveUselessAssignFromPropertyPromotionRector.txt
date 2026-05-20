@@ -1,0 +1,1 @@
+Remove useless re-assign from property promotion

@@ -1,0 +1,1 @@
+Changes is_array + Countable check to is_countable

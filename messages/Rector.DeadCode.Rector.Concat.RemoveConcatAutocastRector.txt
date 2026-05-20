@@ -1,0 +1,1 @@
+Remove (string) casting when it comes to concat, that does this by default

@@ -1,0 +1,1 @@
+Change hebrevc($str) to nl2br(hebrev($str))

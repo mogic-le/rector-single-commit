@@ -1,0 +1,1 @@
+Remove return $this from setter method, to make explicit setter without return value. Goal is to make code unambiguous with one way to set value

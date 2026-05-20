@@ -1,0 +1,1 @@
+Change `Closure::fromCallable()` to first class callable syntax

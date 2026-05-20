@@ -1,0 +1,1 @@
+Remove parentheses on new method call with parentheses

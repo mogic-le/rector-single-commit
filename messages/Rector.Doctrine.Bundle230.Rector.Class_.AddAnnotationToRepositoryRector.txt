@@ -1,0 +1,1 @@
+Add @extends ServiceEntityRepository annotation to repository classes that extends ServiceEntityRepository or ServiceDocumentRepository

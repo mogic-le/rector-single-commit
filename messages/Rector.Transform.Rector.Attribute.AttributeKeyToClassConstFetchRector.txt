@@ -1,0 +1,1 @@
+Replace key value on specific attribute to class constant

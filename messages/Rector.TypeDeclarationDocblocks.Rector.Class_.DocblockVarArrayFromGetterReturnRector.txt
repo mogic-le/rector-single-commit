@@ -1,0 +1,1 @@
+Add @var array property docblock from its getter @return

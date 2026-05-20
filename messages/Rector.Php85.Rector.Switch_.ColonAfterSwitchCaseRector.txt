@@ -1,0 +1,1 @@
+Change deprecated semicolon to colon after switch case

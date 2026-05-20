@@ -1,0 +1,1 @@
+Add array_filter()/array_map() function closure param type, based on passed iterable

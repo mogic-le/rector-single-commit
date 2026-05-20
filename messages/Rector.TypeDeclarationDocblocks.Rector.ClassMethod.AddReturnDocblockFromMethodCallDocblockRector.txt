@@ -1,0 +1,1 @@
+Add @return docblock based on detailed type of method call docblock

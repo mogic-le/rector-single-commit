@@ -1,0 +1,1 @@
+Turn defined function calls to local method calls

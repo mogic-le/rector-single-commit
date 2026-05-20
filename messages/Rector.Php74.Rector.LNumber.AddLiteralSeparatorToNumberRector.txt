@@ -1,0 +1,1 @@
+Add "_" as thousands separator in numbers for higher or equals to limitValue config

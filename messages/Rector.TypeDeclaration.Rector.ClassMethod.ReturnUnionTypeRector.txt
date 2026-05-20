@@ -1,0 +1,1 @@
+Add union return type

@@ -1,0 +1,1 @@
+Removes Action suffixes from methods in Symfony Controllers

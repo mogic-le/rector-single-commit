@@ -1,0 +1,1 @@
+Decorate read-only anonymous class with `readonly` attribute

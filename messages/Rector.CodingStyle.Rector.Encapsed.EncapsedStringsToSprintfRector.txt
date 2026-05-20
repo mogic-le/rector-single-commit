@@ -1,0 +1,1 @@
+Convert enscaped {$string} to more readable sprintf or concat, if no mask is used

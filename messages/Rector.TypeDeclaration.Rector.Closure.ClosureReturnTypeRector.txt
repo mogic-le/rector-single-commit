@@ -1,0 +1,1 @@
+Add return type to closures based on known return values

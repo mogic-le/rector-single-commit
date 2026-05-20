@@ -1,0 +1,1 @@
+Change if/else value to early return

@@ -1,0 +1,1 @@
+Add Symfony\Component\Console\Attribute\AsCommand to Symfony Commands from configure()

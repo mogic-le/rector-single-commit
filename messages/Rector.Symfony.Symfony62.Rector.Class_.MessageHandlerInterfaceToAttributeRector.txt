@@ -1,0 +1,1 @@
+Replaces MessageHandlerInterface with AsMessageHandler attribute

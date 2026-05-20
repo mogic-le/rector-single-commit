@@ -1,0 +1,1 @@
+Remove useless return Expr in __construct()

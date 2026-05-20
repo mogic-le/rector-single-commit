@@ -1,0 +1,1 @@
+Ensure variable variables are wrapped in curly braces

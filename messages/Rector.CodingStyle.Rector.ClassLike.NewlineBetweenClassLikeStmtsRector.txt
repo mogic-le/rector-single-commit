@@ -1,0 +1,1 @@
+Add new line space between class constants, properties and class methods to make it more readable

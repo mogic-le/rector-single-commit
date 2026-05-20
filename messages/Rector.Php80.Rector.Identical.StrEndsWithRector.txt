@@ -1,0 +1,1 @@
+Change helper functions to `str_ends_with()`

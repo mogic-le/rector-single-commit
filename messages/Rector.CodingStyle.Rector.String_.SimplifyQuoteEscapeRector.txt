@@ -1,0 +1,1 @@
+Prefer quote that are not inside the string

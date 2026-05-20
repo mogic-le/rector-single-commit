@@ -1,0 +1,1 @@
+Remove if/else if they have same content

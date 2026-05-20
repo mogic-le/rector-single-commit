@@ -1,0 +1,1 @@
+Remove initialization with null value from property declarations

@@ -1,0 +1,1 @@
+Change `empty()` on nullable object to instanceof check

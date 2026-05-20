@@ -1,0 +1,1 @@
+Change static call to service method via constructor injection

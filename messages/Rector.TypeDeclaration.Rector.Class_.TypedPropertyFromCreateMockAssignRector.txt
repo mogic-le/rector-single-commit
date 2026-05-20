@@ -1,0 +1,1 @@
+Add "PHPUnit\Framework\MockObject\MockObject" typed property from assigned mock to clearly separate from real objects

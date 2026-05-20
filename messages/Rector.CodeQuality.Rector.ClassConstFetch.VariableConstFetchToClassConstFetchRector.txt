@@ -1,0 +1,1 @@
+Change variable class constant fetch to direct class constant fetch when class or constant target is final

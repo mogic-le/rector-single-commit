@@ -1,0 +1,1 @@
+Add "never" return-type for closure that never return anything

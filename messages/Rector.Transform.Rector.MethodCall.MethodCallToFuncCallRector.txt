@@ -1,0 +1,1 @@
+Change method call to function call

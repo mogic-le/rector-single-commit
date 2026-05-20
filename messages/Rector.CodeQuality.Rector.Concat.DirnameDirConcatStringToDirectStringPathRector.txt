@@ -1,0 +1,1 @@
+Change dirname() and string concat, to __DIR__ and direct string path

@@ -1,0 +1,1 @@
+Applies type hints to array_map closures

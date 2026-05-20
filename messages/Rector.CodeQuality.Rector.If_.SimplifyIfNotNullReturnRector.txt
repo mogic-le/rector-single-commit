@@ -1,0 +1,1 @@
+Changes redundant null check to instant return

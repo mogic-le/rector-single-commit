@@ -1,0 +1,1 @@
+Add typed properties based only on strict constructor types

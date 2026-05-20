@@ -1,0 +1,1 @@
+Remove useless @return void docblock from magic methods __construct, __destruct, and __clone

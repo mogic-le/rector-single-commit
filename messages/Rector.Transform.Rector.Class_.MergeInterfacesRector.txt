@@ -1,0 +1,1 @@
+Merge old interface to a new one, that already has its methods

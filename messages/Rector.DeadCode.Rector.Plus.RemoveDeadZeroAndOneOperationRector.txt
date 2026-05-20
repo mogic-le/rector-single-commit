@@ -1,0 +1,1 @@
+Remove operation with 1 and 0, that have no effect on the value

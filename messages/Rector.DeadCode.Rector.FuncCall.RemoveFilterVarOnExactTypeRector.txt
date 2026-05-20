@@ -1,0 +1,1 @@
+Removes filter_var() calls with exact type

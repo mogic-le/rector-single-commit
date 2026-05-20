@@ -1,0 +1,1 @@
+Make method visibility same as parent one

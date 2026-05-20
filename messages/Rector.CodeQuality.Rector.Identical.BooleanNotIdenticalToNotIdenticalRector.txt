@@ -1,0 +1,1 @@
+Negated identical boolean compare to not identical compare (does not apply to non-bool values)

@@ -1,0 +1,1 @@
+Change unsafe `new static()` to `new self()`

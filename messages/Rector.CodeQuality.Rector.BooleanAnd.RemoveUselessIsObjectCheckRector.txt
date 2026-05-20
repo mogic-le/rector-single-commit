@@ -1,0 +1,1 @@
+Remove useless is_object() check on combine with instanceof check

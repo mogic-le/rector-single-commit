@@ -1,0 +1,1 @@
+When throwing into a catch block, checks that the previous exception is passed to the new throw clause

@@ -1,0 +1,1 @@
+Use <=> spaceship instead of ternary with same effect

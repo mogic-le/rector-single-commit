@@ -1,0 +1,1 @@
+Change __sleep() to __serialize() with correct return values

@@ -1,0 +1,1 @@
+Change `static::*` to `self::*` on final class or private static members

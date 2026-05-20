@@ -1,0 +1,1 @@
+Changes static call to instance call, where not useful

@@ -1,0 +1,1 @@
+Upgrade string callback functions to first class callable

@@ -1,0 +1,1 @@
+Change static method and local-only calls to non-static

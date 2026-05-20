@@ -1,0 +1,1 @@
+Replace calls to `get_class()` and `get_parent_class()` without arguments with `self::class` and `parent::class`

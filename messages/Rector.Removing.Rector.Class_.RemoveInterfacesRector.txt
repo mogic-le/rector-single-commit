@@ -1,0 +1,1 @@
+Remove interfaces from class
