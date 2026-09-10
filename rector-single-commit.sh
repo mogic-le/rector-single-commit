@@ -27,6 +27,11 @@ if ! command -v jq > /dev/null 2>&1; then
     exit 1
 fi
 
+if ! command -v curl > /dev/null 2>&1; then
+    echo "curl executable not found" >&2
+    exit 1
+fi
+
 if [ ! -f "./rector.php" ]; then
     echo "rector.php configuration file missing" >&2
     exit 1
@@ -58,13 +63,42 @@ for rule in $rules; do
 
     messageFile=$(echo "$rule"| tr '\\' '.')
     messageFilePath="$messagesDir/${messageFile}.txt"
+    ruleShortName=$(echo "$rule" | sed 's/^.*\\//')
+
     if [ ! -f "$messageFilePath" ]; then
-        echo "No commit message file for rule" >&2
-        echo " $rule" >&2
-        echo -n " https://getrector.com/find-rule?query="
-        echo "$rule" | sed 's/^.*\\//'
-        echo " $messageFilePath" >&2
-        exit 3
+        findRuleUrl="https://getrector.com/find-rule?query=$ruleShortName"
+        echo "No commit message file for rule $rule" >&2
+        echo "Fetching rule description from $findRuleUrl ..." >&2
+
+        ruleBlock=$(
+            curl -fsSL "$findRuleUrl" \
+                | grep -B1 -A10 "^[[:space:]]*${ruleShortName}[[:space:]]*\$"
+        )
+
+        ruleUrl=$(echo "$ruleBlock" | grep -m1 -oE 'https://getrector\.com/rule-detail/[a-z0-9-]+')
+        ruleUrl=${ruleUrl:-$findRuleUrl}
+
+        ruleDescription=$(
+            echo "$ruleBlock" \
+                | grep -m1 -o '<p>.*</p>' \
+                | sed -e 's/<[^>]*>//g' \
+                      -e 's/&amp;/\&/g' -e 's/&quot;/"/g' -e "s/&#039;/'/g" \
+                      -e 's/&lt;/</g' -e 's/&gt;/>/g' \
+                      -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//'
+        )
+
+        if [ -z "$ruleDescription" ]; then
+            echo "Could not auto-fetch a description for rule" >&2
+            echo " $rule" >&2
+            echo " $findRuleUrl" >&2
+            echo " Create the file manually: $messageFilePath" >&2
+            exit 3
+        fi
+
+        printf '%s\n\n%s\n' "$ruleDescription" "$ruleUrl" > "$messageFilePath"
+        echo "Fetched: $ruleDescription" >&2
+        echo "Source:  $ruleUrl" >&2
+        echo "Created $messageFilePath" >&2
     fi
 
     messageFileContents=$(<"$messageFilePath")
