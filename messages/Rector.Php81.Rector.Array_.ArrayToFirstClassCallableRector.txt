@@ -1,0 +1,3 @@
+Upgrade array callable to first class callable
+
+https://getrector.com/rule-detail/array-to-first-class-callable-rector

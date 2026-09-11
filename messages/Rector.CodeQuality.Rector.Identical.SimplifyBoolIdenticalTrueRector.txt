@@ -1,0 +1,3 @@
+Simplify bool value compare to true or false
+
+https://getrector.com/rule-detail/simplify-bool-identical-true-rector

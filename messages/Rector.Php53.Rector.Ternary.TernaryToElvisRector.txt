@@ -1,0 +1,3 @@
+Use ?: instead of ?, where useful
+
+https://getrector.com/rule-detail/ternary-to-elvis-rector

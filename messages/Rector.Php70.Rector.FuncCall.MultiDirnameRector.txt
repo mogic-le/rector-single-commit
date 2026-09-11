@@ -1,0 +1,3 @@
+Changes multiple dirname() calls to one with nesting level
+
+https://getrector.com/rule-detail/multi-dirname-rector

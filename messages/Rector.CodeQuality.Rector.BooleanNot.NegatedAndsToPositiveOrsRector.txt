@@ -1,0 +1,3 @@
+Simplify negated "and" conditions to "or" with de Morgan theorem
+
+https://getrector.com/rule-detail/negated-ands-to-positive-ors-rector

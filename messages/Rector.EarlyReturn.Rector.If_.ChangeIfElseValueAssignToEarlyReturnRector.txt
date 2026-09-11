@@ -1,0 +1,3 @@
+Change if/else value to early return
+
+https://getrector.com/rule-detail/change-if-else-value-assign-to-early-return-rector

@@ -1,0 +1,3 @@
+Turn defined function call new one
+
+https://getrector.com/rule-detail/rename-function-rector

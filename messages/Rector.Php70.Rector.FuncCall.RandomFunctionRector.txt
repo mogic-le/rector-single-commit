@@ -1,0 +1,3 @@
+Changes rand, srand, and getrandmax to newer alternatives
+
+https://getrector.com/rule-detail/random-function-rector

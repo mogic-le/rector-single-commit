@@ -1,0 +1,3 @@
+Simplify empty() functions calls on empty arrays
+
+https://getrector.com/rule-detail/simplify-empty-check-on-empty-array-rector

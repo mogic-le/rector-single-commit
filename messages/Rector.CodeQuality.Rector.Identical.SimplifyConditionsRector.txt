@@ -1,0 +1,3 @@
+Simplify conditions
+
+https://getrector.com/rule-detail/simplify-conditions-rector

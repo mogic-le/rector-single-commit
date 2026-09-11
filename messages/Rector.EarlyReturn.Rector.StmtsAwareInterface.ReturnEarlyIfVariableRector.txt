@@ -1,0 +1,3 @@
+Replace if conditioned variable override with direct return
+
+https://getrector.com/rule-detail/return-early-if-variable-rector

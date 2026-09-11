@@ -1,0 +1,3 @@
+Use ===/!== over ==/!=, if values have the same type
+
+https://getrector.com/rule-detail/use-identical-over-equal-with-same-type-rector

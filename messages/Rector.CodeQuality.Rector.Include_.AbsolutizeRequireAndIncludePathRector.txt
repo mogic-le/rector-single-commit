@@ -1,0 +1,3 @@
+Migrate include/require to absolute path. This Rector might introduce backwards incompatible code, when the include/require being changed depends on the current working directory.
+
+https://getrector.com/rule-detail/absolutize-require-and-include-path-rector

@@ -1,0 +1,3 @@
+Change if null guard with single assign to null coalescing assign ??=
+
+https://getrector.com/rule-detail/if-to-null-coalescing-assign-rector

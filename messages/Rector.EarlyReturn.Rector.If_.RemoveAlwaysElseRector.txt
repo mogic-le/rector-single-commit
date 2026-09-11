@@ -1,0 +1,3 @@
+Split if statement, when if condition always break execution flow
+
+https://getrector.com/rule-detail/remove-always-else-rector

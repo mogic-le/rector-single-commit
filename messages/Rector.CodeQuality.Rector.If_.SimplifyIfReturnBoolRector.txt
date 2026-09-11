@@ -1,0 +1,3 @@
+Shortens if return false/true to direct return
+
+https://getrector.com/rule-detail/simplify-if-return-bool-rector

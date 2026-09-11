@@ -1,0 +1,3 @@
+Change foreach with unused $value but only $key, to array_keys()
+
+https://getrector.com/rule-detail/unused-foreach-value-to-array-keys-rector

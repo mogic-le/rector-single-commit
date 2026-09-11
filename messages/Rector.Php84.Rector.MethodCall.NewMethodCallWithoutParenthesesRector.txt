@@ -1,0 +1,3 @@
+Remove parentheses on new method call with parentheses
+
+https://getrector.com/rule-detail/new-method-call-without-parentheses-rector

@@ -1,0 +1,3 @@
+Change __CLASS__ to self::class
+
+https://getrector.com/rule-detail/class-constant-to-self-class-rector

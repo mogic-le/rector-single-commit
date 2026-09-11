@@ -1,0 +1,3 @@
+Decorate read-only class with readonly attribute
+
+https://getrector.com/rule-detail/read-only-class-rector

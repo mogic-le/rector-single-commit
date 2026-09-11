@@ -1,0 +1,3 @@
+Simplify regex pattern to known ranges
+
+https://getrector.com/rule-detail/simplify-regex-pattern-rector

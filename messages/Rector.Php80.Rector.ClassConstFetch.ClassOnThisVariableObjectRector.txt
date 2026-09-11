@@ -1,0 +1,3 @@
+Change $this::class to static::class or self::class depends on class modifier
+
+https://getrector.com/rule-detail/class-on-this-variable-object-rector

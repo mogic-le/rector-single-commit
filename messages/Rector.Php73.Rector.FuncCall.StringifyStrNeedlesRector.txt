@@ -1,0 +1,3 @@
+Make needles explicit strings
+
+https://getrector.com/rule-detail/stringify-str-needles-rector

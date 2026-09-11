@@ -1,0 +1,3 @@
+Upgrade string callback functions to first class callable
+
+https://getrector.com/rule-detail/function-first-class-callable-rector

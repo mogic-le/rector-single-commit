@@ -1,0 +1,3 @@
+Use null coalescing operator ??=
+
+https://getrector.com/rule-detail/null-coalescing-operator-rector

@@ -1,0 +1,3 @@
+Add declare(strict_types=1) if missing and only if the file is type-safe (no scalar type coercions).
+
+https://getrector.com/rule-detail/safe-declare-strict-types-rector

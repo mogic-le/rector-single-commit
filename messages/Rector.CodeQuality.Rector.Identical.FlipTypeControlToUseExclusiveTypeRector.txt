@@ -1,0 +1,3 @@
+Flip type control from null compare to use exclusive instanceof object
+
+https://getrector.com/rule-detail/flip-type-control-to-use-exclusive-type-rector
