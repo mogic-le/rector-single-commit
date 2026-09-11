@@ -1,0 +1,3 @@
+Change defined return typehint of method and class
+
+https://getrector.com/rule-detail/add-return-type-declaration-rector
