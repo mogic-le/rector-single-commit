@@ -3,7 +3,7 @@
 # Needs:
 # - git
 # - jq
-# - rector (in vendor/bin or RECTOR_PATH)
+# - rector (installed as a global composer package)
 set -e
 
 if [ "$1" = "-h" ] || [ "$1" = "--help" ]; then
@@ -16,7 +16,7 @@ fi
 commitMessagePrefix="$1"
 
 messagesDir=$(dirname "$0")/messages
-rectorPath=${RECTOR_PATH:-./vendor/bin/rector}
+rectorPath="$(composer global config bin-dir --absolute)/rector"
 if [ ! -x "$rectorPath" ]; then
     echo "rector executable not found at $rectorPath" >&2
     exit 1
@@ -58,6 +58,8 @@ numRules=$(echo "$rules"|wc -l)
 echo "Rector wants to apply $numRules rules to the code"
 nl="
 "
+skippedRules=()
+
 for rule in $rules; do
     echo Applying rule: $rule
 
@@ -66,38 +68,68 @@ for rule in $rules; do
     ruleShortName=$(echo "$rule" | sed 's/^.*\\//')
 
     if [ ! -f "$messageFilePath" ]; then
-        findRuleUrl="https://getrector.com/find-rule?query=$ruleShortName"
         echo "No commit message file for rule $rule" >&2
-        echo "Fetching rule description from $findRuleUrl ..." >&2
 
-        ruleBlock=$(
-            curl -fsSL "$findRuleUrl" \
-                | grep -B1 -A10 "^[[:space:]]*${ruleShortName}[[:space:]]*\$"
-        )
+        globalAutoload="$(dirname "$rectorPath")/../autoload.php"
+        ruleDescription=$(php -r '
+            foreach (["vendor/autoload.php", ".Build/vendor/autoload.php", $argv[2]] as $autoload) {
+                if (is_file($autoload)) {
+                    require_once $autoload;
+                }
+            }
+            if (!class_exists($argv[1])) {
+                exit;
+            }
+            $file = (new ReflectionClass($argv[1]))->getFileName();
+            $tokens = token_get_all(file_get_contents($file));
+            $found = false;
+            foreach ($tokens as $token) {
+                if (is_array($token) && $token[0] === T_STRING && $token[1] === "RuleDefinition") {
+                    $found = true;
+                    continue;
+                }
+                if ($found && is_array($token) && $token[0] === T_CONSTANT_ENCAPSED_STRING) {
+                    echo stripcslashes(substr($token[1], 1, -1));
+                    exit;
+                }
+            }
+        ' "$rule" "$globalAutoload" 2>/dev/null)
 
-        ruleUrl=$(echo "$ruleBlock" | grep -m1 -oE 'https://getrector\.com/rule-detail/[a-z0-9-]+')
-        ruleUrl=${ruleUrl:-$findRuleUrl}
+        ruleUrl="https://getrector.com/rule-detail/$(echo "$ruleShortName" | sed -E 's/([a-z0-9])([A-Z])/\1-\2/g' | tr '[:upper:]' '[:lower:]')"
 
-        ruleDescription=$(
-            echo "$ruleBlock" \
-                | grep -m1 -o '<p>.*</p>' \
-                | sed -e 's/<[^>]*>//g' \
-                      -e 's/&amp;/\&/g' -e 's/&quot;/"/g' -e "s/&#039;/'/g" \
-                      -e 's/&lt;/</g' -e 's/&gt;/>/g' \
-                      -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//'
-        )
+        if [ -n "$ruleDescription" ]; then
+            echo "Description found in local source: $ruleDescription" >&2
+        else
+            findRuleUrl="https://getrector.com/find-rule?query=$ruleShortName"
+            echo "No local class found; falling back to $findRuleUrl ..." >&2
+
+            ruleBlock=$(
+                curl -fsSL --max-time 10 "$findRuleUrl" \
+                    | grep -B1 -A10 "^[[:space:]]*${ruleShortName}[[:space:]]*\$"
+            )
+
+            fetchedUrl=$(echo "$ruleBlock" | grep -m1 -oE 'https://getrector\.com/rule-detail/[a-z0-9-]+')
+            ruleUrl=${fetchedUrl:-$ruleUrl}
+
+            ruleDescription=$(
+                echo "$ruleBlock" \
+                    | grep -m1 -o '<p>.*</p>' \
+                    | sed -e 's/<[^>]*>//g' \
+                          -e 's/&amp;/\&/g' -e 's/&quot;/"/g' -e "s/&#039;/'/g" \
+                          -e 's/&lt;/</g' -e 's/&gt;/>/g' \
+                          -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//'
+            )
+        fi
 
         if [ -z "$ruleDescription" ]; then
-            echo "Could not auto-fetch a description for rule" >&2
-            echo " $rule" >&2
-            echo " $findRuleUrl" >&2
-            echo " Create the file manually: $messageFilePath" >&2
-            exit 3
+            echo "WARN: Could not determine a description for rule $rule; skipping (create $messageFilePath manually to include it next run)" >&2
+            skippedRules+=("$rule => $ruleUrl")
+            continue
         fi
 
         printf '%s\n\n%s\n' "$ruleDescription" "$ruleUrl" > "$messageFilePath"
-        echo "Fetched: $ruleDescription" >&2
-        echo "Source:  $ruleUrl" >&2
+        echo "Description: $ruleDescription" >&2
+        echo "Source:      $ruleUrl" >&2
         echo "Created $messageFilePath" >&2
     fi
 
@@ -119,3 +151,11 @@ for rule in $rules; do
 done
 
 echo "Complete"
+
+if [ ${#skippedRules[@]} -gt 0 ]; then
+    echo
+    echo "Skipped ${#skippedRules[@]} rule(s) with no description (no message file created, not applied):"
+    for entry in "${skippedRules[@]}"; do
+        echo " - $entry"
+    done
+fi
