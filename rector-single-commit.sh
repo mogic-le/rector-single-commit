@@ -36,6 +36,8 @@ if [ ! -f "./rector.php" ]; then
     echo "rector.php configuration file missing" >&2
     exit 1
 fi
+rectorConfigPath="$(pwd)/rector.php"
+echo "Using rector.php at $rectorConfigPath"
 
 if [ ! -z "$(git status --porcelain)" ]; then
     echo "git repository status is not clean. Commit all changes first" >&2
@@ -43,15 +45,28 @@ if [ ! -z "$(git status --porcelain)" ]; then
 fi
 
 # "sh" (dash) breaks here with backslashes in the output, e.g. "TYPO311\v0"
-# "bash" works fine
+# "bash" works fine. The dry-run list is preferred because it avoids running
+# rules that have no changes. On a rerun after generated files were deleted,
+# however, Rector has no existing file to report in JSON; use the configured
+# rule list in that case so those files can be generated again.
 rules=$(
     "$rectorPath" process --dry-run --clear-cache --output-format=json\
         | jq -r '.file_diffs[]?.applied_rectors[]'\
         | sort | uniq
      )
 if [ -z "$rules" ]; then
-    echo "Nothing to do; the code is clean"
-    exit
+    # A deleted generated file is no longer visible to Rector's dry-run JSON.
+    # Read explicit configured rule classes as a fallback so each rule is still
+    # applied and committed independently on a rerun.
+    rules=$(
+        php -r '
+            $contents = file_get_contents($argv[1]);
+            preg_match_all("/\\b(?:withRules|withConfiguredRule)\\s*\\(\\s*([A-Za-z_\\\\][A-Za-z0-9_\\\\]*)::class/", $contents, $matches);
+            foreach ($matches[1] as $rule) {
+                echo $rule, PHP_EOL;
+            }
+        ' "$(pwd)/rector.php" | sort | uniq
+    )
 fi
 
 numRules=$(echo "$rules"|wc -l)
@@ -144,10 +159,10 @@ for rule in $rules; do
         continue
     fi
 
-    git commit\
-        --all\
+    git add -A
+    printf '%s' "$commitMessage" | git commit\
         --author='Rector <rector@getrector.com>'\
-        --message="$commitMessage"
+        --file=-
 done
 
 echo "Complete"
