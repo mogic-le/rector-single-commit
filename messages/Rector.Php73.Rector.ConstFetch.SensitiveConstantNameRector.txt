@@ -1,0 +1,3 @@
+Change case insensitive constants to sensitive ones
+
+https://getrector.com/rule-detail/sensitive-constant-name-rector

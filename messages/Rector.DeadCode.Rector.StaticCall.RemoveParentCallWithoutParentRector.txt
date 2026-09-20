@@ -1,0 +1,3 @@
+Remove unused parent call with no parent class
+
+https://getrector.com/rule-detail/remove-parent-call-without-parent-rector

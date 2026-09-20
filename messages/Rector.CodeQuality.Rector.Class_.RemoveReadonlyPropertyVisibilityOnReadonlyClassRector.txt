@@ -1,0 +1,3 @@
+Remove readonly property visibility on readonly class
+
+https://getrector.com/rule-detail/remove-readonly-property-visibility-on-readonly-class-rector

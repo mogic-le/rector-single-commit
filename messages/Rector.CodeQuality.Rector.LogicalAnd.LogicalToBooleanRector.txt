@@ -1,0 +1,3 @@
+Change OR, AND to ||, && with more common understanding
+
+https://getrector.com/rule-detail/logical-to-boolean-rector
