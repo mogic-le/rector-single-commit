@@ -1,0 +1,3 @@
+From `$this->get(SomeType::class)` in traits, to autowired method with @required
+
+https://getrector.com/rule-detail/trait-get-by-type-to-inject-rector

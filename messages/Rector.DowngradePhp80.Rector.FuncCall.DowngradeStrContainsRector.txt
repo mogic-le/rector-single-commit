@@ -1,0 +1,3 @@
+Replace str_contains() with strpos() !== false
+
+https://wiki.php.net/rfc/str_contains

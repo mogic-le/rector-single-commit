@@ -1,0 +1,3 @@
+Changes use of call to version compare function to use of PHP version constant
+
+https://getrector.com/rule-detail/version-compare-func-call-to-constant-rector

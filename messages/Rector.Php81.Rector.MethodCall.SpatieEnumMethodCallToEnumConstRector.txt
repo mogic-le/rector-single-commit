@@ -1,0 +1,3 @@
+Refactor Spatie enum method calls
+
+https://getrector.com/rule-detail/spatie-enum-method-call-to-enum-const-rector

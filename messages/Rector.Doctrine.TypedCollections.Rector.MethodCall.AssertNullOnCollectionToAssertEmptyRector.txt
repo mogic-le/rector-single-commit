@@ -1,0 +1,3 @@
+Change $this->assertNull() on Collection object to $this->assertEmpty() in tests
+
+https://getrector.com/rule-detail/assert-null-on-collection-to-assert-empty-rector

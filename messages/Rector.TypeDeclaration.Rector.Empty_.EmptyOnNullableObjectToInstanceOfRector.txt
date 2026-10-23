@@ -1,0 +1,3 @@
+Change `empty()` on nullable object to instanceof check
+
+https://getrector.com/rule-detail/empty-on-nullable-object-to-instance-of-rector

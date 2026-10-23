@@ -1,0 +1,4 @@
+Move metadata from loadValidatorMetadata() to property/getter/method annotations
+
+https://symfony.com/doc/current/components/validator/metadata.html
+https://symfony.com/doc/current/validation.html#the-basics-of-validation

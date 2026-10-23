@@ -1,0 +1,3 @@
+Downgrade pipe operator |> to PHP < 8.5 compatible code
+
+https://getrector.com/rule-detail/downgrade-pipe-operator-rector

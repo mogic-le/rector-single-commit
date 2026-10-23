@@ -1,0 +1,3 @@
+Changes getFunctions() in TwigExtension to #[AsTwigFunction] marker attribute above local class method
+
+https://getrector.com/rule-detail/get-functions-to-as-twig-function-attribute-rector

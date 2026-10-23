@@ -1,0 +1,3 @@
+Moves $this->setHelp() to the "help" named argument of #[AsCommand]
+
+https://getrector.com/rule-detail/command-help-to-attribute-rector

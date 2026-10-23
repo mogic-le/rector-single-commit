@@ -1,0 +1,3 @@
+Wrap return value of specific method
+
+https://getrector.com/rule-detail/wrap-return-rector

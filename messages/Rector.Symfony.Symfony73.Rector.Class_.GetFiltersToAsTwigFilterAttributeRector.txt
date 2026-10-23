@@ -1,0 +1,3 @@
+Changes getFilters() in TwigExtension to #[TwigFilter] marker attribute above function
+
+https://getrector.com/rule-detail/get-filters-to-as-twig-filter-attribute-rector

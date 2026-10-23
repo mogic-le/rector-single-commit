@@ -1,0 +1,3 @@
+Change array dim fetch to method call
+
+https://getrector.com/rule-detail/array-dim-fetch-to-method-call-rector

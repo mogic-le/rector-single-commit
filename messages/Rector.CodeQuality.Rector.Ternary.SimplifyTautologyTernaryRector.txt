@@ -1,0 +1,3 @@
+Simplify tautology ternary to value
+
+https://getrector.com/rule-detail/simplify-tautology-ternary-rector

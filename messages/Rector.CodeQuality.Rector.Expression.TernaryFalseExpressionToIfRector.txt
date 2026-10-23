@@ -1,0 +1,3 @@
+Change ternary with false to if and explicit call
+
+https://getrector.com/rule-detail/ternary-false-expression-to-if-rector

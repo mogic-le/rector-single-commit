@@ -1,0 +1,4 @@
+Use explicit API for expecting PHP errors, warnings, and notices
+
+https://github.com/sebastianbergmann/phpunit/blob/master/ChangeLog-9.0.md
+https://github.com/sebastianbergmann/phpunit/commit/1ba2e3e1bb091acda3139f8a9259fa8161f3242d

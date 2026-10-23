@@ -1,0 +1,3 @@
+Add known return type to arrow function
+
+https://getrector.com/rule-detail/add-arrow-function-return-type-rector

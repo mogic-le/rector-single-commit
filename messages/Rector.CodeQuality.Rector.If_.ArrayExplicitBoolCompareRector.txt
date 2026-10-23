@@ -1,0 +1,3 @@
+Make array if conditions more explicit
+
+https://getrector.com/rule-detail/array-explicit-bool-compare-rector

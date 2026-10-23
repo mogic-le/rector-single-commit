@@ -1,0 +1,3 @@
+Add missing parent::setUp() call on setUp() method on test class
+
+https://getrector.com/rule-detail/add-parent-setup-call-on-setup-rector

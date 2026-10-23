@@ -1,0 +1,3 @@
+Narrow single-value match willReturnCallback() to with() and willReturn() call
+
+https://getrector.com/rule-detail/narrow-single-will-return-callback-rector

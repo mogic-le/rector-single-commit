@@ -1,0 +1,3 @@
+Remove final from class constants
+
+https://php.watch/versions/8.1/final-class-const

@@ -1,0 +1,3 @@
+Change data provider in PHPUnit test case to newline per item
+
+https://getrector.com/rule-detail/data-provider-array-items-new-lined-rector

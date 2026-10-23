@@ -1,0 +1,3 @@
+Remove if/else if they have same content
+
+https://getrector.com/rule-detail/simplify-if-else-with-same-content-rector

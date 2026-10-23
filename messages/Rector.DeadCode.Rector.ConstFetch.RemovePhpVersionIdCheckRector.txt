@@ -1,0 +1,3 @@
+Remove unneeded PHP_VERSION_ID conditional checks
+
+https://getrector.com/rule-detail/remove-php-version-id-check-rector

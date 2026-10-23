@@ -1,0 +1,3 @@
+Changes PHPUnit calls from $this->assert*() to self::assert*()
+
+https://getrector.com/rule-detail/prefer-phpunit-self-call-rector

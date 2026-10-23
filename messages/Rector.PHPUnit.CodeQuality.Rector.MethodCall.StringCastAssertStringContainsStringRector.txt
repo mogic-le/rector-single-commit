@@ -1,0 +1,3 @@
+Cast 2nd argument in assertStringContainsString() to a string if not yet
+
+https://getrector.com/rule-detail/string-cast-assert-string-contains-string-rector

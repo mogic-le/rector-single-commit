@@ -1,0 +1,3 @@
+Change $service->set() string names to class-type-based names, to allow $container->get() by types in Symfony 2.8. Provide XML config via $rectorConfig->symfonyContainerXml(...);
+
+https://getrector.com/rule-detail/service-set-string-name-to-class-name-rector

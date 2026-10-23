@@ -1,0 +1,3 @@
+Changes various implode forms to consistent one
+
+https://getrector.com/rule-detail/consistent-implode-rector

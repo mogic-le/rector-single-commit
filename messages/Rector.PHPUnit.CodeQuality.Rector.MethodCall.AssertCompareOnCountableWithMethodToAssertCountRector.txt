@@ -1,0 +1,3 @@
+Replaces use of assertSame and assertEquals on Countable objects with count method
+
+https://getrector.com/rule-detail/assert-compare-on-countable-with-method-to-assert-count-rector

@@ -1,0 +1,3 @@
+Add full nullable type coverage for Doctrine entity based on docblocks. Useful stepping stone to add type coverage while keeping entities safe to read and write getter/setters
+
+https://getrector.com/rule-detail/type-nullable-entity-from-docblock-rector

@@ -1,0 +1,3 @@
+Remove unused class constants
+
+https://getrector.com/rule-detail/remove-unused-private-class-constant-rector

@@ -1,0 +1,3 @@
+Change && and || between nullable objects to instanceof compares
+
+https://getrector.com/rule-detail/binary-op-nullable-to-instanceof-rector

@@ -1,0 +1,3 @@
+Remove unnecessary ternary expressions
+
+https://getrector.com/rule-detail/unnecessary-ternary-expression-rector

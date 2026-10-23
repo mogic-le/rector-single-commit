@@ -1,0 +1,3 @@
+Change configured function calls to new Instance
+
+https://getrector.com/rule-detail/func-call-to-new-rector

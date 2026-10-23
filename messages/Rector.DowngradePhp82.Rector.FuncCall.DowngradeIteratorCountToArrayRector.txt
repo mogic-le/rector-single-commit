@@ -1,0 +1,3 @@
+Ensure pass Traversable instance before use in iterator_count() and iterator_to_array()
+
+https://www.php.net/manual/en/migration82.other-changes.php#migration82.other-changes.functions.spl

@@ -1,0 +1,3 @@
+Replace Block Stmt with its stmts
+
+https://getrector.com/rule-detail/replace-block-to-its-stmts-rector

@@ -1,0 +1,3 @@
+Remove typed class constant
+
+https://wiki.php.net/rfc/typed_class_constants

@@ -1,0 +1,3 @@
+Move from entity mock, to direct use of class instance and setters
+
+https://getrector.com/rule-detail/entity-document-create-mock-to-direct-new-rector

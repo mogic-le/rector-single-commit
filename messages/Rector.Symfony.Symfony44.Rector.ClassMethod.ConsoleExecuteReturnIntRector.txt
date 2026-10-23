@@ -1,0 +1,3 @@
+Returns int from Command::execute() command
+
+https://github.com/symfony/symfony/pull/33775/files

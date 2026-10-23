@@ -1,0 +1,3 @@
+Migrates from deprecated Definition/Alias->setPrivate() to Definition/Alias->setPublic()
+
+https://github.com/symfony/symfony/blob/5.x/UPGRADE-5.2.md#dependencyinjection

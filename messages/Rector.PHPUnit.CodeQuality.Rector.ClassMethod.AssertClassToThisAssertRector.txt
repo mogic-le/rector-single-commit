@@ -1,0 +1,3 @@
+Changes PHPUnit calls from Assert::assert*() to $this->assert*()
+
+https://getrector.com/rule-detail/assert-class-to-this-assert-rector

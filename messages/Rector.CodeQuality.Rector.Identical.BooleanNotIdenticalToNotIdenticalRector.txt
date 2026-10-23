@@ -1,0 +1,3 @@
+Negated identical boolean compare to not identical compare (does not apply to non-bool values)
+
+https://getrector.com/rule-detail/boolean-not-identical-to-not-identical-rector

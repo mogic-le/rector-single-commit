@@ -1,0 +1,3 @@
+Changes heredoc/nowdoc that contains closing word to safe wrapper name
+
+https://getrector.com/rule-detail/sensitive-here-now-doc-rector

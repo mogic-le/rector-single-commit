@@ -1,0 +1,3 @@
+Remove recasting of the same type
+
+https://getrector.com/rule-detail/recasting-removal-rector

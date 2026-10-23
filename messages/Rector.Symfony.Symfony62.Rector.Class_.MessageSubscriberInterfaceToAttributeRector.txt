@@ -1,0 +1,3 @@
+Replace MessageSubscriberInterface with AsMessageHandler attribute(s)
+
+https://getrector.com/rule-detail/message-subscriber-interface-to-attribute-rector

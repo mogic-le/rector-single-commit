@@ -1,0 +1,3 @@
+Change array_map() and array_filter() on Collection typed property to ->toArray() call, to always provide an array
+
+https://getrector.com/rule-detail/array-map-on-collection-to-array-rector

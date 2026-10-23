@@ -1,0 +1,3 @@
+Add strict return type based native function or native method
+
+https://getrector.com/rule-detail/return-type-from-strict-native-call-rector

@@ -1,0 +1,3 @@
+Turns fetching of Request via `$this->getRequest()` to action injection
+
+https://getrector.com/rule-detail/get-request-rector

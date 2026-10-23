@@ -1,0 +1,3 @@
+Remove named null argument, where null is already a default param value
+
+https://getrector.com/rule-detail/remove-null-named-arg-on-null-default-param-rector

@@ -1,0 +1,3 @@
+Use `break` instead of `continue` in switch statements
+
+https://getrector.com/rule-detail/continue-to-break-in-switch-rector

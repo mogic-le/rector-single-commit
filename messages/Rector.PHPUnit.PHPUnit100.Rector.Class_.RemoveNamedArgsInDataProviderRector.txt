@@ -1,0 +1,3 @@
+Remove named arguments in data provider
+
+https://getrector.com/rule-detail/remove-named-args-in-data-provider-rector

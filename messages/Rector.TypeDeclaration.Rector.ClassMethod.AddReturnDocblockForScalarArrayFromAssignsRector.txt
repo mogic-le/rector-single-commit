@@ -1,0 +1,3 @@
+Add @return docblock for scalar array from strict array assignments
+
+https://getrector.com/rule-detail/add-return-docblock-for-scalar-array-from-assigns-rector

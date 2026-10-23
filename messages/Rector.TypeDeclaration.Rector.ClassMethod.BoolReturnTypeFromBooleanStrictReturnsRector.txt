@@ -1,0 +1,3 @@
+Add bool return type based on strict bool returns type operations
+
+https://getrector.com/rule-detail/bool-return-type-from-boolean-strict-returns-rector

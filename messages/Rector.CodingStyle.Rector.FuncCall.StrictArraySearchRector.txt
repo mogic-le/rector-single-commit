@@ -1,0 +1,3 @@
+Makes array_search search for identical elements
+
+https://getrector.com/rule-detail/strict-array-search-rector

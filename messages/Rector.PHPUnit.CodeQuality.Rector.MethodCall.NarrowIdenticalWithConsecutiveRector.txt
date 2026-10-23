@@ -1,0 +1,3 @@
+Narrow identical withConsecutive() and willReturnOnConsecutiveCalls() to single call
+
+https://getrector.com/rule-detail/narrow-identical-with-consecutive-rector

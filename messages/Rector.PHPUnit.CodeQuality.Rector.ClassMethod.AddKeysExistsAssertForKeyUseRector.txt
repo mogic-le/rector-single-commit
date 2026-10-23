@@ -1,0 +1,3 @@
+Add assertArrayHasKey() call for array access with string key, that was not validated before
+
+https://getrector.com/rule-detail/add-keys-exists-assert-for-key-use-rector

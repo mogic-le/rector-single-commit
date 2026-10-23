@@ -1,0 +1,3 @@
+Downgrades octal numbers to decimal ones
+
+https://php.watch/versions/8.1/explicit-octal-notation

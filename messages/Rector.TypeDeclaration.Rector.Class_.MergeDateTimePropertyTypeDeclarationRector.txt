@@ -1,0 +1,3 @@
+Set DateTime to DateTimeInterface for DateTime property with DateTimeInterface docblock
+
+https://getrector.com/rule-detail/merge-date-time-property-type-declaration-rector

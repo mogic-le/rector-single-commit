@@ -1,0 +1,3 @@
+Add return type from return direct array
+
+https://getrector.com/rule-detail/return-type-from-return-direct-array-rector

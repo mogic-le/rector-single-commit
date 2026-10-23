@@ -1,0 +1,3 @@
+Change `$context->addViolationAt` to `$context->buildViolation` on Validator ExecutionContext
+
+https://stackoverflow.com/questions/25264922/symfony-2-5-addviolationat-deprecated-use-buildviolation

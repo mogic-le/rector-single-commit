@@ -1,0 +1,3 @@
+Remove Reflection::setAccessible() calls
+
+https://getrector.com/rule-detail/remove-reflection-set-accessible-calls-rector

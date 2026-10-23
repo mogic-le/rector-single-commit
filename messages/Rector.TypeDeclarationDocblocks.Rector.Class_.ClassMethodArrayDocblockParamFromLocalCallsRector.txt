@@ -1,0 +1,3 @@
+Add @param array docblock to a class method based on local call types
+
+https://getrector.com/rule-detail/class-method-array-docblock-param-from-local-calls-rector

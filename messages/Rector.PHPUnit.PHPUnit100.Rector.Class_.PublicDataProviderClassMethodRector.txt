@@ -1,0 +1,3 @@
+Change data provider methods to public
+
+https://getrector.com/rule-detail/public-data-provider-class-method-rector

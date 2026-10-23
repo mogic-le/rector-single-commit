@@ -1,0 +1,3 @@
+Change hebrevc($str) to nl2br(hebrev($str))
+
+https://getrector.com/rule-detail/hebrevc-to-nl2br-hebrev-rector

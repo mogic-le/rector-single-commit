@@ -1,0 +1,3 @@
+Removes Action suffixes from methods in Symfony Controllers
+
+https://getrector.com/rule-detail/action-suffix-remover-rector

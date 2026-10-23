@@ -1,0 +1,3 @@
+Remove data provider keys, that should match param names, as order is good enough
+
+https://getrector.com/rule-detail/remove-data-provider-param-keys-rector

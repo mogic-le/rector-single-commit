@@ -1,0 +1,3 @@
+Remove trailing commas in function calls
+
+https://getrector.com/rule-detail/downgrade-trailing-commas-in-function-calls-rector

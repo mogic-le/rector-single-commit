@@ -1,0 +1,3 @@
+Add SensitiveParameter attribute to method and function configured parameters
+
+https://getrector.com/rule-detail/add-sensitive-parameter-attribute-rector

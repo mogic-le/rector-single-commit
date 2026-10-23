@@ -1,0 +1,3 @@
+Change depends annotations with value to attribute
+
+https://getrector.com/rule-detail/depends-annotation-with-value-to-attribute-rector

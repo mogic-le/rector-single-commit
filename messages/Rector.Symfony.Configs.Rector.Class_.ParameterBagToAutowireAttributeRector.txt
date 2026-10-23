@@ -1,0 +1,3 @@
+Change explicit configuration parameter pass into #[Autowire] attributes
+
+https://getrector.com/rule-detail/parameter-bag-to-autowire-attribute-rector

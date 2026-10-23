@@ -1,0 +1,3 @@
+Change `get_called_class()` to `static::class` on non-final class
+
+https://getrector.com/rule-detail/get-called-class-to-static-class-rector

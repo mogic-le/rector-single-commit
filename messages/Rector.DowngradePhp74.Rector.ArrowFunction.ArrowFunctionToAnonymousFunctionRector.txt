@@ -1,0 +1,3 @@
+Replace arrow functions with anonymous functions
+
+https://www.php.net/manual/en/functions.arrow.php

@@ -1,0 +1,3 @@
+Flip negated ternary of `instanceof` to direct use of object
+
+https://getrector.com/rule-detail/flip-negated-ternary-instanceof-rector

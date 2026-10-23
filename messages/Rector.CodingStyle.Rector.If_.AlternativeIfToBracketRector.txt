@@ -1,0 +1,3 @@
+Change alternative if/elseif/else/endif syntax to bracket syntax
+
+https://getrector.com/rule-detail/alternative-if-to-bracket-rector

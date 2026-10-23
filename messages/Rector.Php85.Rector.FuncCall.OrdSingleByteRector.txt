@@ -1,0 +1,3 @@
+Replace ord($str) with ord($str[0])
+
+https://getrector.com/rule-detail/ord-single-byte-rector

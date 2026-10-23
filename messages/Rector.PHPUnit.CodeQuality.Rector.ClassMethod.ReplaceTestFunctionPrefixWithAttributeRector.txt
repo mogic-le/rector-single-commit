@@ -1,0 +1,3 @@
+Replace @test with prefixed function
+
+https://getrector.com/rule-detail/replace-test-function-prefix-with-attribute-rector

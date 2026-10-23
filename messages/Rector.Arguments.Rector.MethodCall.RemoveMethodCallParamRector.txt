@@ -1,0 +1,3 @@
+Remove parameter of method call
+
+https://getrector.com/rule-detail/remove-method-call-param-rector

@@ -1,0 +1,3 @@
+Remove named argument
+
+https://getrector.com/rule-detail/downgrade-named-argument-rector

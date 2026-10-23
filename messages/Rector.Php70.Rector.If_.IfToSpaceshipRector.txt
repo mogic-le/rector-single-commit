@@ -1,0 +1,3 @@
+Changes if/else to spaceship <=> where useful
+
+https://getrector.com/rule-detail/if-to-spaceship-rector

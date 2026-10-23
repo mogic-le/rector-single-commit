@@ -1,0 +1,3 @@
+Remove trailing commas in param or use list
+
+https://getrector.com/rule-detail/downgrade-trailing-commas-in-param-use-rector

@@ -1,0 +1,3 @@
+Adds `$form->isSubmitted()` validation to all `$form->isValid()` calls in Form in Symfony
+
+https://getrector.com/rule-detail/form-is-valid-rector

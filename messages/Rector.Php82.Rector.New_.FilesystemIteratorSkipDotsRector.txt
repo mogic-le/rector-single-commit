@@ -1,0 +1,3 @@
+Prior PHP 8.2 FilesystemIterator::SKIP_DOTS was always set and could not be removed, therefore FilesystemIterator::SKIP_DOTS is added in order to keep this behaviour
+
+https://getrector.com/rule-detail/filesystem-iterator-skip-dots-rector

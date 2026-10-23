@@ -1,0 +1,3 @@
+Downgrade json_decode() with null associative argument function
+
+https://3v4l.org/b1mA6

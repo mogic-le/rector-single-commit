@@ -1,0 +1,3 @@
+Change filter_var() with slash escaping to addslashes()
+
+https://getrector.com/rule-detail/filter-var-to-add-slashes-rector

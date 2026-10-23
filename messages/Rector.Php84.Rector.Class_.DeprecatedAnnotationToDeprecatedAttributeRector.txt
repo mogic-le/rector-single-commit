@@ -1,0 +1,3 @@
+Change @deprecated annotation to Deprecated attribute
+
+https://getrector.com/rule-detail/deprecated-annotation-to-deprecated-attribute-rector

@@ -1,0 +1,3 @@
+Remove null from a nullable Collection, as empty ArrayCollection is preferred instead to keep property/class method type strict and always a collection
+
+https://getrector.com/rule-detail/remove-null-from-nullable-collection-type-rector

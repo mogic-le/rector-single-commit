@@ -1,0 +1,3 @@
+Replaces `Assert::isType()` calls with type-specific `Assert::is*()` calls
+
+https://getrector.com/rule-detail/assert-is-type-method-call-rector

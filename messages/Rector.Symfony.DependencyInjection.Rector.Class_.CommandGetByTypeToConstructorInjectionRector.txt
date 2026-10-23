@@ -1,0 +1,3 @@
+From `$container->get(SomeType::class)` in commands to constructor injection (step 2/x)
+
+https://getrector.com/rule-detail/command-get-by-type-to-constructor-injection-rector

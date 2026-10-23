@@ -1,0 +1,3 @@
+Change null to strict int defined preg_split limit arg function call argument
+
+https://getrector.com/rule-detail/null-to-strict-int-preg-slit-func-call-limit-arg-rector

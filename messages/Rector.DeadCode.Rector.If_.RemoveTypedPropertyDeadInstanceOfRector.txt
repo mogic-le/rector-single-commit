@@ -1,0 +1,3 @@
+Remove dead instanceof check on type hinted property
+
+https://getrector.com/rule-detail/remove-typed-property-dead-instance-of-rector

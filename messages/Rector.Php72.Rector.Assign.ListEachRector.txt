@@ -1,0 +1,3 @@
+each() function is deprecated, use key() and current() instead
+
+https://getrector.com/rule-detail/list-each-rector

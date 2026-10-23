@@ -1,0 +1,3 @@
+Change a MockObject @return union docblock to an intersection type
+
+https://getrector.com/rule-detail/change-mock-object-return-union-to-intersection-rector

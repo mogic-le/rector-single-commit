@@ -1,0 +1,3 @@
+Inline stub property only used to pass as new argument to a method call
+
+https://getrector.com/rule-detail/inline-stub-property-to-create-stub-method-call-rector

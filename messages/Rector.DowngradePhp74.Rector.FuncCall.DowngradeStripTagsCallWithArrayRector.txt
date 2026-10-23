@@ -1,0 +1,3 @@
+Convert 2nd argument in `strip_tags()` from array to string
+
+https://getrector.com/rule-detail/downgrade-strip-tags-call-with-array-rector

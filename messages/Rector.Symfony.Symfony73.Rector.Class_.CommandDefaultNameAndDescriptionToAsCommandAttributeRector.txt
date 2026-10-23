@@ -1,0 +1,3 @@
+Replace getDefaultName() and getDefaultDescription() by #[AsCommand] attribute
+
+https://getrector.com/rule-detail/command-default-name-and-description-to-as-command-attribute-rector

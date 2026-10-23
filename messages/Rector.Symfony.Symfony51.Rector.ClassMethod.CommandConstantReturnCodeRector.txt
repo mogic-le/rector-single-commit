@@ -1,0 +1,3 @@
+Changes int return from execute to use Symfony Command constants.
+
+https://getrector.com/rule-detail/command-constant-return-code-rector

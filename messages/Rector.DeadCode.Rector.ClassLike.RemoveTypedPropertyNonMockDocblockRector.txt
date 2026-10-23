@@ -1,0 +1,3 @@
+Remove @var annotation for PHPUnit\Framework\MockObject\MockObject combined with native object type
+
+https://getrector.com/rule-detail/remove-typed-property-non-mock-docblock-rector

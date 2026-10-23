@@ -1,0 +1,3 @@
+Change `money_format()` to equivalent `number_format()`
+
+https://getrector.com/rule-detail/money-format-to-number-format-rector

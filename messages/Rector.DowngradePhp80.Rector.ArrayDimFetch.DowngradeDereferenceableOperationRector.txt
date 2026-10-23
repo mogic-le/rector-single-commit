@@ -1,0 +1,3 @@
+Add parentheses around non-dereferenceable expressions.
+
+https://wiki.php.net/rfc/variable_syntax_tweaks

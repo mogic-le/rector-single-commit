@@ -1,0 +1,3 @@
+Add default key to Collection generic type if missing in @param or @return of class method
+
+https://getrector.com/rule-detail/default-collection-key-rector

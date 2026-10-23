@@ -1,0 +1,3 @@
+Use createStub() over createMock() when used as argument/array item coalesce ?? fallback
+
+https://getrector.com/rule-detail/create-stub-in-coalesce-arg-rector

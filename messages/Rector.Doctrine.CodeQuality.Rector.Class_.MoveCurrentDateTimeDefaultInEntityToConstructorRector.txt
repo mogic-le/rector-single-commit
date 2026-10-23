@@ -1,0 +1,3 @@
+Move default value for entity property to constructor, the safest place
+
+https://getrector.com/rule-detail/move-current-date-time-default-in-entity-to-constructor-rector

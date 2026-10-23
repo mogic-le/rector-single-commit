@@ -1,0 +1,3 @@
+Change $services->set(..., ...)->tag(...) to $services->defaults()->autodiscovery() where meaningful
+
+https://getrector.com/rule-detail/service-tags-to-defaults-autoconfigure-rector

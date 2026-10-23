@@ -1,0 +1,3 @@
+Add return type to classes that extend Doctrine\ORM\EntityRepository based on return Doctrine method names
+
+https://getrector.com/rule-detail/child-doctrine-repository-class-type-rector

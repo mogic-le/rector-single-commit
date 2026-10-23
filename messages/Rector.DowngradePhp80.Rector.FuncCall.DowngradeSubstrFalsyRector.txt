@@ -1,0 +1,3 @@
+Downgrade substr() with cast string on possibly falsy result
+
+https://php.watch/versions/8.0/substr-out-of-bounds

@@ -1,0 +1,4 @@
+Turns array return to yield in data providers
+
+https://medium.com/tech-tajawal/use-memory-gently-with-yield-in-php-7e62e2480b8d
+https://3v4l.org/5PJid

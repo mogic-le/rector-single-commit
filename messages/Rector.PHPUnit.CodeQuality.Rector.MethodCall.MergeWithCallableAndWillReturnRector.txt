@@ -1,0 +1,3 @@
+Merge split mocking method ->with($this->callback(...)) and ->willReturn(expr) to single ->willReturnCallback() call
+
+https://getrector.com/rule-detail/merge-with-callable-and-will-return-rector

@@ -1,0 +1,3 @@
+Move an inner named function to the top level, as inner named functions are not supported by PHPStan
+
+https://getrector.com/rule-detail/move-inner-function-to-top-level-rector

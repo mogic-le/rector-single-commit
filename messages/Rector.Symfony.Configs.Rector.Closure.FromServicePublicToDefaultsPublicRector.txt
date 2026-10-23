@@ -1,0 +1,3 @@
+Instead of per service public() call, use it once in $services->defaults()->public()
+
+https://getrector.com/rule-detail/from-service-public-to-defaults-public-rector

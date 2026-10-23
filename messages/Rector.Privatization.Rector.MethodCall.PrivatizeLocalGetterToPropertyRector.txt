@@ -1,0 +1,3 @@
+Privatize getter of local property to property
+
+https://getrector.com/rule-detail/privatize-local-getter-to-property-rector

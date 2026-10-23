@@ -1,0 +1,3 @@
+Remove duplicated self assign of the same variable
+
+https://getrector.com/rule-detail/remove-double-self-assign-rector

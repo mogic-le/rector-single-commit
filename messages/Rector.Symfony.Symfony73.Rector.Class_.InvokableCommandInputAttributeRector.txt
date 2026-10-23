@@ -1,0 +1,3 @@
+Change Symfony Command with execute() + configure() to __invoke() with attributes
+
+https://getrector.com/rule-detail/invokable-command-input-attribute-rector

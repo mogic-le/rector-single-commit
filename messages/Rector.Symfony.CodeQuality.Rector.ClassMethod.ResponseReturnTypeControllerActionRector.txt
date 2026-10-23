@@ -1,0 +1,3 @@
+Add Response object return type to controller actions
+
+https://getrector.com/rule-detail/response-return-type-controller-action-rector

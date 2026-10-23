@@ -1,0 +1,3 @@
+Changes is_array + Traversable check to is_iterable
+
+https://getrector.com/rule-detail/is-iterable-rector

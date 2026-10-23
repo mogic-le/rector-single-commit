@@ -1,0 +1,3 @@
+Add string type to parameters used in sprintf calls
+
+https://getrector.com/rule-detail/add-param-string-type-from-sprintf-use-rector

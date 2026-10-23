@@ -1,0 +1,3 @@
+Change TwigBundle FilesystemLoader to native one
+
+https://getrector.com/rule-detail/twig-bundle-filesystem-loader-to-twig-rector

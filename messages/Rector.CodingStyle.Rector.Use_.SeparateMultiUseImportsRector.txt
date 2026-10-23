@@ -1,0 +1,3 @@
+Split multi use imports and trait statements to standalone lines
+
+https://getrector.com/rule-detail/separate-multi-use-imports-rector

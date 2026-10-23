@@ -1,0 +1,3 @@
+Change `is_a()` with object and class name check to `instanceof`
+
+https://getrector.com/rule-detail/inline-is-ainstance-of-rector

@@ -1,0 +1,3 @@
+Remove return $this from setter method, to make explicit setter without return value. Goal is to make code unambiguous with one way to set value
+
+https://getrector.com/rule-detail/remove-return-this-from-setter-class-method-rector

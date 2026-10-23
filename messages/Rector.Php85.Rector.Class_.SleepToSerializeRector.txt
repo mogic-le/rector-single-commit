@@ -1,0 +1,3 @@
+Change __sleep() to __serialize() with correct return values
+
+https://getrector.com/rule-detail/sleep-to-serialize-rector

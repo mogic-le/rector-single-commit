@@ -1,0 +1,3 @@
+Rename old $HTTP_* variable names to new replacements
+
+https://getrector.com/rule-detail/replace-http-server-vars-by-server-rector

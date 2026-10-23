@@ -1,0 +1,3 @@
+Change static call to service method via constructor injection
+
+https://getrector.com/rule-detail/static-call-to-method-call-rector

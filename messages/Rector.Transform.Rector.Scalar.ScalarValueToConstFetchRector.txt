@@ -1,0 +1,3 @@
+Replaces Scalar values with a ConstFetch or ClassConstFetch
+
+https://getrector.com/rule-detail/scalar-value-to-const-fetch-rector

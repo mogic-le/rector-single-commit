@@ -1,0 +1,3 @@
+Change PHPUnit assert in Behat context files to Webmozart Assert, as first require a TestCase instance
+
+https://getrector.com/rule-detail/behat-phpunit-assert-to-webmozart-rector

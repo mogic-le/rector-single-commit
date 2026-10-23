@@ -1,0 +1,3 @@
+Change `RectorPrefix202607\Nette\Utils\Json::encode()` and `decode()` to named args
+
+https://getrector.com/rule-detail/utils-json-static-call-named-arg-rector

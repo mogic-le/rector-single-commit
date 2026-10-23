@@ -1,0 +1,3 @@
+Change nested annotations to attributes
+
+https://getrector.com/rule-detail/nested-annotation-to-attribute-rector

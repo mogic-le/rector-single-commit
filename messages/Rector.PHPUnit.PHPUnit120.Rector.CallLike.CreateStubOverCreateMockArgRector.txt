@@ -1,0 +1,3 @@
+Use createStub() over createMock() when used as argument or array value and does not add any mock requirements
+
+https://getrector.com/rule-detail/create-stub-over-create-mock-arg-rector

@@ -1,0 +1,3 @@
+Replaces use of with, callback and sole assertSame() to simple equalTo() matcher
+
+https://getrector.com/rule-detail/callback-single-assert-to-simpler-rector

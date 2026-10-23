@@ -1,0 +1,3 @@
+Changes @AccessType annotation to #[AccessType] attribute with specific key
+
+https://getrector.com/rule-detail/access-type-annotation-to-attribute-rector

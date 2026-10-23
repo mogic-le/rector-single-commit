@@ -1,0 +1,5 @@
+Change type in CollectionType from alias string to class reference
+
+https://symfony.com/doc/2.8/form/form_collections.html
+https://symfony.com/doc/3.0/form/form_collections.html
+https://symfony2-document.readthedocs.io/en/latest/reference/forms/types/collection.html#type

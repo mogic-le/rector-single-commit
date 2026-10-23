@@ -1,0 +1,3 @@
+Downgrade throw expression
+
+https://wiki.php.net/rfc/throw_expression

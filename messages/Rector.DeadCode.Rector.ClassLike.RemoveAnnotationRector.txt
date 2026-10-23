@@ -1,0 +1,3 @@
+Remove annotation by names
+
+https://getrector.com/rule-detail/remove-annotation-rector

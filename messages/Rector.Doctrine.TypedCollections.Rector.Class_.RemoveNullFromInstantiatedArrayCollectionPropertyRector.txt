@@ -1,0 +1,3 @@
+Remove nullability from instantiated ArrayCollection properties, set it to Collection
+
+https://getrector.com/rule-detail/remove-null-from-instantiated-array-collection-property-rector

@@ -1,0 +1,3 @@
+Remove @return docblock that duplicates the native self/static return type of the current object
+
+https://getrector.com/rule-detail/remove-duplicated-return-self-docblock-rector

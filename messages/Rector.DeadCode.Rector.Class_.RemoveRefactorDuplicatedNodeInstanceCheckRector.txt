@@ -1,0 +1,3 @@
+Remove refactor() method of Rector rule double check of $classMethod instance, if already defined in @param type
+
+https://getrector.com/rule-detail/remove-refactor-duplicated-node-instance-check-rector

@@ -1,0 +1,3 @@
+Change visibility of constant from parent class
+
+https://getrector.com/rule-detail/change-constant-visibility-rector

@@ -1,0 +1,3 @@
+Decorate read-only anonymous class with `readonly` attribute
+
+https://getrector.com/rule-detail/read-only-anonymous-class-rector

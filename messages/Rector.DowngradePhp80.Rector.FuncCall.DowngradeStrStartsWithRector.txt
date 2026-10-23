@@ -1,0 +1,3 @@
+Downgrade str_starts_with() to strncmp() version
+
+https://wiki.php.net/rfc/add_str_starts_with_and_ends_with_functions

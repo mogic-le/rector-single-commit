@@ -1,0 +1,3 @@
+Convert enum cases to PascalCase and update their usages
+
+https://getrector.com/rule-detail/enum-case-to-pascal-case-rector

@@ -1,0 +1,3 @@
+Remove unused parameter, if not required by interface or parent class
+
+https://getrector.com/rule-detail/remove-unused-private-method-parameter-rector

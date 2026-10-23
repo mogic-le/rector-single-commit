@@ -1,0 +1,3 @@
+Add "PHPUnit\Framework\MockObject\MockObject" typed property from assigned mock to clearly separate from real objects
+
+https://getrector.com/rule-detail/typed-property-from-create-mock-assign-rector

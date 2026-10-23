@@ -1,0 +1,3 @@
+Change private method param type to strict type, based on passed strict types
+
+https://getrector.com/rule-detail/add-method-call-based-strict-param-type-rector

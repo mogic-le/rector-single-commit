@@ -1,0 +1,3 @@
+Rename copy_on_windows option to follow_symlinks in Filesystem::mirror()
+
+https://getrector.com/rule-detail/rename-copy-on-windows-option-to-follow-symlinks-rector

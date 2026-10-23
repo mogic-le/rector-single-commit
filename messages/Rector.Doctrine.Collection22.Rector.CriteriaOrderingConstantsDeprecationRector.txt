@@ -1,0 +1,3 @@
+Replace ASC/DESC with enum Ordering in Criteria::orderBy method call, and remove usage of Criteria::ASC and Criteria::DESC constants elsewhere
+
+https://getrector.com/rule-detail/criteria-ordering-constants-deprecation-rector

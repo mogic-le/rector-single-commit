@@ -1,0 +1,3 @@
+Turns not-operator comparisons to their method name alternatives in PHPUnit TestCase
+
+https://getrector.com/rule-detail/assert-not-operator-rector

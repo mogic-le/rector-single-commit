@@ -1,0 +1,3 @@
+Changes `pow(val, val2)` to `**` (exp) parameter
+
+https://getrector.com/rule-detail/pow-to-exp-rector

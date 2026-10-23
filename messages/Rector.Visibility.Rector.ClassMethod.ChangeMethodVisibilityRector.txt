@@ -1,0 +1,3 @@
+Change visibility of method from parent class
+
+https://getrector.com/rule-detail/change-method-visibility-rector

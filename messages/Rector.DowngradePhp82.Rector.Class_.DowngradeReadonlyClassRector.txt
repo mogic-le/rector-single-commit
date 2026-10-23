@@ -1,0 +1,3 @@
+Remove "readonly" class type, decorate all properties to "readonly"
+
+https://wiki.php.net/rfc/readonly_classes

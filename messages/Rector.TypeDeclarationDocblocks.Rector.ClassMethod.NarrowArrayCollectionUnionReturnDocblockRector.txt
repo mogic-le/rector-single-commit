@@ -1,0 +1,3 @@
+Change @return "Type[]|ArrayCollection" union docblock to a generic "ArrayCollection<int, Type>"
+
+https://getrector.com/rule-detail/narrow-array-collection-union-return-docblock-rector

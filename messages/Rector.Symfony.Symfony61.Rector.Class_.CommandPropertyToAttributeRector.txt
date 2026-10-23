@@ -1,0 +1,3 @@
+Add Symfony\Component\Console\Attribute\AsCommand to Symfony Commands and remove the deprecated properties
+
+https://symfony.com/doc/current/console.html#registering-the-command

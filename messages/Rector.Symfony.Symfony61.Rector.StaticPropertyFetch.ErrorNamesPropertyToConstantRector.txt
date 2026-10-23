@@ -1,0 +1,3 @@
+Turns old Constraint::$errorNames properties to use Constraint::ERROR_NAMES instead
+
+https://getrector.com/rule-detail/error-names-property-to-constant-rector

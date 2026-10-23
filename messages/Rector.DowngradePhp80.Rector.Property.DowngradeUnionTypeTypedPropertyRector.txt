@@ -1,0 +1,3 @@
+Removes union type property type definition, adding `@var` annotations instead.
+
+https://getrector.com/rule-detail/downgrade-union-type-typed-property-rector

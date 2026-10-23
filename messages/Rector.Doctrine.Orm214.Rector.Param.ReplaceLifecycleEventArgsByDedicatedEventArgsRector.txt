@@ -1,0 +1,3 @@
+Replace Doctrine\ORM\Event\LifecycleEventArgs with specific event classes based on the function call
+
+https://getrector.com/rule-detail/replace-lifecycle-event-args-by-dedicated-event-args-rector

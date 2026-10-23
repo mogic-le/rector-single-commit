@@ -1,0 +1,3 @@
+Convert `time()` function call to `Carbon::now()->getTimestamp()`
+
+https://getrector.com/rule-detail/time-func-call-to-carbon-rector

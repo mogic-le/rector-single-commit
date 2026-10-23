@@ -1,0 +1,3 @@
+Add explicit return null to method/function that returns a value, but missed main return
+
+https://getrector.com/rule-detail/explicit-return-null-rector

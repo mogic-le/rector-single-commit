@@ -1,0 +1,3 @@
+Use anonymous functions instead of deprecated create_function()
+
+https://getrector.com/rule-detail/create-function-to-anonymous-function-rector

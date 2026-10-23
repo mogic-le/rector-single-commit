@@ -1,0 +1,3 @@
+Replace clamp() with min()/max().
+
+https://getrector.com/rule-detail/downgrade-clamp-rector

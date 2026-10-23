@@ -1,0 +1,3 @@
+Remove `sprintf()` wrapper if not needed
+
+https://getrector.com/rule-detail/remove-sole-value-sprintf-rector

@@ -1,0 +1,3 @@
+Change array param type based on passed method call type
+
+https://getrector.com/rule-detail/array-param-type-by-method-call-type-rector

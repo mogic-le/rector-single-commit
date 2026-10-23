@@ -1,0 +1,3 @@
+Change `Closure::fromCallable()` to first class callable syntax
+
+https://getrector.com/rule-detail/closure-from-callable-to-first-class-callable-rector

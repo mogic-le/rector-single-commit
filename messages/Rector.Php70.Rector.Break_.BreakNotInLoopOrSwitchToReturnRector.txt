@@ -1,0 +1,3 @@
+Convert break outside for/foreach/switch context to return
+
+https://getrector.com/rule-detail/break-not-in-loop-or-switch-to-return-rector

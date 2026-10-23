@@ -1,0 +1,3 @@
+Turns string Form Type references to their CONSTANT alternatives in `getParent()` and `getExtendedType()` methods in Form in Symfony
+
+https://getrector.com/rule-detail/form-type-get-parent-rector

@@ -1,0 +1,3 @@
+Separate class constant to own lines
+
+https://getrector.com/rule-detail/split-grouped-class-constants-rector

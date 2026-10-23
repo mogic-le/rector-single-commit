@@ -1,0 +1,3 @@
+Change 2 standalone assigns to variable then binary op to direct binary op
+
+https://getrector.com/rule-detail/binary-op-standalone-assigns-to-direct-rector

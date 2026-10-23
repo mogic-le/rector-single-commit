@@ -1,0 +1,3 @@
+Downgrade enum to constant list class
+
+https://getrector.com/rule-detail/downgrade-enum-to-constant-list-class-rector

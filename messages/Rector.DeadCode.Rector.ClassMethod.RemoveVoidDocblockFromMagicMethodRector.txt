@@ -1,0 +1,3 @@
+Remove useless @return void docblock from magic methods __construct, __destruct, and __clone
+
+https://getrector.com/rule-detail/remove-void-docblock-from-magic-method-rector

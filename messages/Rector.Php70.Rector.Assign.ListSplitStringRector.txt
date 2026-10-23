@@ -1,0 +1,3 @@
+list() cannot split string directly anymore, use str_split()
+
+https://getrector.com/rule-detail/list-split-string-rector

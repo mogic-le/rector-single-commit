@@ -1,0 +1,3 @@
+Convert `dirname(__FILE__)` to `__DIR__`
+
+https://getrector.com/rule-detail/dir-name-file-constant-to-dir-constant-rector

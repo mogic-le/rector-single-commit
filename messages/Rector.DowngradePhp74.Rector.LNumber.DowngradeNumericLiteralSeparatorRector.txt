@@ -1,0 +1,3 @@
+Remove "_" as thousands separator in numbers
+
+https://wiki.php.net/rfc/numeric_literal_separator

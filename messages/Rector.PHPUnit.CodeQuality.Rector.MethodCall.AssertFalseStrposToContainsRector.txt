@@ -1,0 +1,3 @@
+Turns `strpos`/`stripos` comparisons to their method name alternatives in PHPUnit TestCase
+
+https://getrector.com/rule-detail/assert-false-strpos-to-contains-rector

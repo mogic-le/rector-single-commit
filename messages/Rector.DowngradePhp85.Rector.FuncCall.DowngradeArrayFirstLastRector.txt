@@ -1,0 +1,3 @@
+Replace array_first() and array_last() with $array[array_key_first($array)] and $array[array_key_last($array)]
+
+https://getrector.com/rule-detail/downgrade-array-first-last-rector

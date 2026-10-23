@@ -1,0 +1,3 @@
+Simplify count of func_get_args() to func_num_args()
+
+https://getrector.com/rule-detail/simplify-func-get-args-count-rector

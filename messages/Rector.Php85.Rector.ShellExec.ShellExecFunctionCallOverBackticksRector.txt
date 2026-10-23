@@ -1,0 +1,3 @@
+Replace backticks based with shell_exec() function calls
+
+https://getrector.com/rule-detail/shell-exec-function-call-over-backticks-rector

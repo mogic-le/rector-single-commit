@@ -1,0 +1,3 @@
+Remove new ArrayCollection() assigns outside constructor
+
+https://getrector.com/rule-detail/remove-new-array-collection-outside-constructor-rector

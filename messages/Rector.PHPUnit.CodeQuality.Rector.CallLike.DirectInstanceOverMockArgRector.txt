@@ -1,0 +1,3 @@
+Use direct object instance over mock for specific objects in arg of PHPUnit tests
+
+https://getrector.com/rule-detail/direct-instance-over-mock-arg-rector

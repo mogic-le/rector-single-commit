@@ -1,0 +1,4 @@
+Downgrade standalone return null, true, or false
+
+https://wiki.php.net/rfc/null-false-standalone-types
+https://wiki.php.net/rfc/true-type

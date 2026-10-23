@@ -1,0 +1,3 @@
+Use ++$value or --$value  instead of `$value++` or `$value--`
+
+https://getrector.com/rule-detail/post-inc-dec-to-pre-inc-dec-rector

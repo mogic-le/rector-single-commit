@@ -1,0 +1,3 @@
+Convert PHP fluent configs to Symfony 5.3 builder classes with method API
+
+https://symfony.com/blog/new-in-symfony-5-3-config-builder-classes

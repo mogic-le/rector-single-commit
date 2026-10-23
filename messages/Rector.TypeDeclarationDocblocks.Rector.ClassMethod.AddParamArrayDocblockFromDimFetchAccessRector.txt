@@ -1,0 +1,3 @@
+Add @param docblock array type, based on array dim fetch access
+
+https://getrector.com/rule-detail/add-param-array-docblock-from-dim-fetch-access-rector

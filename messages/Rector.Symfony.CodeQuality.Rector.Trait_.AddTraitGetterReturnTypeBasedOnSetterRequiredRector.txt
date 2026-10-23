@@ -1,0 +1,3 @@
+Add trait getter return type based on setter with @required annotation or #[\Symfony\Contracts\Service\Attribute\Required] attribute
+
+https://getrector.com/rule-detail/add-trait-getter-return-type-based-on-setter-required-rector

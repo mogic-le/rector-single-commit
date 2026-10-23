@@ -1,0 +1,3 @@
+Add return type to closures based on known return values
+
+https://getrector.com/rule-detail/closure-return-type-rector

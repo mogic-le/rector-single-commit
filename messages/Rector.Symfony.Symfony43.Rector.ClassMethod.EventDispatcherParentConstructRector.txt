@@ -1,0 +1,3 @@
+Removes parent construct method call in EventDispatcher class
+
+https://getrector.com/rule-detail/event-dispatcher-parent-construct-rector

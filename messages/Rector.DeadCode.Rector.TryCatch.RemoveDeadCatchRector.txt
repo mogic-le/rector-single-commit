@@ -1,0 +1,3 @@
+Remove dead catches
+
+https://getrector.com/rule-detail/remove-dead-catch-rector

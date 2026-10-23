@@ -1,0 +1,3 @@
+Add @var array docblock to array property based on iterable default value
+
+https://getrector.com/rule-detail/docblock-var-array-from-property-defaults-rector

@@ -1,0 +1,3 @@
+Change single return of `||` to early returns
+
+https://getrector.com/rule-detail/return-binary-or-to-early-return-rector

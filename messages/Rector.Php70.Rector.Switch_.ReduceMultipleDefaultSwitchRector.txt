@@ -1,0 +1,3 @@
+Remove first default switch, that is ignored
+
+https://getrector.com/rule-detail/reduce-multiple-default-switch-rector

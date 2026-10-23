@@ -1,0 +1,3 @@
+Transform sequential assignments to pipe operator syntax
+
+https://getrector.com/rule-detail/sequential-assignments-to-pipe-operator-rector

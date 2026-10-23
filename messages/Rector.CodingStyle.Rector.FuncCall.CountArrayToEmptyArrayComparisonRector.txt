@@ -1,0 +1,3 @@
+Change count array comparison to empty array comparison to improve performance
+
+https://getrector.com/rule-detail/count-array-to-empty-array-comparison-rector

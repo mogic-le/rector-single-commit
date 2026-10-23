@@ -1,0 +1,3 @@
+Change ternary type resolve to get_debug_type()
+
+https://getrector.com/rule-detail/get-debug-type-rector

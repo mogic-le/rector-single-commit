@@ -1,0 +1,3 @@
+Add `static` visibility to `__set_state()` methods
+
+https://getrector.com/rule-detail/set-state-to-static-rector

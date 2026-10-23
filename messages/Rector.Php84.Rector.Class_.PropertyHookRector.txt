@@ -1,0 +1,3 @@
+Replace getter/setter with property hook
+
+https://getrector.com/rule-detail/property-hook-rector

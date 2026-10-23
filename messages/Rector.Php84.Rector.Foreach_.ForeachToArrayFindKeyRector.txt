@@ -1,0 +1,3 @@
+Replace foreach with assignment and break with array_find_key
+
+https://getrector.com/rule-detail/foreach-to-array-find-key-rector

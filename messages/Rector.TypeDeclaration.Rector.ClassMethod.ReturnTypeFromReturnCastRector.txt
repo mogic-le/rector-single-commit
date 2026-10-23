@@ -1,0 +1,3 @@
+Add return type to function like with return cast
+
+https://getrector.com/rule-detail/return-type-from-return-cast-rector

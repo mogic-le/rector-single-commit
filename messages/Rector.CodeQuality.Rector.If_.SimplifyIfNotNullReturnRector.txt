@@ -1,0 +1,3 @@
+Changes redundant null check to instant return
+
+https://getrector.com/rule-detail/simplify-if-not-null-return-rector

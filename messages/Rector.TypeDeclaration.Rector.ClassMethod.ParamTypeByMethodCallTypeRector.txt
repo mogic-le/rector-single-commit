@@ -1,0 +1,3 @@
+Change compound param type based on passed method call type
+
+https://getrector.com/rule-detail/param-type-by-method-call-type-rector

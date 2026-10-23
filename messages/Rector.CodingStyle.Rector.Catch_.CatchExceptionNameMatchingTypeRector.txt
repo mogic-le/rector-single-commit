@@ -1,0 +1,3 @@
+Type and name of catch exception should match
+
+https://getrector.com/rule-detail/catch-exception-name-matching-type-rector

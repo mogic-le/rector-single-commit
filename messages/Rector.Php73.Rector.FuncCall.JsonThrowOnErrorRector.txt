@@ -1,0 +1,3 @@
+Adds JSON_THROW_ON_ERROR to json_encode() and json_decode() to throw JsonException on error
+
+https://getrector.com/rule-detail/json-throw-on-error-rector

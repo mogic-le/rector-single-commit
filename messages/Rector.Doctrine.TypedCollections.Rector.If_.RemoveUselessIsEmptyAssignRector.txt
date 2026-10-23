@@ -1,0 +1,3 @@
+Remove useless isEmpty() check on collection with following new ArrayCollection() instance
+
+https://getrector.com/rule-detail/remove-useless-is-empty-assign-rector

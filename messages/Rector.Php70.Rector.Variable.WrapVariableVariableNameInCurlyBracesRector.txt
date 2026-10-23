@@ -1,0 +1,3 @@
+Ensure variable variables are wrapped in curly braces
+
+https://getrector.com/rule-detail/wrap-variable-variable-name-in-curly-braces-rector

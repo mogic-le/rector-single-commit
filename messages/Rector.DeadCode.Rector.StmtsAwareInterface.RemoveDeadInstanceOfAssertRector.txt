@@ -1,0 +1,3 @@
+Remove assert() with instanceof check on a value whose type is already known
+
+https://getrector.com/rule-detail/remove-dead-instance-of-assert-rector

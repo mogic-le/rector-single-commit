@@ -1,0 +1,3 @@
+Remove unused promoted property
+
+https://getrector.com/rule-detail/remove-unused-promoted-property-rector

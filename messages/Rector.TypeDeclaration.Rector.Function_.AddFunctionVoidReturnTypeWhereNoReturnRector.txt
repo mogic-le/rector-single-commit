@@ -1,0 +1,3 @@
+Add function return type void if there is no return
+
+https://getrector.com/rule-detail/add-function-void-return-type-where-no-return-rector

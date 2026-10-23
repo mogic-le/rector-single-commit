@@ -1,0 +1,3 @@
+Changes is_array + Countable check to is_countable
+
+https://getrector.com/rule-detail/is-countable-rector

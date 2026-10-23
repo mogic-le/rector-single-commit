@@ -1,0 +1,3 @@
+Use `class` keyword for class name resolution in string instead of hardcoded string reference
+
+https://getrector.com/rule-detail/use-class-keyword-for-class-name-resolution-rector

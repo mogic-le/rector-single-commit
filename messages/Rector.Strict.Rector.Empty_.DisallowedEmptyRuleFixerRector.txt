@@ -1,0 +1,3 @@
+Change empty() check to explicit strict comparisons
+
+https://getrector.com/rule-detail/disallowed-empty-rule-fixer-rector

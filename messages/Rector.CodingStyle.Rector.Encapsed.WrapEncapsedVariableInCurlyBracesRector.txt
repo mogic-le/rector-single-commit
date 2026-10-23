@@ -1,0 +1,3 @@
+Wrap encapsed variables in curly braces
+
+https://getrector.com/rule-detail/wrap-encapsed-variable-in-curly-braces-rector

@@ -1,0 +1,3 @@
+String cannot be turned into array by assignment anymore
+
+https://getrector.com/rule-detail/assign-array-to-string-rector

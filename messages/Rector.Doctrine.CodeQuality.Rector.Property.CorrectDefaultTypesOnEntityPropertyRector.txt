@@ -1,0 +1,3 @@
+Change default value types to match Doctrine annotation type
+
+https://getrector.com/rule-detail/correct-default-types-on-entity-property-rector

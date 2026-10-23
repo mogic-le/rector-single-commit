@@ -1,0 +1,3 @@
+String asserts must be passed directly to assert()
+
+https://getrector.com/rule-detail/strings-assert-naked-rector

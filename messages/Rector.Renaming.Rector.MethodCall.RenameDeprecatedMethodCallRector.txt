@@ -1,0 +1,3 @@
+Rename method calls whose target method is "@deprecated" and suggests a replacement method on the same class
+
+https://getrector.com/rule-detail/rename-deprecated-method-call-rector

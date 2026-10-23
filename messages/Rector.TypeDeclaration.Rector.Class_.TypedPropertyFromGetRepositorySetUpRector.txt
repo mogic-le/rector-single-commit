@@ -1,0 +1,3 @@
+Add strict typed property to a private test case property based on its @var object type, when assigned via entity manager getRepository() fetch in setUp()
+
+https://getrector.com/rule-detail/typed-property-from-get-repository-set-up-rector

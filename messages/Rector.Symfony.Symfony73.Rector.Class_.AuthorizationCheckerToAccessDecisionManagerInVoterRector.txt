@@ -1,0 +1,3 @@
+Replaces AuthorizationCheckerInterface with AccessDecisionManagerInterface inside Symfony Voters
+
+https://getrector.com/rule-detail/authorization-checker-to-access-decision-manager-in-voter-rector

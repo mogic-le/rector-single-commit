@@ -1,0 +1,3 @@
+Add explicit instance assert between nullable object assign and method call on nullable object (spotted by PHPStan)
+
+https://getrector.com/rule-detail/add-instanceof-assert-for-nullable-instance-rector

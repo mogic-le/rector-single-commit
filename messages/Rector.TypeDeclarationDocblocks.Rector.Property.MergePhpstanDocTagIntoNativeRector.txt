@@ -1,0 +1,3 @@
+Merge more precise @phpstan-var/@phpstan-param/@phpstan-return docblock tag into its native @var/@param/@return tag
+
+https://getrector.com/rule-detail/merge-phpstan-doc-tag-into-native-rector

@@ -1,0 +1,3 @@
+Remove if, foreach and for that does not do anything
+
+https://getrector.com/rule-detail/remove-dead-if-foreach-for-rector

@@ -1,0 +1,3 @@
+Changes Closure to be static when possible
+
+https://getrector.com/rule-detail/static-closure-rector

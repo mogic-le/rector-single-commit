@@ -1,0 +1,3 @@
+Make param/env use in #[Attribute] more precise
+
+https://getrector.com/rule-detail/param-and-env-attribute-rector

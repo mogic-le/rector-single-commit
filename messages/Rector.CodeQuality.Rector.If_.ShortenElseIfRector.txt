@@ -1,0 +1,3 @@
+Shorten `else`/`if` to `elseif`
+
+https://getrector.com/rule-detail/shorten-else-if-rector

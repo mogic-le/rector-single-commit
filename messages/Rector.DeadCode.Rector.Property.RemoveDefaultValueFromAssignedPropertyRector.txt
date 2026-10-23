@@ -1,0 +1,3 @@
+Remove redundant default value from property that is always assigned in the constructor
+
+https://getrector.com/rule-detail/remove-default-value-from-assigned-property-rector

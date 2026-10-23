@@ -1,0 +1,3 @@
+Replaces use of with, callable and instance assert to simple isInstanceOf() method
+
+https://getrector.com/rule-detail/simpler-with-is-instance-of-rector

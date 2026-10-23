@@ -1,0 +1,3 @@
+Change export() to ReflectionFunction alternatives
+
+https://getrector.com/rule-detail/export-to-reflection-function-rector

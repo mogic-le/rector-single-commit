@@ -1,0 +1,5 @@
+Change Twig template short name to bundle syntax in render calls from controllers
+
+https://github.com/symfony/symfony/pull/21035
+https://github.com/symfony/symfony/blob/4.4/src/Symfony/Bundle/FrameworkBundle/Templating/TemplateNameParser.php
+https://symfony.com/doc/4.4/templates.html#bundle-templates

@@ -1,0 +1,3 @@
+Replace arbitrary expressions used with new or instanceof
+
+https://wiki.php.net/rfc/variable_syntax_tweaks#arbitrary_expression_support_for_new_and_instanceof

@@ -1,0 +1,3 @@
+Make assertSame(200, $response->getStatusCode()) in tests comparing response code to include response contents for faster feedback
+
+https://getrector.com/rule-detail/assert-same-response-code-with-debug-contents-rector

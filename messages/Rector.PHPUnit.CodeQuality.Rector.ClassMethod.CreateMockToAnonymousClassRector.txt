@@ -1,0 +1,3 @@
+Change $this->createMock() with methods to direct anonymous class
+
+https://getrector.com/rule-detail/create-mock-to-anonymous-class-rector

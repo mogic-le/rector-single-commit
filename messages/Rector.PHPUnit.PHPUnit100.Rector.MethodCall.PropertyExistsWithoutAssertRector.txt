@@ -1,0 +1,3 @@
+Replace removed assertClassHas*Attribute() with property_exists()
+
+https://getrector.com/rule-detail/property-exists-without-assert-rector

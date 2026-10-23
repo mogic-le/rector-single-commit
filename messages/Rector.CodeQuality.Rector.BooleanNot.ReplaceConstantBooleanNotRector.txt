@@ -1,0 +1,3 @@
+Replace negated boolean literals (!false, !true) with their simplified equivalents (true, false)
+
+https://getrector.com/rule-detail/replace-constant-boolean-not-rector

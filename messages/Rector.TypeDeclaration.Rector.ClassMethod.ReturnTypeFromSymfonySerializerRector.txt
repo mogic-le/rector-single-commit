@@ -1,0 +1,3 @@
+Add return type from symfony serializer
+
+https://getrector.com/rule-detail/return-type-from-symfony-serializer-rector

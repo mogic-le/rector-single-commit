@@ -1,0 +1,3 @@
+Change curly based array and string to square bracket
+
+https://getrector.com/rule-detail/curly-to-square-bracket-array-string-rector

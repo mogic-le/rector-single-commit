@@ -1,0 +1,3 @@
+Add "string" return on current __toString() method when parent method has string return on __toString() method
+
+https://getrector.com/rule-detail/downgrade-string-return-type-on-to-string-rector

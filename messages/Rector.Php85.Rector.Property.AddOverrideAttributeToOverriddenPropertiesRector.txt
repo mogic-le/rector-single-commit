@@ -1,0 +1,3 @@
+Add override attribute to overridden properties
+
+https://getrector.com/rule-detail/add-override-attribute-to-overridden-properties-rector

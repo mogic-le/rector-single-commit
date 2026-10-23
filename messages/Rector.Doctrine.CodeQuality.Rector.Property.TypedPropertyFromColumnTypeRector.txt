@@ -1,0 +1,3 @@
+Complete @var annotations or types based on @ORM\Column
+
+https://getrector.com/rule-detail/typed-property-from-column-type-rector

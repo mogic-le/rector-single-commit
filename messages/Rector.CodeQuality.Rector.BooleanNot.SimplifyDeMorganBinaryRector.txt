@@ -1,0 +1,3 @@
+Simplify negated conditions with de Morgan theorem
+
+https://getrector.com/rule-detail/simplify-de-morgan-binary-rector

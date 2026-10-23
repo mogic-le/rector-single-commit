@@ -1,0 +1,3 @@
+Remove initialization with null value from property declarations
+
+https://getrector.com/rule-detail/remove-null-property-initialization-rector

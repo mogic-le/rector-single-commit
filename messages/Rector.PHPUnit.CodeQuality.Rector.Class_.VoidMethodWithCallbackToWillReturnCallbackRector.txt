@@ -1,0 +1,3 @@
+Flip a ->with($this->callback(...)) matcher on a void mocked method to a ->willReturnCallback() call, dropping the value return and typing the closure as void
+
+https://getrector.com/rule-detail/void-method-with-callback-to-will-return-callback-rector

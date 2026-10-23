@@ -1,0 +1,3 @@
+Remove "never" return type, add a "@return never" tag instead
+
+https://wiki.php.net/rfc/noreturn_type

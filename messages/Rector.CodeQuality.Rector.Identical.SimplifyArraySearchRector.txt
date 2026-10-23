@@ -1,0 +1,3 @@
+Simplify array_search to in_array
+
+https://getrector.com/rule-detail/simplify-array-search-rector

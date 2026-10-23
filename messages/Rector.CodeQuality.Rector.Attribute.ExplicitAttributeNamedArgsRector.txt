@@ -1,0 +1,3 @@
+Convert positional arguments on attributes into named arguments, using the attribute constructor parameter names
+
+https://getrector.com/rule-detail/explicit-attribute-named-args-rector

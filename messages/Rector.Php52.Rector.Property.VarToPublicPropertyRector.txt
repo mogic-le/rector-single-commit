@@ -1,0 +1,3 @@
+Change property modifier from `var` to `public`
+
+https://getrector.com/rule-detail/var-to-public-property-rector

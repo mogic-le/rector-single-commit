@@ -1,0 +1,3 @@
+Change `get_called_class()` to `self::class` on final class
+
+https://getrector.com/rule-detail/get-called-class-to-self-class-rector

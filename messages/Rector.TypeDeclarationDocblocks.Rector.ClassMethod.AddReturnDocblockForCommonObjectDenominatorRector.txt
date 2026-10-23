@@ -1,0 +1,3 @@
+Add @return docblock array of objects, that have common denominator interface/parent class
+
+https://getrector.com/rule-detail/add-return-docblock-for-common-object-denominator-rector

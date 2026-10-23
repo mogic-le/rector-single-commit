@@ -1,0 +1,3 @@
+Narrow ArrayCollection to Collection in class method and property
+
+https://getrector.com/rule-detail/narrow-array-collection-to-collection-rector

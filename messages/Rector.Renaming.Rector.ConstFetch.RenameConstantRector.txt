@@ -1,0 +1,3 @@
+Replace constant by new ones
+
+https://getrector.com/rule-detail/rename-constant-rector

@@ -1,0 +1,3 @@
+Narrow union type to Collection type in method docblock
+
+https://getrector.com/rule-detail/narrow-return-union-to-collection-rector

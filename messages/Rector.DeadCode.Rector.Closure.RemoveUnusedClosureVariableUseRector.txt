@@ -1,0 +1,3 @@
+Remove unused variable in use() of closure
+
+https://getrector.com/rule-detail/remove-unused-closure-variable-use-rector

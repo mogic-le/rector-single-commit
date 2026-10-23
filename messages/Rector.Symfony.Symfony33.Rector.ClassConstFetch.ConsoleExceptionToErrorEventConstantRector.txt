@@ -1,0 +1,3 @@
+Turns old event name with EXCEPTION to ERROR constant in Console in Symfony
+
+https://getrector.com/rule-detail/console-exception-to-error-event-constant-rector

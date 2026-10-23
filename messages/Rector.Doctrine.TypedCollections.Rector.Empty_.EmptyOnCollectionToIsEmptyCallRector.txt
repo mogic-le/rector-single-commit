@@ -1,0 +1,3 @@
+Convert empty() on a Collection to ->isEmpty() call
+
+https://getrector.com/rule-detail/empty-on-collection-to-is-empty-call-rector

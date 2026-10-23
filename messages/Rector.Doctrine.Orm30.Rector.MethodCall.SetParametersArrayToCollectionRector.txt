@@ -1,0 +1,3 @@
+Change the argument type for setParameters from array to ArrayCollection and Parameter calls
+
+https://getrector.com/rule-detail/set-parameters-array-to-collection-rector

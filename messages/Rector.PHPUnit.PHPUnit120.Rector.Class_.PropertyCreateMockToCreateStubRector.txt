@@ -1,0 +1,3 @@
+Change mock object property that is never mocked to createStub()
+
+https://getrector.com/rule-detail/property-create-mock-to-create-stub-rector

@@ -1,0 +1,3 @@
+Change single-value withConsecutive() to with() call, willReturnOnConsecutiveCalls() to willReturn() call
+
+https://getrector.com/rule-detail/single-with-consecutive-to-with-rector

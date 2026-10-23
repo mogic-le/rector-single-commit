@@ -1,0 +1,3 @@
+Add a Stub intersection @var docblock with the stubbed class to a native Stub property
+
+https://getrector.com/rule-detail/add-stub-intersection-var-to-stub-property-rector

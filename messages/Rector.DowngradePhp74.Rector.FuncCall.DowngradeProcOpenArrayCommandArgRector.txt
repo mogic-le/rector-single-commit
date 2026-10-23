@@ -1,0 +1,3 @@
+Change array command argument on proc_open to implode spaced string
+
+https://getrector.com/rule-detail/downgrade-proc-open-array-command-arg-rector

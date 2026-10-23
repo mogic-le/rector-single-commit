@@ -1,0 +1,3 @@
+Change mb_strrpos() encoding argument position
+
+https://getrector.com/rule-detail/mb-strrpos-encoding-argument-position-rector

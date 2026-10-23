@@ -1,0 +1,4 @@
+Merge removed @Method annotation to @Route one
+
+https://symfony.com/doc/current/bundles/SensioFrameworkExtraBundle/annotations/routing.html#method-annotation
+https://stackoverflow.com/questions/51171934/how-to-fix-symfony-3-4-route-and-method-deprecation

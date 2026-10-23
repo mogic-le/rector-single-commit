@@ -1,0 +1,3 @@
+Adds a new `$voter` argument in protected function `voteOnAttribute(string $attribute, $subject, TokenInterface $token, ?Vote $vote = null): bool`
+
+https://getrector.com/rule-detail/add-vote-argument-to-vote-on-attribute-rector

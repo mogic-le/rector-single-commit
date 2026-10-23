@@ -1,0 +1,3 @@
+Add closure and arrow function param array type, if dim fetch is used inside
+
+https://getrector.com/rule-detail/add-arrow-function-param-array-where-dim-fetch-rector

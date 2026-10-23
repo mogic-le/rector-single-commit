@@ -1,0 +1,3 @@
+Converts YAML Doctrine Entity mapping to particular annotation mapping. You must provide a YAML directory with mappings to this rule configuration
+
+https://getrector.com/rule-detail/yaml-to-attribute-doctrine-mapping-rector

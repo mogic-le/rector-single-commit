@@ -1,0 +1,3 @@
+2 following switch keys with identical  will be reduced to one result
+
+https://getrector.com/rule-detail/remove-duplicated-case-in-switch-rector

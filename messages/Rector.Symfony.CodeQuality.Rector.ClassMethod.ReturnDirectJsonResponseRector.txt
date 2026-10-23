@@ -1,0 +1,3 @@
+Instead of creating JsonResponse, setting items and data, return it directly at once to improve readability
+
+https://getrector.com/rule-detail/return-direct-json-response-rector

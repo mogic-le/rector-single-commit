@@ -1,0 +1,3 @@
+Make method return same type as parent
+
+https://www.php.net/manual/en/migration74.new-features.php#migration74.new-features.core.type-variance

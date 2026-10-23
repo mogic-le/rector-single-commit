@@ -1,0 +1,3 @@
+Add strict return array type to private methods based on created empty array and returned
+
+https://getrector.com/rule-detail/private-method-return-type-from-strict-new-array-rector

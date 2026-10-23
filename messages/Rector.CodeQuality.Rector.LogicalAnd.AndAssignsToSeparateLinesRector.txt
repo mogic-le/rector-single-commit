@@ -1,0 +1,3 @@
+Split 2 assigns with "and" to separate lines
+
+https://getrector.com/rule-detail/and-assigns-to-separate-lines-rector

@@ -1,0 +1,3 @@
+Add parameter names to null arguments.
+
+https://getrector.com/rule-detail/add-name-to-null-argument-rector

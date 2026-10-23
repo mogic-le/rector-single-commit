@@ -1,0 +1,3 @@
+Collect routes from Symfony project router and add Route annotation to controller action
+
+https://getrector.com/rule-detail/add-route-annotation-rector

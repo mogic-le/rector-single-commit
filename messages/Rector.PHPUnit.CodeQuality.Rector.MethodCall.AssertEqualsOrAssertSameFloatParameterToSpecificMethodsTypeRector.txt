@@ -1,0 +1,3 @@
+Change assertEquals()/assertSame() method using float on expected argument to new specific alternatives.
+
+https://getrector.com/rule-detail/assert-equals-or-assert-same-float-parameter-to-specific-methods-type-rector

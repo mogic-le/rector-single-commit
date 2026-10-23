@@ -1,0 +1,3 @@
+Replace json_decode($json, true) !== null && json_last_error() === JSON_ERROR_NONE  with json_validate()
+
+https://getrector.com/rule-detail/json-validate-rector

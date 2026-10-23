@@ -1,0 +1,3 @@
+Change current() on Collection typed property to ->toArray() call, to always provide an array
+
+https://getrector.com/rule-detail/current-on-collection-to-array-rector

@@ -1,0 +1,3 @@
+Make PHPUnit test case final
+
+https://getrector.com/rule-detail/finalize-test-case-class-rector

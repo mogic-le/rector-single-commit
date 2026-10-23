@@ -1,0 +1,3 @@
+Change case insensitive constant definition to sensitive one
+
+https://getrector.com/rule-detail/sensitive-define-rector

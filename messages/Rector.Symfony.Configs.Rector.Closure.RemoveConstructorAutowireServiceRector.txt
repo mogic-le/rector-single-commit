@@ -1,0 +1,3 @@
+Remove service that is passed as arg, but already autowired via constructor
+
+https://getrector.com/rule-detail/remove-constructor-autowire-service-rector

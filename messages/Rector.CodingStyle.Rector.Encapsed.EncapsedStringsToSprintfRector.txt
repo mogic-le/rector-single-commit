@@ -1,0 +1,3 @@
+Convert enscaped {$string} to more readable sprintf or concat, if no mask is used
+
+https://getrector.com/rule-detail/encapsed-strings-to-sprintf-rector

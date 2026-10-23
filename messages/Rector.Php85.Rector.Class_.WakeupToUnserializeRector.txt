@@ -1,0 +1,3 @@
+Change __wakeup() to __unserialize()
+
+https://getrector.com/rule-detail/wakeup-to-unserialize-rector

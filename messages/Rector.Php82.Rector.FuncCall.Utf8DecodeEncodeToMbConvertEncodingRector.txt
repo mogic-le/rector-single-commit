@@ -1,0 +1,3 @@
+Change deprecated `utf8_decode()` and `utf8_encode()` to `mb_convert_encoding()`
+
+https://getrector.com/rule-detail/utf8-decode-encode-to-mb-convert-encoding-rector

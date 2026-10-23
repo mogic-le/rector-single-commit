@@ -1,0 +1,3 @@
+Add @var array docblock to a property based on @param of constructor assign
+
+https://getrector.com/rule-detail/docblock-var-from-param-docblock-in-constructor-rector

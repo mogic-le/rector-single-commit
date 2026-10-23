@@ -1,0 +1,3 @@
+Escape - in some cases
+
+https://getrector.com/rule-detail/regex-dash-escape-rector

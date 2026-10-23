@@ -1,0 +1,3 @@
+change instanceof Object to is_resource
+
+https://www.php.net/manual/en/migration80.incompatible.php#migration80.incompatible.resource2object

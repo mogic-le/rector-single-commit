@@ -1,0 +1,3 @@
+Add array_filter()/array_map() function closure param type, based on passed iterable
+
+https://getrector.com/rule-detail/add-array-function-closure-param-type-rector

@@ -1,0 +1,3 @@
+Change static call to new instance
+
+https://getrector.com/rule-detail/static-call-to-new-rector

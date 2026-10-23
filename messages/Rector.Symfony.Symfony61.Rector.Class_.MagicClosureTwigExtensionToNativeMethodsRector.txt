@@ -1,0 +1,3 @@
+Change TwigExtension function/filter magic closures to inlined and clear callables
+
+https://getrector.com/rule-detail/magic-closure-twig-extension-to-native-methods-rector

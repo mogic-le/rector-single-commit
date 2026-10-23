@@ -1,0 +1,3 @@
+Change Requires annotations with values to attributes
+
+https://getrector.com/rule-detail/requires-annotation-with-value-to-attribute-rector

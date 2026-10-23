@@ -1,0 +1,3 @@
+Symplify form rendering by not calling `->createView()` on `render` function
+
+https://getrector.com/rule-detail/simplify-form-rendering-rector

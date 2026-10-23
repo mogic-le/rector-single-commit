@@ -1,0 +1,3 @@
+Change the array-index names to the argument name of the dataProvider
+
+https://getrector.com/rule-detail/named-argument-for-data-provider-rector

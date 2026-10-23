@@ -1,0 +1,3 @@
+Change helper functions to `str_ends_with()`
+
+https://getrector.com/rule-detail/str-ends-with-rector

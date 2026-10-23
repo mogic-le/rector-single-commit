@@ -1,0 +1,3 @@
+Add method return type based on strict ternary values
+
+https://getrector.com/rule-detail/return-type-from-strict-ternary-rector

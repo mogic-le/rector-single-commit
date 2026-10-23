@@ -1,0 +1,3 @@
+Rename `getBlockPrefix()` if it returns the default value - class to underscore, e.g. UserFormType = user_form
+
+https://github.com/symfony/symfony/blob/3.4/UPGRADE-3.0.md#form

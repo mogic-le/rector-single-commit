@@ -1,0 +1,3 @@
+Change dirname() and string concat, to __DIR__ and direct string path
+
+https://getrector.com/rule-detail/dirname-dir-concat-string-to-direct-string-path-rector

@@ -1,0 +1,3 @@
+Add a throw fallback to a consecutive willReturnCallback() that has no explicit fallback return, so an unexpected extra call fails loudly
+
+https://getrector.com/rule-detail/will-return-callback-fallback-to-throw-rector

@@ -1,0 +1,3 @@
+Turns `@Template` annotation to explicit method call in Controller of FrameworkExtraBundle in Symfony
+
+https://getrector.com/rule-detail/template-annotation-to-this-render-rector

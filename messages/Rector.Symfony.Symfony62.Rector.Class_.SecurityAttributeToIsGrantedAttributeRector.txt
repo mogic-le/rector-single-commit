@@ -1,0 +1,4 @@
+Replaces #[Security] framework-bundle attribute with Symfony native #[IsGranted] one
+
+https://github.com/symfony/symfony/pull/45415#issuecomment-1077625813
+https://github.com/symfony/symfony/pull/46907

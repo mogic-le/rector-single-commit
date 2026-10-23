@@ -1,0 +1,3 @@
+Change $this->assertSame(5, $collection->count()) to $this->assertCount(5, $collection) in tests
+
+https://getrector.com/rule-detail/assert-same-count-on-collection-to-assert-count-rector

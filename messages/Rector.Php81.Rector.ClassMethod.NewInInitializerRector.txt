@@ -1,0 +1,3 @@
+Replace property declaration of new state with direct new
+
+https://getrector.com/rule-detail/new-in-initializer-rector

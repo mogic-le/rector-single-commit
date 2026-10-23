@@ -1,0 +1,3 @@
+Move push(request) to "Symfony\Component\HttpFoundation\RequestStack" constructor
+
+https://getrector.com/rule-detail/push-request-to-request-stack-constructor-rector

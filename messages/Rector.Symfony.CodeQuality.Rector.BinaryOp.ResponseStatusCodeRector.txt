@@ -1,0 +1,3 @@
+Turns status code numbers to constants
+
+https://getrector.com/rule-detail/response-status-code-rector

@@ -1,0 +1,3 @@
+Make implicit nullable param to explicit
+
+https://getrector.com/rule-detail/explicit-nullable-param-type-rector

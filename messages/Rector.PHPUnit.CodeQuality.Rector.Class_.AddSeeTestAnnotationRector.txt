@@ -1,0 +1,3 @@
+Add @see annotation test of the class for faster jump to test. Make it FQN, so it stays in the annotation, not in the PHP source code.
+
+https://getrector.com/rule-detail/add-see-test-annotation-rector

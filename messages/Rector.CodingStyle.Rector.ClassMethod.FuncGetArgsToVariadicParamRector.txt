@@ -1,0 +1,3 @@
+Refactor `func_get_args()` in to a variadic param
+
+https://getrector.com/rule-detail/func-get-args-to-variadic-param-rector

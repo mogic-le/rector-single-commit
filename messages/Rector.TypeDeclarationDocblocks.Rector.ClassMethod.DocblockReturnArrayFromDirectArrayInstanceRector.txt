@@ -1,0 +1,3 @@
+Add simple @return array docblock based on direct single level direct return of []
+
+https://getrector.com/rule-detail/docblock-return-array-from-direct-array-instance-rector

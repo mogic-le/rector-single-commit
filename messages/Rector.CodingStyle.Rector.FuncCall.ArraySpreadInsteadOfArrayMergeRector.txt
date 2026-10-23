@@ -1,0 +1,3 @@
+Change array_merge() to spread operator
+
+https://getrector.com/rule-detail/array-spread-instead-of-array-merge-rector

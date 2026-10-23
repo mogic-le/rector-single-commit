@@ -1,0 +1,3 @@
+Merge old interface to a new one, that already has its methods
+
+https://getrector.com/rule-detail/merge-interfaces-rector

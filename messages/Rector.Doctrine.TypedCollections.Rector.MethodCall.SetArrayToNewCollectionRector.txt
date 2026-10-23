@@ -1,0 +1,3 @@
+Change array to new ArrayCollection() on collection typed property
+
+https://getrector.com/rule-detail/set-array-to-new-collection-rector

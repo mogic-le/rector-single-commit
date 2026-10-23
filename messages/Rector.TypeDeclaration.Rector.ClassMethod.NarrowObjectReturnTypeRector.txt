@@ -1,0 +1,3 @@
+Narrows return type from generic `object` or parent class to specific class in final classes/methods
+
+https://getrector.com/rule-detail/narrow-object-return-type-rector

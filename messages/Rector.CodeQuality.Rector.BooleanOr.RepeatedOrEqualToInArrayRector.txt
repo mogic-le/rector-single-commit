@@ -1,0 +1,3 @@
+Simplify repeated || compare of same value, to in_array() call
+
+https://getrector.com/rule-detail/repeated-or-equal-to-in-array-rector

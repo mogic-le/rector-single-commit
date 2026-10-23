@@ -1,0 +1,3 @@
+Migrates from deprecated Form Builder->setDataMapper(new PropertyPathMapper()) to Builder->setDataMapper(new DataMapper(new PropertyPathAccessor()))
+
+https://github.com/symfony/symfony/blob/5.x/UPGRADE-5.2.md#form

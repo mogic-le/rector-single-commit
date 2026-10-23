@@ -1,0 +1,3 @@
+Changes @Accessor annotation to #[Accessor] attribute with specific "getter" or "setter" keys
+
+https://getrector.com/rule-detail/accessor-annotation-to-attribute-rector

@@ -1,0 +1,3 @@
+Remove dead condition above return
+
+https://getrector.com/rule-detail/remove-dead-condition-above-return-rector

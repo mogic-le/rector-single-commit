@@ -1,0 +1,3 @@
+Complete missing if/else brackets
+
+https://getrector.com/rule-detail/complete-missing-if-else-bracket-rector

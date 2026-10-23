@@ -1,0 +1,3 @@
+Remove `&` from function and method calls
+
+https://getrector.com/rule-detail/remove-reference-from-call-rector

@@ -1,0 +1,3 @@
+Change method call to function call
+
+https://getrector.com/rule-detail/method-call-to-func-call-rector

@@ -1,0 +1,3 @@
+Change `compact()` call to own array
+
+https://getrector.com/rule-detail/compact-to-variables-rector

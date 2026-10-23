@@ -1,0 +1,3 @@
+Remove useless is_object() check on combine with instanceof check
+
+https://getrector.com/rule-detail/remove-useless-is-object-check-rector

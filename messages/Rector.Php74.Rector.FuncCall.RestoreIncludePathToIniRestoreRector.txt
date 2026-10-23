@@ -1,0 +1,3 @@
+Change restore_include_path() to ini_restore("include_path")
+
+https://getrector.com/rule-detail/restore-include-path-to-ini-restore-rector

@@ -1,0 +1,3 @@
+Change `switch` with only 1 check to `if`
+
+https://getrector.com/rule-detail/singular-switch-to-if-rector

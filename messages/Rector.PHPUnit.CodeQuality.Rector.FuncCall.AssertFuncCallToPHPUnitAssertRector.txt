@@ -1,0 +1,3 @@
+Turns assert() calls in tests to PHPUnit assert method alternative
+
+https://getrector.com/rule-detail/assert-func-call-to-phpunit-assert-rector

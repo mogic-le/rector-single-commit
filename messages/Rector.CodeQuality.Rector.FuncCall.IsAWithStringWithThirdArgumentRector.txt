@@ -1,0 +1,3 @@
+Complete missing 3rd argument in case is_a() function in case of strings
+
+https://getrector.com/rule-detail/is-awith-string-with-third-argument-rector

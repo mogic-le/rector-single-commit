@@ -1,0 +1,3 @@
+Change array_push() to direct variable assign
+
+https://getrector.com/rule-detail/change-array-push-to-array-assign-rector

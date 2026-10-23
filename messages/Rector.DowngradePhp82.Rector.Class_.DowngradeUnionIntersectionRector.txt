@@ -1,0 +1,3 @@
+Remove the union type with intersection, use docblock based
+
+https://php.watch/versions/8.2/dnf-types

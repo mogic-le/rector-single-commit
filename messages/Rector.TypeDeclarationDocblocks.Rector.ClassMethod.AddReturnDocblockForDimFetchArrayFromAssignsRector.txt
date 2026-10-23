@@ -1,0 +1,3 @@
+Add @return docblock for methods returning array from dim fetch of assigned arrays
+
+https://getrector.com/rule-detail/add-return-docblock-for-dim-fetch-array-from-assigns-rector

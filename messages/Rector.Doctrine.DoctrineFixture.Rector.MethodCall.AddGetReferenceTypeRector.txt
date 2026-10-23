@@ -1,0 +1,3 @@
+Change $this->getReference() in data fixtures to fill reference class directly
+
+https://getrector.com/rule-detail/add-get-reference-type-rector

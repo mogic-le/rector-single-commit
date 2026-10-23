@@ -1,0 +1,3 @@
+Change setUpBeforeClass() to setUp() if not needed
+
+https://getrector.com/rule-detail/set-up-before-class-to-set-up-rector

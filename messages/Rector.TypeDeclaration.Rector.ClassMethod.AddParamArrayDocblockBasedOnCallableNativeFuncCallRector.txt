@@ -1,0 +1,3 @@
+Add param array docblock based on callable native function call
+
+https://getrector.com/rule-detail/add-param-array-docblock-based-on-callable-native-func-call-rector

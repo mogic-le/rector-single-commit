@@ -1,0 +1,3 @@
+Change ternary number compare to `max()` call
+
+https://getrector.com/rule-detail/number-compare-to-max-func-call-rector

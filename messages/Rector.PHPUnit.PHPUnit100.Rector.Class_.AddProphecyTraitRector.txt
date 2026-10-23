@@ -1,0 +1,5 @@
+Add Prophecy trait for method using $this->prophesize()
+
+https://github.com/sebastianbergmann/phpunit/issues/4142
+https://github.com/sebastianbergmann/phpunit/issues/4141
+https://github.com/sebastianbergmann/phpunit/issues/4149

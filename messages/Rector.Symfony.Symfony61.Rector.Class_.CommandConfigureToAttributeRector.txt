@@ -1,0 +1,3 @@
+Add Symfony\Component\Console\Attribute\AsCommand to Symfony Commands from configure()
+
+https://getrector.com/rule-detail/command-configure-to-attribute-rector

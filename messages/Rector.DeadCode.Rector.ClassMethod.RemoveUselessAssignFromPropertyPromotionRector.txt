@@ -1,0 +1,3 @@
+Remove useless re-assign from property promotion
+
+https://getrector.com/rule-detail/remove-useless-assign-from-property-promotion-rector

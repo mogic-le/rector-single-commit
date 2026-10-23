@@ -1,0 +1,3 @@
+Replace mb_strpos() !== false and mb_strstr()  with str_contains()
+
+https://getrector.com/rule-detail/mb-str-contains-rector

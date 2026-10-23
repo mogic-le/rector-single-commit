@@ -1,0 +1,3 @@
+Change nested ifs to early return
+
+https://getrector.com/rule-detail/change-nested-ifs-to-early-return-rector

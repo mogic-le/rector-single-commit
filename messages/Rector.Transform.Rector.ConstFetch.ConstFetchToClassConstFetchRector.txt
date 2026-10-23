@@ -1,0 +1,3 @@
+Change const fetch to class const fetch
+
+https://getrector.com/rule-detail/const-fetch-to-class-const-fetch-rector

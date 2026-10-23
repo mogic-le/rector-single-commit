@@ -1,0 +1,3 @@
+Change deprecated semicolon to colon after switch case
+
+https://getrector.com/rule-detail/colon-after-switch-case-rector

@@ -1,0 +1,3 @@
+Complete strict param type declaration based on route annotation
+
+https://getrector.com/rule-detail/param-type-from-route-required-regex-rector

@@ -1,0 +1,4 @@
+Change param type to match the lowest type in whole family tree
+
+https://www.php.net/manual/en/migration72.new-features.php#migration72.new-features.param-type-widening
+https://3v4l.org/fOgSE

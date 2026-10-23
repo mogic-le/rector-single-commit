@@ -1,0 +1,3 @@
+Downgrade number_format arg to fill 4th arg when only 3rd arg filled
+
+https://www.php.net/manual/en/function.number-format.php#refsect1-function.number-format-changelog

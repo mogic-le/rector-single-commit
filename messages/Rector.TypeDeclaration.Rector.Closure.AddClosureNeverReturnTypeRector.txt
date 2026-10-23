@@ -1,0 +1,3 @@
+Add "never" return-type for closure that never return anything
+
+https://getrector.com/rule-detail/add-closure-never-return-type-rector

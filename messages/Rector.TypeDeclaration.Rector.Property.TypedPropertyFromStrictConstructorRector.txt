@@ -1,0 +1,3 @@
+Add typed properties based only on strict constructor types
+
+https://getrector.com/rule-detail/typed-property-from-strict-constructor-rector

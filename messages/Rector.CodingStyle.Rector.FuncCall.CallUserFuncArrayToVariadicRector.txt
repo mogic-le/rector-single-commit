@@ -1,0 +1,3 @@
+Replace `call_user_func_array()` with variadic
+
+https://getrector.com/rule-detail/call-user-func-array-to-variadic-rector

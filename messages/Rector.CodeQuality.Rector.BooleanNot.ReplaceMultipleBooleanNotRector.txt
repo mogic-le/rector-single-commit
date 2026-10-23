@@ -1,0 +1,3 @@
+Replace the Double not operator (!!) by type-casting to boolean
+
+https://getrector.com/rule-detail/replace-multiple-boolean-not-rector

@@ -1,0 +1,5 @@
+Refactor "*TestListener.php" to particular "*Hook.php" files
+
+https://github.com/sebastianbergmann/phpunit/issues/3388
+https://github.com/sebastianbergmann/phpunit/commit/34a0abd8b56a4a9de83c9e56384f462541a0f939
+https://github.com/sebastianbergmann/phpunit/tree/master/src/Runner/Hook

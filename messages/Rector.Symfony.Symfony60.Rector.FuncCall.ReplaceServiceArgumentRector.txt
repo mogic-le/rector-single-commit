@@ -1,0 +1,3 @@
+Replace defined service() argument in Symfony PHP config
+
+https://getrector.com/rule-detail/replace-service-argument-rector

@@ -1,0 +1,3 @@
+Change ternary empty on array property with array dim fetch to coalesce operator
+
+https://getrector.com/rule-detail/ternary-empty-array-array-dim-fetch-to-coalesce-rector

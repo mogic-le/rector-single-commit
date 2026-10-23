@@ -1,0 +1,4 @@
+Tests without assertion will have @doesNotPerformAssertion
+
+https://phpunit.readthedocs.io/en/9.5/annotations.html#doesnotperformassertions
+https://github.com/sebastianbergmann/phpunit/issues/2484

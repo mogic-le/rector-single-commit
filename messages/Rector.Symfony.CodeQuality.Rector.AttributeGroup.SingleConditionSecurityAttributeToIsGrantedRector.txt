@@ -1,0 +1,3 @@
+Narrow #[Security] attribute with inner single "is_granted/has_role" condition string to #[IsGranted] attribute
+
+https://getrector.com/rule-detail/single-condition-security-attribute-to-is-granted-rector

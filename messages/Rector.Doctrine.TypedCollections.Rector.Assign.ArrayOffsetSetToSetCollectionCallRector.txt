@@ -1,0 +1,3 @@
+Change dim assign on a Collection to clear ->set() call
+
+https://getrector.com/rule-detail/array-offset-set-to-set-collection-call-rector

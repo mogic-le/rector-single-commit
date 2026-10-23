@@ -1,0 +1,3 @@
+Turns $this->entityManager->getRepository(...) on entity that supports service repository, to constructor injection
+
+https://getrector.com/rule-detail/get-repository-service-locator-to-repository-service-injection-rector

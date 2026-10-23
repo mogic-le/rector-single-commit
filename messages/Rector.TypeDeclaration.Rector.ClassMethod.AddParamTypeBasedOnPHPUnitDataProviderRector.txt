@@ -1,0 +1,3 @@
+Adds param type declaration based on PHPUnit provider return type declaration
+
+https://getrector.com/rule-detail/add-param-type-based-on-phpunit-data-provider-rector

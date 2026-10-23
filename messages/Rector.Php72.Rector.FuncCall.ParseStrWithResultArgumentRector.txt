@@ -1,0 +1,3 @@
+Use $result argument in parse_str() function
+
+https://getrector.com/rule-detail/parse-str-with-result-argument-rector

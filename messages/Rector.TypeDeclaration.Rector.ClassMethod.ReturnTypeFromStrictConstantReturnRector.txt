@@ -1,0 +1,3 @@
+Add strict type declaration based on returned constants
+
+https://getrector.com/rule-detail/return-type-from-strict-constant-return-rector

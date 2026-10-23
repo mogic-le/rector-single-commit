@@ -1,0 +1,3 @@
+Adds @return PHPDoc type to Collection property getter by *ToMany annotation/attribute
+
+https://getrector.com/rule-detail/complete-return-docblock-from-to-many-rector

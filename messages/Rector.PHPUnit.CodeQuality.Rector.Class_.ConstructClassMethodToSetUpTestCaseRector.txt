@@ -1,0 +1,3 @@
+Change __construct() method in tests of `PHPUnit\Framework\TestCase` to setUp(), to prevent dangerous override
+
+https://github.com/sebastianbergmann/phpunit/issues/3975#issuecomment-562584609

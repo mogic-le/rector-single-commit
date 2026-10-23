@@ -1,0 +1,3 @@
+Use common != instead of less known <> with same meaning
+
+https://getrector.com/rule-detail/common-not-equal-rector

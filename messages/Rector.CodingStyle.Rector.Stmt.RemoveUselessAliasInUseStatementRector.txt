@@ -1,0 +1,3 @@
+Remove useless alias in use statement as same name with last use statement name
+
+https://getrector.com/rule-detail/remove-useless-alias-in-use-statement-rector

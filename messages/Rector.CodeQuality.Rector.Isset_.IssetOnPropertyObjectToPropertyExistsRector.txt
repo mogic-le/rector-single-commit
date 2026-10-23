@@ -1,0 +1,3 @@
+Change isset on property object to `property_exists()` and not null check
+
+https://getrector.com/rule-detail/isset-on-property-object-to-property-exists-rector

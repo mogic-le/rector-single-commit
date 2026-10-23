@@ -1,0 +1,3 @@
+Change createConfigureMock() on Entity/Document object to direct new instance with setters
+
+https://getrector.com/rule-detail/configured-mock-entity-to-setter-object-rector

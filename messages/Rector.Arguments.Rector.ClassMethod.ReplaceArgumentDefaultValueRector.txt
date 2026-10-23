@@ -1,0 +1,3 @@
+Replace defined map of arguments in defined methods and their calls
+
+https://getrector.com/rule-detail/replace-argument-default-value-rector

@@ -1,0 +1,3 @@
+Remove if, elseif, and else blocks that do not do anything
+
+https://getrector.com/rule-detail/remove-dead-if-block-rector

@@ -1,0 +1,3 @@
+Add #[AllowMockObjectsWithoutExpectations] attribute to PHPUnit test classes that have methods with data providers and mock objects without expectations
+
+https://getrector.com/rule-detail/allow-mock-objects-for-data-provider-rector

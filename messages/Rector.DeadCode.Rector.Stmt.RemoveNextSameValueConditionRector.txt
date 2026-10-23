@@ -1,0 +1,3 @@
+Remove already checked if condition repeated in the very next stmt
+
+https://getrector.com/rule-detail/remove-next-same-value-condition-rector

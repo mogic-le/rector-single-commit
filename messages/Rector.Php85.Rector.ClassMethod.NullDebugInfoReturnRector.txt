@@ -1,0 +1,3 @@
+Replaces `null` return value with empty array in `__debugInfo` methods
+
+https://getrector.com/rule-detail/null-debug-info-return-rector

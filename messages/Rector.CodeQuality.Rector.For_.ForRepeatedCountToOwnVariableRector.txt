@@ -1,0 +1,3 @@
+Change count() in for function to own variable
+
+https://getrector.com/rule-detail/for-repeated-count-to-own-variable-rector

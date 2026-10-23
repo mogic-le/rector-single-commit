@@ -1,0 +1,3 @@
+Add @return docblock for array based on return of json_decode() return array
+
+https://getrector.com/rule-detail/add-return-docblock-for-json-array-rector

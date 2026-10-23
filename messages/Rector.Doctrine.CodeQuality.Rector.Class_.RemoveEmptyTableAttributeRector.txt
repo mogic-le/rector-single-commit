@@ -1,0 +1,3 @@
+Remove empty Table attribute on entities because it's useless
+
+https://getrector.com/rule-detail/remove-empty-table-attribute-rector

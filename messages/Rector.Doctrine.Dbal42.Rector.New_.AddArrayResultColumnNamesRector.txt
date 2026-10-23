@@ -1,0 +1,3 @@
+Add column names argument to ArrayResult object
+
+https://getrector.com/rule-detail/add-array-result-column-names-rector

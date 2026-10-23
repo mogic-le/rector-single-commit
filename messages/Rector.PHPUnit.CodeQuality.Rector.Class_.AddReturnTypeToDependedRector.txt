@@ -1,0 +1,3 @@
+Add return type declaration to a test method that returns type
+
+https://getrector.com/rule-detail/add-return-type-to-depended-rector

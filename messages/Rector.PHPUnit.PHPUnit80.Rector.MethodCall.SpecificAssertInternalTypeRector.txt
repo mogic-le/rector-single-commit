@@ -1,0 +1,4 @@
+Change assertInternalType()/assertNotInternalType() method to new specific alternatives
+
+https://github.com/sebastianbergmann/phpunit/blob/master/ChangeLog-8.0.md
+https://github.com/sebastianbergmann/phpunit/commit/a406c85c51edd76ace29119179d8c21f590c939e

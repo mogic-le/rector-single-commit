@@ -1,0 +1,3 @@
+Change array_key_exists() on property to property_exists()
+
+https://getrector.com/rule-detail/array-key-exists-on-property-rector

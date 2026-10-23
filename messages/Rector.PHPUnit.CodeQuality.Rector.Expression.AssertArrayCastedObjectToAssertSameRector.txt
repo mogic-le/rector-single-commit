@@ -1,0 +1,3 @@
+Split object casted to array to assert public properties to standalone assert calls
+
+https://getrector.com/rule-detail/assert-array-casted-object-to-assert-same-rector

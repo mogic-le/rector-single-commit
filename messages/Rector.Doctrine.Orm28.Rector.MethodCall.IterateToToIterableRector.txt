@@ -1,0 +1,4 @@
+Change iterate() => toIterable() on query result
+
+https://github.com/doctrine/orm/pull/7885
+https://github.com/doctrine/orm/pull/8293

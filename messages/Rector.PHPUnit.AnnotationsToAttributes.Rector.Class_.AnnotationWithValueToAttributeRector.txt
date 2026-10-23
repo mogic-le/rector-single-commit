@@ -1,0 +1,3 @@
+Change annotations with value to attribute
+
+https://getrector.com/rule-detail/annotation-with-value-to-attribute-rector

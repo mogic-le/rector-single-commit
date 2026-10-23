@@ -1,0 +1,3 @@
+Change Symfony controller method injection to direct constructor dependency, to separate params and services clearly
+
+https://getrector.com/rule-detail/controller-method-injection-to-constructor-rector

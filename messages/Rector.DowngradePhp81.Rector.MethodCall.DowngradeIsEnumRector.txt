@@ -1,0 +1,3 @@
+Downgrades isEnum() on class reflection
+
+https://getrector.com/rule-detail/downgrade-is-enum-rector

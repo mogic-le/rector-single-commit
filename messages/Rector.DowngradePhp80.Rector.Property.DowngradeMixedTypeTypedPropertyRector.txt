@@ -1,0 +1,3 @@
+Removes mixed type property type definition, adding `@var` annotations instead.
+
+https://getrector.com/rule-detail/downgrade-mixed-type-typed-property-rector

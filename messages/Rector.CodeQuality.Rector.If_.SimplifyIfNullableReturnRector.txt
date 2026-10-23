@@ -1,0 +1,3 @@
+Direct return on if nullable check before return
+
+https://getrector.com/rule-detail/simplify-if-nullable-return-rector

@@ -1,0 +1,3 @@
+Replace createMock() assigned to variable that is only used as arg with no expectations, to createStub()
+
+https://getrector.com/rule-detail/expression-create-mock-to-create-stub-rector

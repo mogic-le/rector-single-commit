@@ -1,0 +1,3 @@
+Change multiple null compares to ?? queue
+
+https://getrector.com/rule-detail/consecutive-null-compare-returns-to-null-coalesce-queue-rector

@@ -1,0 +1,3 @@
+Change foreach() items assign to empty array to direct assign
+
+https://getrector.com/rule-detail/foreach-items-assign-to-empty-array-to-assign-rector

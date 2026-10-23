@@ -1,0 +1,3 @@
+PHPUnit\Framework\TestCase requires a parent constructor call
+
+https://getrector.com/rule-detail/parent-test-class-constructor-rector

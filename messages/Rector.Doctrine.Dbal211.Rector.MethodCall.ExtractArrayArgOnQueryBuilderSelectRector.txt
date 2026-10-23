@@ -1,0 +1,4 @@
+Extract array arg on QueryBuilder select, addSelect, groupBy, addGroupBy
+
+https://github.com/doctrine/dbal/pull/3853
+https://github.com/doctrine/dbal/issues/3837

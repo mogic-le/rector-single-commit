@@ -1,0 +1,3 @@
+Change array_merge of non arrays to array directly
+
+https://getrector.com/rule-detail/array-merge-of-non-arrays-to-simple-array-rector

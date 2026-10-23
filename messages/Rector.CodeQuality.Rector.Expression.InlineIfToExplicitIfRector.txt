@@ -1,0 +1,3 @@
+Change inline if to explicit if
+
+https://getrector.com/rule-detail/inline-if-to-explicit-if-rector

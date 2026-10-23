@@ -1,0 +1,3 @@
+Fix a misspelled class name casing in a @var docblock to match the real class name
+
+https://getrector.com/rule-detail/fix-class-case-sensitivity-var-docblock-rector

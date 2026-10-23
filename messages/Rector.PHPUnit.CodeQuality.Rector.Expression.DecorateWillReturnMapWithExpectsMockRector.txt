@@ -1,0 +1,3 @@
+Decorate willReturnMap() calls with expects on the mock object if missing
+
+https://getrector.com/rule-detail/decorate-will-return-map-with-expects-mock-rector

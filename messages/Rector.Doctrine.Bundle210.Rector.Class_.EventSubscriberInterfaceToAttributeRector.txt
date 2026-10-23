@@ -1,0 +1,3 @@
+Replace EventSubscriberInterface with #[AsDoctrineListener] attribute
+
+https://getrector.com/rule-detail/event-subscriber-interface-to-attribute-rector

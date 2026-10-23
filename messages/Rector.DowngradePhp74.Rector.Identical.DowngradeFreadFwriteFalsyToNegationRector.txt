@@ -1,0 +1,3 @@
+Changes fread() or fwrite() compare to false to negation check
+
+https://getrector.com/rule-detail/downgrade-fread-fwrite-falsy-to-negation-rector

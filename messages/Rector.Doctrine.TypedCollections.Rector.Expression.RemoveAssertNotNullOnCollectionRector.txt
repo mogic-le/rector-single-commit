@@ -1,0 +1,3 @@
+Remove RectorPrefix202607\PHPUnit\Framework\Assert::assertNotNull() on a Collection type
+
+https://getrector.com/rule-detail/remove-assert-not-null-on-collection-rector

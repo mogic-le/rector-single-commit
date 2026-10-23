@@ -1,0 +1,3 @@
+Change in_array() on Collection typed property to ->contains() call
+
+https://getrector.com/rule-detail/in-array-on-collection-to-contains-call-rector

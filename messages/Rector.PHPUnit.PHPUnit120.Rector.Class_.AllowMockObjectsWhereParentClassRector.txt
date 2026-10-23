@@ -1,0 +1,3 @@
+Add #[AllowMockObjectsWithoutExpectations] attribute to PHPUnit test classes with a 3rd party test case, that provides any mocks
+
+https://getrector.com/rule-detail/allow-mock-objects-where-parent-class-rector

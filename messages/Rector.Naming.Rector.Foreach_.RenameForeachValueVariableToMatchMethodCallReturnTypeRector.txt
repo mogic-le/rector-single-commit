@@ -1,0 +1,3 @@
+Renames value variable name in foreach loop to match method type
+
+https://getrector.com/rule-detail/rename-foreach-value-variable-to-match-method-call-return-type-rector

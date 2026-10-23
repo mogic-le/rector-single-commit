@@ -1,0 +1,3 @@
+Change assertContains()/assertNotContains() method to new string and iterable alternatives
+
+https://github.com/sebastianbergmann/phpunit/blob/master/ChangeLog-8.0.md

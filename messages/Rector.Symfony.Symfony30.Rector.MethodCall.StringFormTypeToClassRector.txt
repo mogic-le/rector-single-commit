@@ -1,0 +1,3 @@
+Turns string Form Type references to their CONSTANT alternatives in FormTypes in Form in Symfony. To enable custom types, add link to your container XML dump in "$rectorConfig->symfonyContainerXml(...)"
+
+https://getrector.com/rule-detail/string-form-type-to-class-rector

@@ -1,0 +1,3 @@
+Change executeQuery() with parameters to bindValue() with explicit values
+
+https://getrector.com/rule-detail/execute-query-params-to-bind-value-rector

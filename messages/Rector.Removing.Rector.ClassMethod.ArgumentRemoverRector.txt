@@ -1,0 +1,3 @@
+Remove defined arguments in defined methods and their calls
+
+https://getrector.com/rule-detail/argument-remover-rector

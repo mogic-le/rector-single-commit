@@ -1,0 +1,3 @@
+Add @param node type to refactor() method based on getNodeTypes() of a Rector rule, to avoid instanceof checks and unknown types reported by PHPStan
+
+https://getrector.com/rule-detail/add-param-type-to-refactor-method-rector

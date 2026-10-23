@@ -1,0 +1,3 @@
+Change $object::class to get_class($object)
+
+https://getrector.com/rule-detail/downgrade-class-on-object-to-get-class-rector

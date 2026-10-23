@@ -1,0 +1,3 @@
+Change Doctrine\DBAL\Connection and Doctrine\DBAL\Driver\ResultStatement ->fetchAll() to ->fetchAllAssociative() and other replacements
+
+https://github.com/doctrine/dbal/pull/4019

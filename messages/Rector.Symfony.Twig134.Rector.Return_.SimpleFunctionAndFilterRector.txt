@@ -1,0 +1,3 @@
+Changes Twig_Function_Method to Twig_SimpleFunction calls in Twig_Extension.
+
+https://getrector.com/rule-detail/simple-function-and-filter-rector

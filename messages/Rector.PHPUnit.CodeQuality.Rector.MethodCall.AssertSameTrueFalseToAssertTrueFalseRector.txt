@@ -1,0 +1,3 @@
+Change $this->assertSame(true, ...) to assertTrue()
+
+https://getrector.com/rule-detail/assert-same-true-false-to-assert-true-false-rector

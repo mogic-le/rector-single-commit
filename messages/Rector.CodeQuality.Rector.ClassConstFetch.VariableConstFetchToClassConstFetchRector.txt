@@ -1,0 +1,3 @@
+Change variable class constant fetch to direct class constant fetch when class or constant target is final
+
+https://getrector.com/rule-detail/variable-const-fetch-to-class-const-fetch-rector

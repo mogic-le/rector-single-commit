@@ -1,0 +1,3 @@
+Change `settype()` to `(type)` on standalone line. `settype()` returns always success/failure bool value
+
+https://getrector.com/rule-detail/set-type-to-cast-rector

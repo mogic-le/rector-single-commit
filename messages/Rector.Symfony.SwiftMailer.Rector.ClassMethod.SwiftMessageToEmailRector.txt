@@ -1,0 +1,3 @@
+Convert \Swift_Message into an \Symfony\Component\Mime\Email
+
+https://getrector.com/rule-detail/swift-message-to-email-rector

@@ -1,0 +1,3 @@
+Remove the intersection type params and returns, add @param/@return tags instead
+
+https://wiki.php.net/rfc/pure-intersection-types

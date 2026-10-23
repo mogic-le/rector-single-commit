@@ -1,0 +1,3 @@
+Improve @param Doctrine collection types to make them useful both for PHPStan and PHPStorm
+
+https://getrector.com/rule-detail/complete-param-docblock-from-setter-to-collection-rector

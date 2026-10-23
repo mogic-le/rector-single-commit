@@ -1,0 +1,3 @@
+Change covers annotations with value to attribute
+
+https://getrector.com/rule-detail/covers-annotation-with-value-to-attribute-rector

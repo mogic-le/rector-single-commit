@@ -1,0 +1,3 @@
+Change return [] to return new ArrayCollection([]) in a method, that returns Collection type
+
+https://getrector.com/rule-detail/return-array-to-new-array-collection-rector

@@ -1,0 +1,3 @@
+Make first argument of define() string
+
+https://getrector.com/rule-detail/stringify-define-rector

@@ -1,0 +1,3 @@
+Update the @var docblock of a property changed to a Stub native type, from MockObject to Stub
+
+https://getrector.com/rule-detail/mock-object-var-to-stub-rector

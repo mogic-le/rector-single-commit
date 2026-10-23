@@ -1,0 +1,3 @@
+Make properties in tests with intersection mock object either object type or mock type
+
+https://getrector.com/rule-detail/single-mock-property-type-rector

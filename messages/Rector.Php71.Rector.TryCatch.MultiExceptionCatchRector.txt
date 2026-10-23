@@ -1,0 +1,3 @@
+Change multiple catch statements of the same exception to a single one `|` separated
+
+https://getrector.com/rule-detail/multi-exception-catch-rector

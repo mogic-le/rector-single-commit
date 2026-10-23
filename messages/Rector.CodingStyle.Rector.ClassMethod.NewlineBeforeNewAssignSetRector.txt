@@ -1,0 +1,3 @@
+Add extra space before new assign set
+
+https://getrector.com/rule-detail/newline-before-new-assign-set-rector

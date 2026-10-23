@@ -1,0 +1,3 @@
+list() assigns variables in reverse order - relevant in array assign
+
+https://getrector.com/rule-detail/list-swap-array-order-rector

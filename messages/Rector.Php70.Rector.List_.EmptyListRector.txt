@@ -1,0 +1,3 @@
+list() cannot be empty
+
+https://getrector.com/rule-detail/empty-list-rector

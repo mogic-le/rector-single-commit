@@ -1,0 +1,3 @@
+Change scalar param type based on passed method call type
+
+https://getrector.com/rule-detail/scalar-param-type-by-method-call-type-rector

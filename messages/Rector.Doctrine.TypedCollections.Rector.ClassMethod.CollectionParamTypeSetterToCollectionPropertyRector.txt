@@ -1,0 +1,3 @@
+Add property collection type based on param type setter
+
+https://getrector.com/rule-detail/collection-param-type-setter-to-collection-property-rector

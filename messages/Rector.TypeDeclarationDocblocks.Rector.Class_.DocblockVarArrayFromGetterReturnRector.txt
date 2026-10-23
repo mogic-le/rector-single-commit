@@ -1,0 +1,3 @@
+Add @var array property docblock from its getter @return
+
+https://getrector.com/rule-detail/docblock-var-array-from-getter-return-rector

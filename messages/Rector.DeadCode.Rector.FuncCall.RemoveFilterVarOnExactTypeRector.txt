@@ -1,0 +1,3 @@
+Removes filter_var() calls with exact type
+
+https://getrector.com/rule-detail/remove-filter-var-on-exact-type-rector

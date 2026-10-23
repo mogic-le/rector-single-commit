@@ -1,0 +1,3 @@
+Replace defined old properties by new ones
+
+https://getrector.com/rule-detail/rename-property-rector

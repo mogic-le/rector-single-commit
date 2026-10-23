@@ -1,0 +1,3 @@
+Convert `new DateTime()` with a method call to `Carbon::*()`
+
+https://getrector.com/rule-detail/date-time-method-call-to-carbon-rector

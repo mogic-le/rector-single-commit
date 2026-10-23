@@ -1,0 +1,3 @@
+Add @return array return from data provider param type
+
+https://getrector.com/rule-detail/add-return-array-docblock-from-data-provider-param-rector

@@ -1,0 +1,3 @@
+Turns accidentally flipped assert order to right one, with expected expr to left
+
+https://getrector.com/rule-detail/flip-assert-rector

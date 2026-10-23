@@ -1,0 +1,3 @@
+Replaces ArgumentValueResolverInterface by ValueResolverInterface with supports logic moved to resolve() method
+
+https://getrector.com/rule-detail/argument-value-resolver-to-value-resolver-rector

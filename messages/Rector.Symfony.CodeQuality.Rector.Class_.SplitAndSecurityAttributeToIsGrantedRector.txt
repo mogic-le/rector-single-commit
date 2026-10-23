@@ -1,0 +1,3 @@
+Split #[Security] attribute with "and" condition string to multiple #[IsGranted] attributes with sole values
+
+https://getrector.com/rule-detail/split-and-security-attribute-to-is-granted-rector

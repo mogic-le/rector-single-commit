@@ -1,0 +1,3 @@
+Convert nested min()/max() calls to clamp()
+
+https://getrector.com/rule-detail/min-max-to-clamp-rector

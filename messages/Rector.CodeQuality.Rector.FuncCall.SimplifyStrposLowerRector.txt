@@ -1,0 +1,3 @@
+Simplify strpos(strtolower(), "...") calls
+
+https://getrector.com/rule-detail/simplify-strpos-lower-rector

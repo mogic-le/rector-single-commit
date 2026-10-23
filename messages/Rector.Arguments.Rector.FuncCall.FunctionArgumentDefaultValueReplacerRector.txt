@@ -1,0 +1,3 @@
+Streamline the operator arguments of `version_compare` function
+
+https://getrector.com/rule-detail/function-argument-default-value-replacer-rector

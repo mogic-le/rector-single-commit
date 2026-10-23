@@ -1,0 +1,3 @@
+Narrow ternary with implode and empty string to direct implode, as same result
+
+https://getrector.com/rule-detail/ternary-implode-to-implode-rector

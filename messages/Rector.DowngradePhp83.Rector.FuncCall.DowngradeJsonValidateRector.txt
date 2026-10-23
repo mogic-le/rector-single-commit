@@ -1,0 +1,3 @@
+Replace json_validate() function
+
+https://wiki.php.net/rfc/json_validate

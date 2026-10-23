@@ -1,0 +1,3 @@
+Change static method and local-only calls to non-static
+
+https://getrector.com/rule-detail/locally-called-static-method-to-non-static-rector

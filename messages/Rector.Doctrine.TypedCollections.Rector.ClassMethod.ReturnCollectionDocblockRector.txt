@@ -1,0 +1,3 @@
+Add return Collection docblock to method that returns a collection property
+
+https://getrector.com/rule-detail/return-collection-docblock-rector

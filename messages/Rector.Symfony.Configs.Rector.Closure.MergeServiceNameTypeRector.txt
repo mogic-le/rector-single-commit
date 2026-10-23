@@ -1,0 +1,3 @@
+Merge name === type service registration, $services->set(SomeType::class, SomeType::class)
+
+https://getrector.com/rule-detail/merge-service-name-type-rector

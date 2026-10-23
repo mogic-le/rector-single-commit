@@ -1,0 +1,3 @@
+Add a MockObject intersection @var docblock with the mocked class to a native MockObject property
+
+https://getrector.com/rule-detail/add-intersection-var-to-mock-object-property-rector

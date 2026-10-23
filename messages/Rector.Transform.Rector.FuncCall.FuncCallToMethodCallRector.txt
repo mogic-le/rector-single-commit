@@ -1,0 +1,3 @@
+Turn defined function calls to local method calls
+
+https://getrector.com/rule-detail/func-call-to-method-call-rector

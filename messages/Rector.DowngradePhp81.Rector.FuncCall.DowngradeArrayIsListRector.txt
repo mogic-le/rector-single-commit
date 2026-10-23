@@ -1,0 +1,3 @@
+Replace array_is_list() function
+
+https://wiki.php.net/rfc/is_list

@@ -1,0 +1,3 @@
+Turns instanceof comparisons to their method name alternatives in PHPUnit TestCase
+
+https://getrector.com/rule-detail/assert-instance-of-comparison-rector

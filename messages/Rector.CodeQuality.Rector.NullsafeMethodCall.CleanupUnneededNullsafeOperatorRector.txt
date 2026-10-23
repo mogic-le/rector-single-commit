@@ -1,0 +1,3 @@
+Cleanup unneeded nullsafe operator
+
+https://getrector.com/rule-detail/cleanup-unneeded-nullsafe-operator-rector

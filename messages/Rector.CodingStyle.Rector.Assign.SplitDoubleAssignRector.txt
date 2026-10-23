@@ -1,0 +1,3 @@
+Split multiple inline assigns to each own lines default value, to prevent undefined array issues
+
+https://getrector.com/rule-detail/split-double-assign-rector

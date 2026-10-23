@@ -1,0 +1,3 @@
+Add new default arguments in calls of defined methods and class types
+
+https://getrector.com/rule-detail/argument-adder-rector

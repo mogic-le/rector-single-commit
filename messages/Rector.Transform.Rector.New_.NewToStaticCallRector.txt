@@ -1,0 +1,3 @@
+Change new Object to static call
+
+https://getrector.com/rule-detail/new-to-static-call-rector

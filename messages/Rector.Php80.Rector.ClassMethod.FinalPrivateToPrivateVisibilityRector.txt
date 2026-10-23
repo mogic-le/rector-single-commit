@@ -1,0 +1,3 @@
+Change method visibility from final private to only private
+
+https://getrector.com/rule-detail/final-private-to-private-visibility-rector

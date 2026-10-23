@@ -1,0 +1,3 @@
+Change `switch (true)` of returning cases to `match (true)` expression
+
+https://getrector.com/rule-detail/switch-true-to-match-rector

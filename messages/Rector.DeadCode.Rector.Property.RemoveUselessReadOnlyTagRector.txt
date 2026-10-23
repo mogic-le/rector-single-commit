@@ -1,0 +1,3 @@
+Remove useless `@readonly` annotation on native readonly type
+
+https://getrector.com/rule-detail/remove-useless-read-only-tag-rector

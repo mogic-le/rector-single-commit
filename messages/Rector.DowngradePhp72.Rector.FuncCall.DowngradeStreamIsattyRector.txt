@@ -1,0 +1,3 @@
+Downgrade stream_isatty() function
+
+https://github.com/symfony/polyfill/commit/cc2bf55accd32b989348e2039e8c91cde46aebed

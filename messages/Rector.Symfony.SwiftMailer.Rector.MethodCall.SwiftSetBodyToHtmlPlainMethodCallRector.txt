@@ -1,0 +1,3 @@
+Changes setBody() method call on Swift_Message into a html() or plain() based on second argument
+
+https://github.com/laravel/framework/pull/38481/files#diff-2310168aa86b70a22595ba784039cbdde829bd38245c9586eedd111dfd0f806d

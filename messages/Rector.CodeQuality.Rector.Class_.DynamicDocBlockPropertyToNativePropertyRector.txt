@@ -1,0 +1,3 @@
+Turn dynamic docblock properties on class with no parents to explicit ones
+
+https://getrector.com/rule-detail/dynamic-doc-block-property-to-native-property-rector

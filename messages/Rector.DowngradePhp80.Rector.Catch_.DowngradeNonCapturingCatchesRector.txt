@@ -1,0 +1,3 @@
+Downgrade catch () without variable to one
+
+https://wiki.php.net/rfc/non-capturing_catches

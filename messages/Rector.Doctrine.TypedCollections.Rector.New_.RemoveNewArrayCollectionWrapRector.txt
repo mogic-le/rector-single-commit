@@ -1,0 +1,3 @@
+Remove new ArrayCollection wrap on collection typed property, as it is always assigned in the constructor
+
+https://getrector.com/rule-detail/remove-new-array-collection-wrap-rector

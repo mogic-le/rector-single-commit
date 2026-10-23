@@ -1,0 +1,3 @@
+Remove dead instanceof check on type hinted variable
+
+https://getrector.com/rule-detail/remove-dead-instance-of-rector

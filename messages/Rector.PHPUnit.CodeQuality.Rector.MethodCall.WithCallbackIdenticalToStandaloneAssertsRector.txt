@@ -1,0 +1,3 @@
+Replaces identical compare in $this->callable() sole return to standalone PHPUnit asserts that show more detailed failure messages
+
+https://getrector.com/rule-detail/with-callback-identical-to-standalone-asserts-rector

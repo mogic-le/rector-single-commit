@@ -1,0 +1,3 @@
+Change while null compare to strict instanceof check
+
+https://getrector.com/rule-detail/while-nullable-to-instanceof-rector

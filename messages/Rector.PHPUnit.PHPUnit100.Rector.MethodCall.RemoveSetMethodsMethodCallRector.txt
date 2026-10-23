@@ -1,0 +1,5 @@
+Remove "setMethods()" method as never used, move methods to "addMethods()" if non-existent or @method magic
+
+https://github.com/sebastianbergmann/phpunit/pull/3687
+https://github.com/sebastianbergmann/phpunit/commit/d618fa3fda437421264dcfa1413a474f306f79c4
+https://stackoverflow.com/questions/65075204/method-setmethods-is-deprecated-when-try-to-write-a-php-unit-test

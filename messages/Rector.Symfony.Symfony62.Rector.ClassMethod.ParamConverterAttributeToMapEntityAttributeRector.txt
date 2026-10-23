@@ -1,0 +1,3 @@
+Replace ParamConverter attribute with mappings with the MapEntity attribute
+
+https://symfony.com/blog/new-in-symfony-6-2-built-in-cache-security-template-and-doctrine-attributes

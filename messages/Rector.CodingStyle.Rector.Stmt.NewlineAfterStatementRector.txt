@@ -1,0 +1,3 @@
+Add empty new line after different-type statements to improve code readability
+
+https://getrector.com/rule-detail/newline-after-statement-rector

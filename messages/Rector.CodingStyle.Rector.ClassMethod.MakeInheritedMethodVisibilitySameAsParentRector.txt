@@ -1,0 +1,3 @@
+Make method visibility same as parent one
+
+https://getrector.com/rule-detail/make-inherited-method-visibility-same-as-parent-rector

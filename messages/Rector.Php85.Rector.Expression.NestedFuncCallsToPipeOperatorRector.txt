@@ -1,0 +1,3 @@
+Convert multiple nested function calls in single line to |> pipe operator
+
+https://getrector.com/rule-detail/nested-func-calls-to-pipe-operator-rector

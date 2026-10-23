@@ -1,0 +1,3 @@
+Replace deprecated `${var}` to `{$var}`
+
+https://getrector.com/rule-detail/variable-in-string-interpolation-fixer-rector

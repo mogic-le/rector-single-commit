@@ -1,0 +1,3 @@
+Change data provider methods to static
+
+https://getrector.com/rule-detail/static-data-provider-class-method-rector

@@ -1,0 +1,3 @@
+Applies type hints to array_map closures
+
+https://getrector.com/rule-detail/add-closure-param-type-for-array-map-rector

@@ -1,0 +1,3 @@
+Add return bool, based on direct true/false returns
+
+https://getrector.com/rule-detail/bool-return-type-from-boolean-const-returns-rector

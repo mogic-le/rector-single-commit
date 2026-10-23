@@ -1,0 +1,3 @@
+Replace variadic placeholders usage by Closure::fromCallable()
+
+https://wiki.php.net/rfc/first_class_callable_syntax

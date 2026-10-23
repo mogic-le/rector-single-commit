@@ -1,0 +1,3 @@
+Add closure param object type based on the argument the assigned closure variable is called with
+
+https://getrector.com/rule-detail/add-closure-param-type-from-variable-call-rector

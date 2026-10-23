@@ -1,0 +1,3 @@
+Remove coalesce assign on collection typed property, as it is always assigned in the constructor
+
+https://getrector.com/rule-detail/remove-coalesce-assign-on-collection-rector

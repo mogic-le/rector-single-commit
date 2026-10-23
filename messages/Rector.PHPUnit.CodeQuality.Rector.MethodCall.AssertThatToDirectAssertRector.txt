@@ -1,0 +1,3 @@
+Change $this->assertThat($value, $this->*()) to direct $this->assert*() method
+
+https://getrector.com/rule-detail/assert-that-to-direct-assert-rector

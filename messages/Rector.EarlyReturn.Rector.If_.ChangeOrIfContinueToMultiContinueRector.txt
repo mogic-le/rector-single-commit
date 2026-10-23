@@ -1,0 +1,3 @@
+Change `if a || b` to early return
+
+https://getrector.com/rule-detail/change-or-if-continue-to-multi-continue-rector

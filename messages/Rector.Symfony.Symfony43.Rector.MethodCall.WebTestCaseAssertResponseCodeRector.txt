@@ -1,0 +1,3 @@
+Simplify use of assertions in WebTestCase
+
+https://getrector.com/rule-detail/web-test-case-assert-response-code-rector

@@ -1,0 +1,3 @@
+Remove if instance of collection on already known Collection type
+
+https://getrector.com/rule-detail/remove-if-instanceof-collection-rector

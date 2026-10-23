@@ -1,0 +1,3 @@
+Remove Json constant that available only in php 7.2
+
+https://www.php.net/manual/en/function.json-encode.php#refsect1-function.json-encode-changelog

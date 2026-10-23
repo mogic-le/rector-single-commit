@@ -1,0 +1,3 @@
+Downgrade is_countable() to former version
+
+https://wiki.php.net/rfc/is-countable

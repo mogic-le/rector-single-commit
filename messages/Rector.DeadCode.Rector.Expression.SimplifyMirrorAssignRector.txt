@@ -1,0 +1,3 @@
+Remove unneeded `$value = $value` assigns
+
+https://getrector.com/rule-detail/simplify-mirror-assign-rector

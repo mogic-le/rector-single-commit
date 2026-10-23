@@ -1,0 +1,3 @@
+Set in_array strict to true when defined on similar type
+
+https://getrector.com/rule-detail/strict-in-array-rector

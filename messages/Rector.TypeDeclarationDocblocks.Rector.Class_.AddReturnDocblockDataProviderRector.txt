@@ -1,0 +1,3 @@
+Add @return array docblock to array provider method
+
+https://getrector.com/rule-detail/add-return-docblock-data-provider-rector

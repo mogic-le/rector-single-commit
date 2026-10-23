@@ -1,0 +1,3 @@
+Turn an inner named function declared inside a class method into a private method, as inner named functions are not supported by PHPStan
+
+https://getrector.com/rule-detail/inner-function-to-private-method-rector

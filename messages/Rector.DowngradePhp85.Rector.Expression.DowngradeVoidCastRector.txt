@@ -1,0 +1,3 @@
+Replace void casts with proper handling of return values
+
+https://getrector.com/rule-detail/downgrade-void-cast-rector

@@ -1,0 +1,3 @@
+Remove last return in the functions, since does not do anything
+
+https://getrector.com/rule-detail/remove-dead-return-rector

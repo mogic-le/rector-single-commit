@@ -1,0 +1,3 @@
+Changes negate of empty comparison of nullable value to explicit === or !== compare
+
+https://getrector.com/rule-detail/nullable-compare-to-null-rector

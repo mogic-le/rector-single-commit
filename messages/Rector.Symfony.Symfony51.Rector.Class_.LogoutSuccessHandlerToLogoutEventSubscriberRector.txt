@@ -1,0 +1,3 @@
+Change logout success handler to an event listener that listens to LogoutEvent
+
+https://github.com/symfony/symfony/pull/36243

@@ -1,0 +1,3 @@
+Remove unused parameter in public method on final class without extends and interface
+
+https://getrector.com/rule-detail/remove-unused-public-method-parameter-rector

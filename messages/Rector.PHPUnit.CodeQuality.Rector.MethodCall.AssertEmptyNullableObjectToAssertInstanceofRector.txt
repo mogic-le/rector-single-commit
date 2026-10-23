@@ -1,0 +1,3 @@
+Change assertNotEmpty() and assertNotNull() on an object to more clear assertInstanceof()
+
+https://getrector.com/rule-detail/assert-empty-nullable-object-to-assert-instanceof-rector

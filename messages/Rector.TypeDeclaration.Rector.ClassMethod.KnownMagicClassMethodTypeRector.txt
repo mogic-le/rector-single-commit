@@ -1,0 +1,3 @@
+Add known magic methods parameter and return type declarations
+
+https://getrector.com/rule-detail/known-magic-class-method-type-rector

@@ -1,0 +1,3 @@
+Assign outcome of ternary condition to variable, where applicable
+
+https://getrector.com/rule-detail/ternary-condition-variable-assignment-rector

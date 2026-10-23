@@ -1,0 +1,3 @@
+Wrap chr() argument with % 256 to avoid deprecated out-of-range integers
+
+https://getrector.com/rule-detail/chr-arg-modulo-rector

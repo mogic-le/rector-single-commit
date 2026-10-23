@@ -1,0 +1,3 @@
+Remove argument by position by function name
+
+https://getrector.com/rule-detail/remove-finfo-buffer-context-arg-rector

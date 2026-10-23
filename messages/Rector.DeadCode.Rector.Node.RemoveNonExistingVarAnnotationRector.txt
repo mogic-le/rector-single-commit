@@ -1,0 +1,3 @@
+Removes non-existing @var annotations above the code
+
+https://getrector.com/rule-detail/remove-non-existing-var-annotation-rector

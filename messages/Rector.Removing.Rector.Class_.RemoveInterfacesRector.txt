@@ -1,0 +1,3 @@
+Remove interfaces from class
+
+https://getrector.com/rule-detail/remove-interfaces-rector

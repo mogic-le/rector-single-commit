@@ -1,0 +1,4 @@
+Replace $this->getDoctrine() and $this->dispatchMessage() calls in AbstractController with direct service use
+
+https://github.com/symfony/symfony/pull/42422
+https://github.com/symfony/symfony/pull/1195

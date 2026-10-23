@@ -1,0 +1,3 @@
+Casts Doctrine Expr\x to string where necessary.
+
+https://getrector.com/rule-detail/cast-doctrine-expr-to-string-rector

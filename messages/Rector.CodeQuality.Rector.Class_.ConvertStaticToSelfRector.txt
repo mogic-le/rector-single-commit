@@ -1,0 +1,3 @@
+Change `static::*` to `self::*` on final class or private static members
+
+https://getrector.com/rule-detail/convert-static-to-self-rector

@@ -1,0 +1,3 @@
+Remove "readonly" property type, add a "@readonly" tag instead
+
+https://wiki.php.net/rfc/readonly_properties_v2

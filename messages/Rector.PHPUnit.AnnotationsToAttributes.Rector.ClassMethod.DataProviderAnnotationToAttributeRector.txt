@@ -1,0 +1,3 @@
+Change dataProvider annotations to attribute
+
+https://getrector.com/rule-detail/data-provider-annotation-to-attribute-rector

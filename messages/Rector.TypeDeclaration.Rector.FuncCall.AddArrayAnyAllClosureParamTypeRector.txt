@@ -1,0 +1,3 @@
+Add a type to an untyped array_any()/array_all() closure param, based on the array item type
+
+https://getrector.com/rule-detail/add-array-any-all-closure-param-type-rector

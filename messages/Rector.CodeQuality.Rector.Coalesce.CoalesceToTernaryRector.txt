@@ -1,0 +1,3 @@
+Replace coalesce to ternary when left side is non nullable
+
+https://getrector.com/rule-detail/coalesce-to-ternary-rector

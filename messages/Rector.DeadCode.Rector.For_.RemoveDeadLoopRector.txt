@@ -1,0 +1,3 @@
+Remove loop with no body
+
+https://getrector.com/rule-detail/remove-dead-loop-rector

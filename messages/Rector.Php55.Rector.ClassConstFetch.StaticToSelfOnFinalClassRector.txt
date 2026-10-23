@@ -1,0 +1,3 @@
+Change `static::class` to `self::class` on final class
+
+https://getrector.com/rule-detail/static-to-self-on-final-class-rector

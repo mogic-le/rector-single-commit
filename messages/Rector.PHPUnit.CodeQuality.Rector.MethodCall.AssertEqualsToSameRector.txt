@@ -1,0 +1,3 @@
+Turns `assertEquals()` into stricter `assertSame()` for scalar values in PHPUnit TestCase
+
+https://getrector.com/rule-detail/assert-equals-to-same-rector

@@ -1,0 +1,3 @@
+Change concat assign on a new array item to plain assign, as the new item is always null
+
+https://getrector.com/rule-detail/new-array-item-concat-assign-to-assign-rector

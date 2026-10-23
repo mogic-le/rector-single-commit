@@ -1,0 +1,3 @@
+Remove indentation from heredoc/nowdoc
+
+https://getrector.com/rule-detail/downgrade-flexible-heredoc-syntax-rector

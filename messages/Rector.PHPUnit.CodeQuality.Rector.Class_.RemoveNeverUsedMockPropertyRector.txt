@@ -1,0 +1,3 @@
+Remove never used property mock, only to set expectations
+
+https://getrector.com/rule-detail/remove-never-used-mock-property-rector

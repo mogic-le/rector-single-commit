@@ -1,0 +1,3 @@
+Narrow union type to Collection type in property docblock and native type declaration
+
+https://getrector.com/rule-detail/narrow-property-union-to-collection-rector

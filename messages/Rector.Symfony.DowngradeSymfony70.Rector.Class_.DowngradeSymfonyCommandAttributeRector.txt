@@ -1,0 +1,3 @@
+Downgrade Symfony Command Attribute
+
+https://getrector.com/rule-detail/downgrade-symfony-command-attribute-rector

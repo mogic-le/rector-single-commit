@@ -1,0 +1,3 @@
+Narrow @return docblock "bool" to "false" or "true" when the native return type only allows one of them
+
+https://getrector.com/rule-detail/narrow-bool-docblock-return-type-rector

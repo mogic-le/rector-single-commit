@@ -1,0 +1,3 @@
+Remove service from Sensio @Route
+
+https://getrector.com/rule-detail/remove-service-from-sensio-route-rector

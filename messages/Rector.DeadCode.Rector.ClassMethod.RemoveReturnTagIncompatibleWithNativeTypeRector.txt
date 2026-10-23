@@ -1,0 +1,3 @@
+Remove @return docblock that contradicts the declared native return type
+
+https://getrector.com/rule-detail/remove-return-tag-incompatible-with-native-type-rector

@@ -1,0 +1,3 @@
+Removes unneeded array_values() in in_array() call
+
+https://getrector.com/rule-detail/simplify-in-array-values-rector

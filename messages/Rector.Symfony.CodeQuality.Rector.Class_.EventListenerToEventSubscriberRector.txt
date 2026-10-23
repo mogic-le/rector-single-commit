@@ -1,0 +1,3 @@
+Change Symfony Event listener class to Event Subscriber based on configuration in service.yaml file
+
+https://getrector.com/rule-detail/event-listener-to-event-subscriber-rector

@@ -1,0 +1,3 @@
+Changes static call to instance call, where not useful
+
+https://getrector.com/rule-detail/static-call-on-non-static-to-instance-call-rector

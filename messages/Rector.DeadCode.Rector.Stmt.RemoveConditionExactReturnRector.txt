@@ -1,0 +1,3 @@
+Remove if with condition and return with same expr, followed by compared expr return
+
+https://getrector.com/rule-detail/remove-condition-exact-return-rector

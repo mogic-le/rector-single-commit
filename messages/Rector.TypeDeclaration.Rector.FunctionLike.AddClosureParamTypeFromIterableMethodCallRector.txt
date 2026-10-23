@@ -1,0 +1,3 @@
+Applies type hints to closures on Iterable method calls where key/value types are documented
+
+https://getrector.com/rule-detail/add-closure-param-type-from-iterable-method-call-rector

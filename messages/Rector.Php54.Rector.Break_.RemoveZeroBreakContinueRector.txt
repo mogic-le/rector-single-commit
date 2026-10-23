@@ -1,0 +1,3 @@
+Remove 0 from break and continue
+
+https://getrector.com/rule-detail/remove-zero-break-continue-rector

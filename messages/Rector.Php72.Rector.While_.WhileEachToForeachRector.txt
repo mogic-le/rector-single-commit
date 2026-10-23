@@ -1,0 +1,3 @@
+Use `foreach()` instead of deprecated `each()`
+
+https://getrector.com/rule-detail/while-each-to-foreach-rector

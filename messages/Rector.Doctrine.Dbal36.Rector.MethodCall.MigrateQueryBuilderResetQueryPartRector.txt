@@ -1,0 +1,3 @@
+Change QueryBuilder::resetQueryPart() to $queryBuilder->reset*()
+
+https://getrector.com/rule-detail/migrate-query-builder-reset-query-part-rector

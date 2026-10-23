@@ -1,0 +1,3 @@
+Replace key value on specific attribute to class constant
+
+https://getrector.com/rule-detail/attribute-key-to-class-const-fetch-rector

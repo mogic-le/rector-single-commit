@@ -1,0 +1,3 @@
+Turns old option names to new ones in FormTypes in Form in Symfony
+
+https://getrector.com/rule-detail/option-name-rector

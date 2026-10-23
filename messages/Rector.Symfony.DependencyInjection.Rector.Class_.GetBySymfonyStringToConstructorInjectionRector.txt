@@ -1,0 +1,3 @@
+Converts typical Symfony services like $this->get("validator") in commands/controllers to constructor injection (step 3/x)
+
+https://getrector.com/rule-detail/get-by-symfony-string-to-constructor-injection-rector

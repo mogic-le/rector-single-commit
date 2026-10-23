@@ -1,0 +1,3 @@
+Decorate callbacks and arrow functions in willReturnCallback() with known param/return types based on reflection method
+
+https://getrector.com/rule-detail/type-will-return-callable-arrow-function-rector

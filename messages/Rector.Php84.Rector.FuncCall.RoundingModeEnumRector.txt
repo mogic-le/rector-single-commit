@@ -1,0 +1,3 @@
+Replace rounding mode constant to RoundMode enum in `round()`
+
+https://getrector.com/rule-detail/rounding-mode-enum-rector

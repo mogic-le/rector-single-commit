@@ -1,0 +1,3 @@
+Change assertContains()/assertNotContains() with non-strict comparison to new specific alternatives
+
+https://github.com/sebastianbergmann/phpunit/issues/3426

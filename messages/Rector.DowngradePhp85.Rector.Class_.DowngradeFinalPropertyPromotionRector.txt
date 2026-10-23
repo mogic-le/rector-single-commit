@@ -1,0 +1,3 @@
+Change constructor final property promotion to @final tag
+
+https://wiki.php.net/rfc/final_promotion

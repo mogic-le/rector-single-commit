@@ -1,0 +1,3 @@
+Add Iterator type on known PHPUnit data providers
+
+https://getrector.com/rule-detail/return-iterator-in-data-provider-rector

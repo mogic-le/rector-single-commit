@@ -1,0 +1,3 @@
+Remove constructor that only delegates call to parent class with same values
+
+https://getrector.com/rule-detail/remove-parent-delegating-constructor-rector

@@ -1,0 +1,3 @@
+Add @return docblock based on detailed type of method call docblock
+
+https://getrector.com/rule-detail/add-return-docblock-from-method-call-docblock-rector

@@ -1,0 +1,3 @@
+Change dynamic class const fetch Example::{$constName} to constant(Example::class . '::' . $constName)
+
+https://wiki.php.net/rfc/dynamic_class_constant_fetch

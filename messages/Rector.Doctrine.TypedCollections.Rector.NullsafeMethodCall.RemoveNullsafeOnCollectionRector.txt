@@ -1,0 +1,3 @@
+Remove nullsafe check on method call on a Collection type
+
+https://getrector.com/rule-detail/remove-nullsafe-on-collection-rector

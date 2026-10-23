@@ -1,0 +1,3 @@
+Replace array spread with array_merge function
+
+https://wiki.php.net/rfc/spread_operator_for_array

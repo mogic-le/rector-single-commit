@@ -1,0 +1,3 @@
+Remove override attribute, if setUp()/tearDown() references parent call to improve readability
+
+https://getrector.com/rule-detail/no-setup-with-parent-call-override-rector

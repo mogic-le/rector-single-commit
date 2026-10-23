@@ -1,0 +1,3 @@
+Remove `and true` that has no added value
+
+https://getrector.com/rule-detail/remove-and-true-rector

@@ -1,0 +1,3 @@
+Remove standalone method calls with no effect
+
+https://getrector.com/rule-detail/remove-standalone-create-mock-rector

@@ -1,0 +1,3 @@
+Renames mktime() without arguments to time()
+
+https://getrector.com/rule-detail/rename-mktime-without-args-to-time-rector

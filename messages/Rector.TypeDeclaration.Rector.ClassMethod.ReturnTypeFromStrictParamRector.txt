@@ -1,0 +1,3 @@
+Add return type based on strict parameter type
+
+https://getrector.com/rule-detail/return-type-from-strict-param-rector

@@ -1,0 +1,3 @@
+Change $services->set(..., ...) to $services->load(..., ...) where meaningful
+
+https://getrector.com/rule-detail/service-setters-to-setters-autodiscovery-rector

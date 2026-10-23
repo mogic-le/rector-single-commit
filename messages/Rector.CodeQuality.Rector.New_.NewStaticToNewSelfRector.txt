@@ -1,0 +1,3 @@
+Change unsafe `new static()` to `new self()`
+
+https://getrector.com/rule-detail/new-static-to-new-self-rector

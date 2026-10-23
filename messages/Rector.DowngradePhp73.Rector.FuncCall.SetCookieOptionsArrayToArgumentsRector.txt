@@ -1,0 +1,3 @@
+Convert setcookie option array to arguments
+
+https://getrector.com/rule-detail/set-cookie-options-array-to-arguments-rector

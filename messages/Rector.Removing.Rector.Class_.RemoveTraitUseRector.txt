@@ -1,0 +1,3 @@
+Remove specific traits from code
+
+https://getrector.com/rule-detail/remove-trait-use-rector

@@ -1,0 +1,3 @@
+Change array_merge() on Collection to ->toArray()
+
+https://getrector.com/rule-detail/array-merge-on-collection-to-array-rector

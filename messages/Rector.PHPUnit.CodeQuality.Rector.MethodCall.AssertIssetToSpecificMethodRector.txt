@@ -1,0 +1,3 @@
+Turns assertTrue() + isset() comparisons to more precise assertArrayHasKey() method
+
+https://getrector.com/rule-detail/assert-isset-to-specific-method-rector

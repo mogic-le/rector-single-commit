@@ -1,0 +1,3 @@
+Simplify `is_array` and `empty` functions combination into a simple identical check for an empty array
+
+https://getrector.com/rule-detail/simplify-empty-array-check-rector

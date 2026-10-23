@@ -1,0 +1,3 @@
+Change fluent setter chain calls, to standalone line of setters
+
+https://getrector.com/rule-detail/fluent-setters-to-standalone-call-method-rector

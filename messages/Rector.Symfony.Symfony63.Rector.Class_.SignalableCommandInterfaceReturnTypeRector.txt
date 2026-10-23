@@ -1,0 +1,3 @@
+Return int or false from SignalableCommandInterface::handleSignal() instead of void
+
+https://getrector.com/rule-detail/signalable-command-interface-return-type-rector

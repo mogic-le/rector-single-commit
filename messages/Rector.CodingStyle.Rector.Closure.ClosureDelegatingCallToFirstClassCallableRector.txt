@@ -1,0 +1,3 @@
+Convert closure with sole nested call to first class callable
+
+https://getrector.com/rule-detail/closure-delegating-call-to-first-class-callable-rector

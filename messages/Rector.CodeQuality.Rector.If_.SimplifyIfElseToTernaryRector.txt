@@ -1,0 +1,3 @@
+Changes if/else for same value as assign to ternary
+
+https://getrector.com/rule-detail/simplify-if-else-to-ternary-rector

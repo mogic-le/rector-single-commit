@@ -1,0 +1,3 @@
+Event subscriber methods hooked in getSubscribedEvents() must return void, as the event is passed by reference and returning it has no effect
+
+https://getrector.com/rule-detail/event-subscriber-method-return-void-rector

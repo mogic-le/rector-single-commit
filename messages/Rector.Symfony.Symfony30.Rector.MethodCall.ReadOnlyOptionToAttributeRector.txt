@@ -1,0 +1,3 @@
+Change "read_only" option in form to attribute
+
+https://getrector.com/rule-detail/read-only-option-to-attribute-rector

@@ -1,0 +1,3 @@
+Switch negated ternary condition
+
+https://getrector.com/rule-detail/switch-negated-ternary-rector

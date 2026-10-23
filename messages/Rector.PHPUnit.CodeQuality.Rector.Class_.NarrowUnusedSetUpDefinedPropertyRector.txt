@@ -1,0 +1,3 @@
+Turn property used only in setUp() to variable
+
+https://getrector.com/rule-detail/narrow-unused-set-up-defined-property-rector

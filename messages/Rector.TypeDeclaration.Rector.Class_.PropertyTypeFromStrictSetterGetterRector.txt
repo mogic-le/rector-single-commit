@@ -1,0 +1,3 @@
+Add property type based on strict setter and getter method
+
+https://getrector.com/rule-detail/property-type-from-strict-setter-getter-rector

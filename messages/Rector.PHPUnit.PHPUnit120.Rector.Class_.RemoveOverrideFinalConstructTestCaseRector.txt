@@ -1,0 +1,3 @@
+Remove override final construct test case
+
+https://getrector.com/rule-detail/remove-override-final-construct-test-case-rector

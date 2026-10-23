@@ -1,0 +1,3 @@
+Adds a new `$filter` argument in `VarDumperTestTrait->assertDumpEquals()` and `VarDumperTestTrait->assertDumpMatchesFormat()` in Validator in Symfony.
+
+https://getrector.com/rule-detail/var-dumper-test-trait-method-args-rector

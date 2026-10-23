@@ -1,0 +1,3 @@
+Correct expected type in setter of tests, if param type is strictly defined
+
+https://getrector.com/rule-detail/scalar-argument-to-expected-param-type-rector

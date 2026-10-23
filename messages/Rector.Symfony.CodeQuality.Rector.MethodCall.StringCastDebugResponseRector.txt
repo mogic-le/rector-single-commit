@@ -1,0 +1,3 @@
+Cast responses in PHPUnit assert message to string, as required by PHPUnit
+
+https://getrector.com/rule-detail/string-cast-debug-response-rector

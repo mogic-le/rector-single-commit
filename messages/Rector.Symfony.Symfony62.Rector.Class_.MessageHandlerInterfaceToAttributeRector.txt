@@ -1,0 +1,3 @@
+Replaces MessageHandlerInterface with AsMessageHandler attribute
+
+https://getrector.com/rule-detail/message-handler-interface-to-attribute-rector

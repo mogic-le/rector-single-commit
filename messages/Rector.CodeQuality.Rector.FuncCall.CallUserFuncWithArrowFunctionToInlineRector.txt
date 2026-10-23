@@ -1,0 +1,3 @@
+Refactor `call_user_func()` with arrow function to direct call
+
+https://getrector.com/rule-detail/call-user-func-with-arrow-function-to-inline-rector

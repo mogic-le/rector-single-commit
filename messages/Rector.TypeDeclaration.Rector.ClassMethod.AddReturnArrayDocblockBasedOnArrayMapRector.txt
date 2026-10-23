@@ -1,0 +1,3 @@
+Add @return array docblock based on array_map() return strict type
+
+https://getrector.com/rule-detail/add-return-array-docblock-based-on-array-map-rector

@@ -1,0 +1,3 @@
+Simplify unnecessary foreach check of instances
+
+https://getrector.com/rule-detail/simplify-foreach-instance-of-rector

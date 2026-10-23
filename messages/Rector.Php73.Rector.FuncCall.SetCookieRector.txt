@@ -1,0 +1,3 @@
+Convert setcookie argument to PHP7.3 option array
+
+https://getrector.com/rule-detail/set-cookie-rector

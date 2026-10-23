@@ -1,0 +1,3 @@
+Turns true value to `Url::CHECK_DNS_TYPE_ANY` in Validator in Symfony.
+
+https://getrector.com/rule-detail/constraint-url-option-rector

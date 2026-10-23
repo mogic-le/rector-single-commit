@@ -1,0 +1,3 @@
+Make event object a first argument of dispatch() method, event name as second
+
+https://symfony.com/blog/new-in-symfony-4-3-simpler-event-dispatching

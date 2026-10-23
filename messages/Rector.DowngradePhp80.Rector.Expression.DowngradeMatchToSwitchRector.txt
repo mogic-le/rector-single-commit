@@ -1,0 +1,3 @@
+Downgrade match() to switch()
+
+https://wiki.php.net/rfc/match_expression_v2

@@ -1,0 +1,3 @@
+Replace "GET" string by Symfony Request object class constants
+
+https://getrector.com/rule-detail/literal-get-to-request-class-constant-rector

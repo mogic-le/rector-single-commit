@@ -1,0 +1,3 @@
+Change $container->get("some_name") in tests to bare type, useful since Symfony 3.4
+
+https://getrector.com/rule-detail/container-get-name-to-type-in-tests-rector

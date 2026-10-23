@@ -1,0 +1,3 @@
+Remove php version checks if they are passed
+
+https://getrector.com/rule-detail/unwrap-future-compatible-if-php-version-rector

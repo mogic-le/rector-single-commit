@@ -1,0 +1,3 @@
+Remove (string) casting when it comes to concat, that does this by default
+
+https://getrector.com/rule-detail/remove-concat-autocast-rector

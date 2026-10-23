@@ -1,0 +1,3 @@
+Remove useless return Expr in __construct()
+
+https://getrector.com/rule-detail/remove-useless-return-expr-in-construct-rector

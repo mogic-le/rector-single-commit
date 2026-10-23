@@ -1,0 +1,3 @@
+Return early prepared value in ifs
+
+https://getrector.com/rule-detail/prepared-value-to-early-return-rector

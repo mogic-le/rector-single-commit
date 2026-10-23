@@ -1,0 +1,3 @@
+Suffix mock object property names with "Mock" to clearly separate from real objects later on
+
+https://getrector.com/rule-detail/suffix-mock-object-property-rector

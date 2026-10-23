@@ -1,0 +1,3 @@
+Turns `preg_match` comparisons to their method name alternatives in PHPUnit TestCase
+
+https://getrector.com/rule-detail/assert-reg-exp-rector

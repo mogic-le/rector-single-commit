@@ -1,0 +1,3 @@
+Change CompositeExpression ->addMultiple($parts) to ->with(...$parts)
+
+https://getrector.com/rule-detail/change-composite-expression-add-multiple-with-with-rector

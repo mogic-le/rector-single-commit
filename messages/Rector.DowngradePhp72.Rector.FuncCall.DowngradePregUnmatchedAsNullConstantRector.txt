@@ -1,0 +1,3 @@
+Remove PREG_UNMATCHED_AS_NULL from preg_match and set null value on empty string matched on each match
+
+https://getrector.com/rule-detail/downgrade-preg-unmatched-as-null-constant-rector

@@ -1,0 +1,3 @@
+Remove defined function calls
+
+https://getrector.com/rule-detail/remove-func-call-rector

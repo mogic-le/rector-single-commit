@@ -1,0 +1,3 @@
+Turns fetching of dependencies via `$this->get()` to constructor injection in Command and Controller
+
+https://getrector.com/rule-detail/get-to-constructor-injection-rector

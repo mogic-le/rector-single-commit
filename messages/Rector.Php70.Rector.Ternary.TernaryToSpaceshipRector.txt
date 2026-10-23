@@ -1,0 +1,3 @@
+Use <=> spaceship instead of ternary with same effect
+
+https://getrector.com/rule-detail/ternary-to-spaceship-rector
