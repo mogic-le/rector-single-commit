@@ -1,0 +1,3 @@
+Migrates indexed item array keys to associative for type select, radio and check
+
+https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog/12.3/Deprecation-99739-IndexedArrayKeysForTCAItems.html

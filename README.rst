@@ -83,6 +83,25 @@ reworded messages survive updates:
 own description.
 
 
+Fractor
+-------
+``fractor-single-commit.sh`` does the same for fractor__ rules
+(TypoScript, FlexForm XML, Fluid, YAML, XLIFF)::
+
+   fractor-single-commit.sh "TICKET-23: "
+
+It needs a ``fractor.php`` in the current directory and uses the global
+``fractor`` executable. Commit messages share the ``messages/`` directory.
+A missing message file is created from the rule's description and its
+``@changelog`` link to the TYPO3 changelog.
+
+If fractor fails with a missing service (e.g. the TypoScript parser
+``Builder``), run ``composer global install`` so
+``a9f/fractor-extension-installer`` regenerates its extension list.
+
+__ https://github.com/andreaswolf/fractor
+
+
 Environment variables
 ---------------------
 
@@ -94,6 +113,7 @@ Dependencies
 ------------
 - ``bash``
 - ``rector`` 2.0 or later
+- ``fractor`` (only for ``fractor-single-commit.sh``)
 - ``jq``
 
 
