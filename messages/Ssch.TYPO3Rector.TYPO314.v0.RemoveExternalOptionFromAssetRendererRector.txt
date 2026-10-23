@@ -1,3 +1,3 @@
-Remove
+Remove "external" option from AssetRenderer
 
 https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog/14.0/Breaking-107927-ExternalAttributesRemoved.html

@@ -1,4 +1,4 @@
-Migrate ExtensionManagementUtility::makeCategorizable() to TCA type
+Migrate ExtensionManagementUtility::makeCategorizable() to TCA type "category"
 
 https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog/11.4/Deprecation-85613-CategoryRegistry.html
 https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog/11.4/Feature-94622-NewTCATypeCategory.html

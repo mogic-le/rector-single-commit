@@ -1,3 +1,3 @@
-Remove the constant `
+Remove the constant `TYPO3\CMS\Core\Domain\Repository\PageRepository::SHORTCUT_MODE_RANDOM_SUBPAGE` and its usage in arrays and binary operations (||, &&)
 
 https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog/14.0/Breaking-107654-RemoveRandomSubpageOptionOfDoktypeShortcut.html

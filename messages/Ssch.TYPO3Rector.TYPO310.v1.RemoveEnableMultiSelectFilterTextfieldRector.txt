@@ -1,3 +1,3 @@
-Remove `
+Remove `"enableMultiSelectFilterTextfield" => true` as its default from render type "selectMultipleSideBySide"
 
 https://docs.typo3.org/c/typo3/cms-core/main/en-us/Changelog/10.1/Feature-88907-AlwaysEnableFilterInSelectMultipleSideBySideFields.html
