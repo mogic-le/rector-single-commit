@@ -47,6 +47,42 @@ for a given rule.
 __ https://getrector.com/find-rule
 
 
+Syncing commit messages
+-----------------------
+``sync-rule-messages.sh`` keeps ``messages/`` in line with the rules of the
+globally installed rector packages (``rector/rector`` incl. its bundled
+symfony/phpunit/doctrine/downgrade rules, and every ``rector-extension``
+package like ``ssch/typo3-rector``)::
+
+   sync-rule-messages.sh                  # dry run, only reports
+   sync-rule-messages.sh --apply          # write the changes
+   sync-rule-messages.sh --apply ~/proj   # also rules only installed in ~/proj
+
+New files contain the rule's own description, a blank line and its
+``@changelog`` links (or its getrector.com page).
+
+``messages.lock.json`` remembers the generated content of the last sync, so
+reworded messages survive updates:
+
+``NEW``
+  Rule has no message file; it is created.
+``UPDATED``
+  Rule description changed and the file was not reworded; it is overwritten.
+``REVIEW``
+  Rule description changed but the file was reworded by hand; it is kept,
+  check the wording yourself.
+``REMOVED``
+  Rule no longer exists in its installed package; the file is deleted.
+``SKIPPED``
+  No installed package provides the rule (e.g. rector-laravel without a
+  project dir); the file is kept.
+``FAILED``
+  The rule's description could not be determined; nothing is written.
+
+``verify-rule-messages.sh`` lists all messages that differ from the rule's
+own description.
+
+
 Environment variables
 ---------------------
 
