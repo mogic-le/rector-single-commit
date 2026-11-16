@@ -1,0 +1,1 @@
+Change null check ternary around a method call or property fetch to nullsafe operator

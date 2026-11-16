@@ -1,0 +1,6 @@
+Change m2m relation pivot table name to the pivot model class
+
+Changes the pivot table name of a many to many relation to the pivot model class.
+This is not purely a naming change: the framework applies a pivot class given
+as the table as if using() had been called, so the relation's pivot instances
+gain the class's casts, accessors, $timestamps and $incrementing.
