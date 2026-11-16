@@ -1,0 +1,1 @@
+Remove dump functions like "dd" and "dump"

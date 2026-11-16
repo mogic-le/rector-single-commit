@@ -1,0 +1,1 @@
+Changes model scope methods to use the scope attribute

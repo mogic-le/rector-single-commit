@@ -1,0 +1,1 @@
+Convert string validation rules into arrays for Laravel's Validator.

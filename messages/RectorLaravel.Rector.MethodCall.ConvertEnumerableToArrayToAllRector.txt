@@ -1,0 +1,3 @@
+Convert toArray() to all()
+
+.. when the collection does not contain any Arrayable objects.

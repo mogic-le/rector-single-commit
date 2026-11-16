@@ -1,0 +1,1 @@
+Convert negated calls to "contains" to "doesntContain", or vice versa.

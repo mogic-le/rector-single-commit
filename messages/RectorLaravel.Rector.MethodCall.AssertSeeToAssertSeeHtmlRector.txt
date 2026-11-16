@@ -1,0 +1,1 @@
+Replace "assertSee" with "assertSeeHtml" when testing HTML with escape set to false

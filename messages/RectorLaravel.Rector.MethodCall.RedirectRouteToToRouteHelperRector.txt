@@ -1,0 +1,1 @@
+Replace redirect()->route("home") and Redirect::route("home") with to_route("home")

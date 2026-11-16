@@ -1,0 +1,4 @@
+Simplify bind() calls
+
+Drop the specified abstract class from the bind method
+and replace it with a closure that returns the abstract class.
